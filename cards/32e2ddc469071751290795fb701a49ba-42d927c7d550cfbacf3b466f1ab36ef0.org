@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* firmly [ˈfɜrmli]
+紧紧地;坚定地;牢牢地;坚固地;稳定地;牢固地;断然地;固定地

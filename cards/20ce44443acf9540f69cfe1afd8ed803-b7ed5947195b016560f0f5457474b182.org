@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* own [oʊn]
+所有;拥有

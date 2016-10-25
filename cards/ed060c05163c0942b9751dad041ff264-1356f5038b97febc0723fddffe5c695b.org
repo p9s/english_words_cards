@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* indication [ˌɪndɪˈkeʃən]
+指示;表示;表明

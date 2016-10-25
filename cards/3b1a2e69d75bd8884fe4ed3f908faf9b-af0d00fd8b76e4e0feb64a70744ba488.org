@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* still [stɪl]
+寂静的;静止的

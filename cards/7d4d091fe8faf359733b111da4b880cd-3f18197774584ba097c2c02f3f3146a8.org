@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* nuclear [ˈnukliə]
+原子核的;核心的

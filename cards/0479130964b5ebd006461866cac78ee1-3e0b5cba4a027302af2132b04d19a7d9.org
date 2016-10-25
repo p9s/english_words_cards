@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* freshman [ˈfrɛʃmən]
+新生;一年级学生

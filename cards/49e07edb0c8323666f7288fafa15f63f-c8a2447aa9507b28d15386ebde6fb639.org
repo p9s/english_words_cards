@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* join [dʒɔɪn]
+加入

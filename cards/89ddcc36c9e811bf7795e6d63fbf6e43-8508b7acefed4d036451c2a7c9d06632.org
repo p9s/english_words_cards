@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* amendment [əˈmɛndmənt]
+改正;修正

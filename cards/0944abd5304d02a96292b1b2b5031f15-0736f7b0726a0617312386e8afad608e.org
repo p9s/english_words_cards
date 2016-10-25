@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* purpose [ˈpɜrpəs]
+目的;意图;效果

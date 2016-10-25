@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tragic [ˈtrædʒɪk]
+悲剧性的;悲惨的

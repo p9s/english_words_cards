@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* credibility [ˌkrɛdəˈbɪlɪti]
+可信用;确实性;可靠

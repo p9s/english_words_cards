@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fabric [ˈfæbrɪk]
+织物;纺织品;结构

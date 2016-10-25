@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* territory [ˈterətɔri]
+领土;版图;领域

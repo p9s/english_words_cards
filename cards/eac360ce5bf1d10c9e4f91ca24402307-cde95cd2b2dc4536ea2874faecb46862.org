@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* quarter [ˈkwɔrtə]
+四分之一;一刻钟

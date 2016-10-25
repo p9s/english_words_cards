@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* artist [ˈɑrtɪst]
+美术家;艺术家

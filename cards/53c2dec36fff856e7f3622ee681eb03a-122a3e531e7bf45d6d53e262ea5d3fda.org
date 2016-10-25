@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* horizon [həˈraɪzn]
+地平线;眼界;见识

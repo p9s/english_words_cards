@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* home [hoʊm]
+回家;在家家

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* aisle [aɪl]
+走廊;侧廊

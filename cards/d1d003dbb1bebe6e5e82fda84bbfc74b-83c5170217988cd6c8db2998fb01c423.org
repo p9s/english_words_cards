@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* play [pleɪ]
+戏剧;表演;玩耍

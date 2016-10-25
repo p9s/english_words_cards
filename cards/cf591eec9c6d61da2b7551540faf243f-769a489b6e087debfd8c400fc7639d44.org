@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* safe [sef]
+安全的

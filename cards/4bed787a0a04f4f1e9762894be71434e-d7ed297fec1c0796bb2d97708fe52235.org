@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* intelligent [ɪnˈtɛlədʒənt]
+聪明的;理智的

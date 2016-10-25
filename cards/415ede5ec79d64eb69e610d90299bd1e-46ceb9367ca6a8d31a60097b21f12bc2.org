@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* privately [ˈpraɪvɪtlɪ]
+私下地;秘密地;一个人

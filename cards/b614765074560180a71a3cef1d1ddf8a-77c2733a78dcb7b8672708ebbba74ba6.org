@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* expect [ɪkˈspɛkt]
+料想;认为

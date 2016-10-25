@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* seventh [ˈsɛvənθ]
+第七;七分之一

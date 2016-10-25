@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mayor [ˈmeɪər]
+市长;镇长

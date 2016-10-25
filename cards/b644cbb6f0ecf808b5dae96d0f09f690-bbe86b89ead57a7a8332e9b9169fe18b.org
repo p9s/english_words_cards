@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pretend [prɪˈtɛnd]
+假托;借口假装

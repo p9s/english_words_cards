@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dictate [ˈdɪkteɪt]
+口授;命令

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lung [lʌŋ]
+肺脏;肺

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* west [wɛst]
+西部;西方

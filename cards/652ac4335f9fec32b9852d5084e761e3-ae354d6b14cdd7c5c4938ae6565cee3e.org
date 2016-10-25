@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* yesterday [ˈjestərdeɪ]
+昨天;昨日

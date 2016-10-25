@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tank [tæŋk]
+水池;槽

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* about [əˈbaʊt]
+关于;在…周围

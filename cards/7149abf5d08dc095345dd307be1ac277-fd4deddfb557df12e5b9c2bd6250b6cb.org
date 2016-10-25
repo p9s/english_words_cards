@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* render [ˈrɛndɚ]
+表示;给予;使得

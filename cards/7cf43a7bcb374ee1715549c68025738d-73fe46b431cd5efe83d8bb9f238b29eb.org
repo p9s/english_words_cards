@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Greek [ɡrik]
+希腊的希腊人

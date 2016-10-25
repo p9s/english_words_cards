@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* regain [riˈɡen]
+恢复;重回;复得

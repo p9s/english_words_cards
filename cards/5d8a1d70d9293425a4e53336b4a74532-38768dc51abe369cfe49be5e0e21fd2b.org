@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* possibility [ˌpɑsəˈbɪləti]
+可能;可能的事

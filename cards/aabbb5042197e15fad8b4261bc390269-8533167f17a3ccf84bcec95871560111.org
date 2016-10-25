@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pepper [ˈpɛpɚ]
+胡椒;胡椒粉

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* department [dɪˈpɑrtmənt]
+部;司;局;处;系

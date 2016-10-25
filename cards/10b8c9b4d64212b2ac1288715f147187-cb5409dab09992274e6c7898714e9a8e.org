@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* alley [ˈæli]
+小巷;小径

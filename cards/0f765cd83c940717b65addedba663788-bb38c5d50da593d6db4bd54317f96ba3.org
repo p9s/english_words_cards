@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* aunt [ænt]
+伯母;婶母;姑母

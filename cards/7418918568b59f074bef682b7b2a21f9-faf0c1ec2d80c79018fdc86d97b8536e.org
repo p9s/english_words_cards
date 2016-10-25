@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* drain [dren]
+排去;放水耗竭

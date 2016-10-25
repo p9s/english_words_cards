@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mirror [ˈmɪrɚ]
+镜子反映;反射

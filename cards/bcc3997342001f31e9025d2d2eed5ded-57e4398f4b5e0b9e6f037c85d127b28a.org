@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* body [ˈbɑdi]
+身体;主体;尸体

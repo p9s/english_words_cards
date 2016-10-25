@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* command [kəˈmænd]
+命令;指挥;控制

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* spit [spɪt]
+吐痰;吐唾沫

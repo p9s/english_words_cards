@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* behave [bɪˈhev]
+表现;举止;运转

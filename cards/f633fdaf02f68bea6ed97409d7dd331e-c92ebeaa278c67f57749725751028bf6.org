@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lens [lɛnz]
+透镜;镜片;镜头

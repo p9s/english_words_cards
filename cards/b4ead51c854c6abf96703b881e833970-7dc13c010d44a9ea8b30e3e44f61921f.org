@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* warning [ˈwɔrnɪŋ]
+警告;告诫;鉴诫

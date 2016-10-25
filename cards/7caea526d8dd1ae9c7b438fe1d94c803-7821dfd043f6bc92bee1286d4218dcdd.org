@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dot [dɑt]
+点;圆点打点于

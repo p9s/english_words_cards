@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pan [pæn]
+平底锅;盘子

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* politician [ˌpɑləˈtɪʃn]
+政治家;政客

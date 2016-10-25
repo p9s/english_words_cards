@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* primarily [praɪˈmɛrəli;-ˈɛ-]
+首先;主要地

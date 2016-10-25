@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* inspection [ɪnˈspɛkʃən]
+检查;审查;检阅

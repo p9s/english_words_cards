@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* guidance [ˈɡaɪdns]
+引导;指导;领导

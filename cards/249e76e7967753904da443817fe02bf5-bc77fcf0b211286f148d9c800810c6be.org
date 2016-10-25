@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* equally [ˈiːkwəli]
+相等地;相同地;同样;平等地;同样地

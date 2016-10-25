@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* law [lɔ]
+法律;法令

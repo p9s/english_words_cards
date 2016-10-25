@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* direction [dɪˈrɛkʃən;ɪ-]
+方向;方位;指导

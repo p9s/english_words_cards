@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* murder [ˈmɜrdə]
+谋杀

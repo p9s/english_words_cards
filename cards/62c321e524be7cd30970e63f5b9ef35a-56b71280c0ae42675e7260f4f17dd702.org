@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* executive [ɪɡˈzɛkjətɪv]
+总经理;董事

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* palm [pɑm]
+手掌;手心;掌状物

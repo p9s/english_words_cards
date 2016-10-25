@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* revelation [ˌrɛvəˈleʃən]
+显示;泄露的事实

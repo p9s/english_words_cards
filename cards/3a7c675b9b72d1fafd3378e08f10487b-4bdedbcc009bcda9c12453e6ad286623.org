@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* practical [ˈpræktɪkəl]
+实际的;应用的

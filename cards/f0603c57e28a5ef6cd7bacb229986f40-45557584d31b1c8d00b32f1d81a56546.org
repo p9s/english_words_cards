@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* drama [ˈdrɑmə;ˈæə]
+一出戏剧;剧本

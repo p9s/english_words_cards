@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reality [riˈælɪti]
+现实;真实

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tooth [tuθ]
+牙齿

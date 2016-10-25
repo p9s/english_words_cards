@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* optimistic [ˌɑptɪˈmɪstɪk]
+乐观的;乐观主义的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* county [ˈkaʊnti]
+英国的郡;美国的县

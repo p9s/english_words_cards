@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* formerly [ˈfɔrmərli]
+以前;从前

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cycle [ˈsaɪkəl]
+自行车;循环

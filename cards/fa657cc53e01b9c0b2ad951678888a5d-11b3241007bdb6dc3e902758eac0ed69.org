@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* activist [ˈæktəvɪst]
+积极分子

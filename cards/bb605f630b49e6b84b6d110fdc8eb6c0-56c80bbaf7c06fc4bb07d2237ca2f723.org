@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* factor [ˈfæktɚ]
+因素;因子;系数

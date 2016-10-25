@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* arrow [ˈæroʊ]
+箭;箭状物

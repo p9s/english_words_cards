@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* swimming [ˈswɪmɪŋ]
+游水;目眩

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* inevitable [ɪnˈɛvɪtəbəl]
+不可避免的;必然的

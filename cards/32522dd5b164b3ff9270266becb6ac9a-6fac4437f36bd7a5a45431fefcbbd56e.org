@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lover [ˈlʌvɚ]
+爱好者;情人;情侣

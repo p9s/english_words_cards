@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* silly [ˈsɪli]
+傻的;愚蠢的

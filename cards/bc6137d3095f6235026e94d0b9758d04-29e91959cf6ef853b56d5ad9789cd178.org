@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* triumph [ˈtraɪəmf]
+凯旋;胜利成功

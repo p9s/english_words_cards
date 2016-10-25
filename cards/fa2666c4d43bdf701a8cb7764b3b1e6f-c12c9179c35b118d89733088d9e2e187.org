@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fraud [frɔd]
+欺诈;欺骗;骗子

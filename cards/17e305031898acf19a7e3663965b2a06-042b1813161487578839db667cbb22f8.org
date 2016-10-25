@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* depression [dɪˈprɛʃən]
+沮丧;不景气;萧条

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* spread [sprɛd]
+伸开;传播传播

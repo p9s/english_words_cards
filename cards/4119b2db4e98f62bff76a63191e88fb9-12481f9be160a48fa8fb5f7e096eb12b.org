@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* soccer [ˈsɑkə]
+英式足球

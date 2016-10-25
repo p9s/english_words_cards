@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* follow [ˈfɑloʊ]
+跟随;接着

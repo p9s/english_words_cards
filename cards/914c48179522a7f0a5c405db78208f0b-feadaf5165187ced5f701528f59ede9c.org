@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* poem [ˈpoʊəm]
+诗;韵文;诗体文

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* allow [əˈlaʊ]
+允许;准许;任

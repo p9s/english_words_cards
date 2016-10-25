@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* virtual [ˈvɜrtʃuəl]
+实际上的;实质上的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* modern [ˈmɑdərn]
+现代的

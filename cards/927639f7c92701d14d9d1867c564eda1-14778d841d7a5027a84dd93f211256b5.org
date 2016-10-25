@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wire [waɪr]
+线;电线

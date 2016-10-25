@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* regular [ˈrɛɡjəlɚ]
+规则的;整齐的

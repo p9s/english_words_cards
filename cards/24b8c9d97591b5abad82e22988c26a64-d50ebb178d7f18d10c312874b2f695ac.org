@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* remain [rɪˈmen]
+保持;仍是;剩下

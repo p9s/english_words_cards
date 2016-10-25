@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* attraction [əˈtrækʃən]
+吸引;吸引力;引力

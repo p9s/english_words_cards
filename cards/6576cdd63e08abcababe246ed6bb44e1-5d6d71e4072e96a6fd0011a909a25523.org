@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* occupation [ˌɑkjuˈpeɪʃn]
+占领;占据;职业

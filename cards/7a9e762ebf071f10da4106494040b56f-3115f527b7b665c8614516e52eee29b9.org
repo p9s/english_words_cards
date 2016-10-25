@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* majority [məˈdʒɔrəti]
+多数;大多数

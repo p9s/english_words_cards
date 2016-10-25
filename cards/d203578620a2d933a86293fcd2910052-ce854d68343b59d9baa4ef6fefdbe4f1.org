@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* spine [spaɪn]
+脊椎

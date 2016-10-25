@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* interfere [ˌɪntərˈfɪr]
+干涉;干预;妨碍

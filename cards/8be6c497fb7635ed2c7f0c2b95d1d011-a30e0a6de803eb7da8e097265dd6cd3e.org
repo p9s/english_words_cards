@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* regime [reˈʒim;ɪ-]
+政体;政权;制度

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* find [faɪnd]
+找到;发现

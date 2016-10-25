@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shock [ʃɑk]
+冲击;震惊震动

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* insight [ˈɪnˌsaɪt]
+洞察力;洞悉;见识

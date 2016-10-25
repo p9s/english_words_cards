@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* import [ˈɪmpɔrt]
+输入;进口

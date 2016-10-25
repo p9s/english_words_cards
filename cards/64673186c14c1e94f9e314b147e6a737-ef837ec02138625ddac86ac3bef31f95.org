@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* skip [skɪp]
+跳;蹦跳过

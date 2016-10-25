@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mechanic [mɪˈkænɪk]
+技工;机械;机修工

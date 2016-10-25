@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* emission [ɪˈmɪʃən]
+散发;传播;发出物

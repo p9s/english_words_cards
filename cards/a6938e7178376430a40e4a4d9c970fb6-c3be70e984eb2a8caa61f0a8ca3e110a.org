@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* concede [kənˈsid]
+承认（为正确）;让步

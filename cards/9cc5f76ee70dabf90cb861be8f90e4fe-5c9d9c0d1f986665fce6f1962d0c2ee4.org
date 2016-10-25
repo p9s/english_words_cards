@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bulk [bʌlk]
+物体;容积;大批

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* announcement [əˈnaʊnsmənt]
+公告;发表;告知

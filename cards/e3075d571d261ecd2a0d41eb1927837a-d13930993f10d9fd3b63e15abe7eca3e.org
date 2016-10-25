@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ethics ['eθɪks]
+道德体系;行为准则

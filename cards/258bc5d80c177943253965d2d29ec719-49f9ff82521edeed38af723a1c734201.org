@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* culture [ˈkʌltʃɚ]
+文化;文明;教养

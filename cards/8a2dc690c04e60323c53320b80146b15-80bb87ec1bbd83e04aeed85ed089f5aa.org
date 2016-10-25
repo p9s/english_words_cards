@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fragile [ˈfrædʒl]
+脆的;体质弱的

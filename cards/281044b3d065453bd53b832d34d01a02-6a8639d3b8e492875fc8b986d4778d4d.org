@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stream [strim]
+河;溪流

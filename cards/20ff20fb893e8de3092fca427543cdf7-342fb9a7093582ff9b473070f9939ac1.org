@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fare [fer]
+车费;船费;票价

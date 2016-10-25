@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* weight [wet]
+重;砝码;重担

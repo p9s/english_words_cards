@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* likely [ˈlaɪkli]
+可能的很可能

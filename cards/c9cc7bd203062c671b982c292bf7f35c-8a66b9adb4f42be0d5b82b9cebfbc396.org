@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* starter [ˈstɑrtə]
+起跑者

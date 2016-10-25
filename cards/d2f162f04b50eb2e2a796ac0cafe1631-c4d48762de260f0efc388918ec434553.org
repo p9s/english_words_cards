@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sun [sʌn]
+太阳;日

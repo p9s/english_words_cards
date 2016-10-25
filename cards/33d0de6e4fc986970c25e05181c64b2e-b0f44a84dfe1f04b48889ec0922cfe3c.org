@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hundred [ˈhʌndrɪd]
+百;百个许多

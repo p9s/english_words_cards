@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bucket [ˈbʌkɪt]
+水桶;吊桶;铲斗

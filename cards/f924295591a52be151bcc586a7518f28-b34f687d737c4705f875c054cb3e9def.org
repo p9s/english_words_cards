@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* accompany [əˈkʌmpəni; əˈʌ]
+陪伴;陪同;伴随

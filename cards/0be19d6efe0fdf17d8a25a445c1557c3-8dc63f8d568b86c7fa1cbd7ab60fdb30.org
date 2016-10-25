@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* scenario [səˈnærioʊ]
+剧情说明书;剧本

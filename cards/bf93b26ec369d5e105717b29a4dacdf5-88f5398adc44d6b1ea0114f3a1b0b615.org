@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tackle [ˈtækəl]
+解决;对付用具

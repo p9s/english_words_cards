@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cheap [tʃip]
+廉价的;便宜的

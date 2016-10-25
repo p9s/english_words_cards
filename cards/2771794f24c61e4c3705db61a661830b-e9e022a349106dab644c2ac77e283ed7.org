@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* barrier [ˈbæriɚ]
+栅栏;屏障;障碍

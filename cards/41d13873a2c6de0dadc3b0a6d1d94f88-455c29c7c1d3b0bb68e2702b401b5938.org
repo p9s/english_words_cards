@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* distribution [ˌdɪstrəˈbjuʃən]
+分发;分配;分布

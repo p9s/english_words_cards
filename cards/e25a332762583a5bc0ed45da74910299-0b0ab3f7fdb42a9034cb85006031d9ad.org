@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* medication [ˌmɛdɪˈkeʃən]
+药疗法;药剂;药物

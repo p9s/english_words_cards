@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* book [bʊk]
+书;书籍预定

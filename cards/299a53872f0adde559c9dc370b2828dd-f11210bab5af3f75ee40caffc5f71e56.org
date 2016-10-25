@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* compromise [ˈkɑmprəmaɪz]
+妥协;和解;折衷;和解;危及;让步;妥协;危害;折衷

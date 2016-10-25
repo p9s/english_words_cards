@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hello [həˈloʊ]
+"喂;你好;

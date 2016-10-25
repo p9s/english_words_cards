@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* distinctive [dɪˈstɪŋktɪv]
+特别的;独具一格的

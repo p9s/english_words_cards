@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* summit [ˈsʌmɪt]
+顶点;最高点;极度

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* assessment [əˈsɛsmənt]
+估定;查定;估计数

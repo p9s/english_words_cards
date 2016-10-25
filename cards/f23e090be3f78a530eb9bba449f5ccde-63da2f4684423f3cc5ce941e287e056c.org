@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gathering [ˈɡæðərɪŋ]
+集会;聚会;聚集

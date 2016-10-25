@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* obligation [ˌɑblɪˈgeɪʃn]
+义务;职责;责任

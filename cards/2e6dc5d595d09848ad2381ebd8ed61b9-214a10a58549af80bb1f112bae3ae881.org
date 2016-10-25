@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* infant ['ɪnfənt]
+婴儿婴儿的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* suburban [səˈbɜrbən]
+郊外的;市郊的

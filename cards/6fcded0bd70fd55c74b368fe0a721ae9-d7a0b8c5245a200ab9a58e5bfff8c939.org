@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* paint [pent]
+漆;画油漆

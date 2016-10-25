@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* coat [koʊt]
+外套;上衣;表皮

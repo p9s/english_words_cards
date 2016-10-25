@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* private [ˈpraɪvɪt]
+私人的;私下的

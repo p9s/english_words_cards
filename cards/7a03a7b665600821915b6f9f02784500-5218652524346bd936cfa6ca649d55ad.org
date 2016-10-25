@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* requirement [rɪˈkwaɪərmənt]
+需要;要求

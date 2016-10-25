@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* openly [ˈoʊpənli]
+公开地;直率地

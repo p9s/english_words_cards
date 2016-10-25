@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* vacation [veˈkeʃən;ə-]
+假期;休假

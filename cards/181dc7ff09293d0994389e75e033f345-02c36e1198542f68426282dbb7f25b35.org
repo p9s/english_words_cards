@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* constitute [ˈkɑnstətut]
+构成;组成

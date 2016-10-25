@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ahead [əˈhɛd]
+在前面;在前头

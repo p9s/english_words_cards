@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* yourself [jərˈself]
+你自己;你亲自

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* royal [ˈrɔɪəl]
+王的;皇家的

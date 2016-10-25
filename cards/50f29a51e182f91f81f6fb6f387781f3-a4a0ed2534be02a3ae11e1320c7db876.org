@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* safety [ˈsefti]
+安全;保险

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* airline [ˈerlaɪn]
+航空公司;航线

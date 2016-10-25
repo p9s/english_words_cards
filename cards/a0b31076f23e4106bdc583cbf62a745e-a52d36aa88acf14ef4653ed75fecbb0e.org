@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cease [sis]
+停止;停息

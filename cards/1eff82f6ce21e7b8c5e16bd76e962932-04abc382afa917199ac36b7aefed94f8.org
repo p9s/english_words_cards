@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* segment [ˈsɛɡmənt]
+切片;部分;段;节

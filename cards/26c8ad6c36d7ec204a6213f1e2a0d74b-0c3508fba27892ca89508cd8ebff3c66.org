@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* commercial [kəˈmɜrʃl]
+商业的;商品化的

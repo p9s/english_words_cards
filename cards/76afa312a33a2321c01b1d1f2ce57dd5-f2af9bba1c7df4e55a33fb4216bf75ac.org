@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* diet [ˈdaɪɪt]
+饮食;食物

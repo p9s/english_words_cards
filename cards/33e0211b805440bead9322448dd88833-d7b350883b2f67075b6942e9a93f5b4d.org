@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* host [hoʊst]
+主人;东道主

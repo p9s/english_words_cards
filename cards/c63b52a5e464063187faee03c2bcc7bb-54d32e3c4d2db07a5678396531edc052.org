@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* membership [ˈmembərʃɪp]
+成员资格;会员人数

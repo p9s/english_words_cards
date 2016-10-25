@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* purchase [ˈpɜrtʃəs]
+买;购买买

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* possess [pəˈzɛs]
+占用;拥有

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* supplier [səˈplaɪər]
+供应商;供应者;供应厂商

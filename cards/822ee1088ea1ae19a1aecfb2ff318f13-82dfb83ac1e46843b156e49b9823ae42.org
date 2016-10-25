@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* therapy [ˈθɛrəpi]
+治疗;疗法;理疗

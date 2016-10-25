@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* generally [ˈdʒɛnərəli]
+一般地;通常地

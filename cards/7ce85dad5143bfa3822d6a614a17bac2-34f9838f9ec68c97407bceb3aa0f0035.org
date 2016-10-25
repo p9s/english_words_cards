@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shed [ʃed]
+棚;小屋

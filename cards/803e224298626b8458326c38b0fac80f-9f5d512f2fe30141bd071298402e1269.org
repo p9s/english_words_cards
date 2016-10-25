@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bring [brɪŋ]
+带来;引出;促使

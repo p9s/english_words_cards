@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* clock [klɑk]
+钟;仪表

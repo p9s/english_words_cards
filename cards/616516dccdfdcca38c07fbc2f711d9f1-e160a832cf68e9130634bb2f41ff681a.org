@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* policeman [pəˈlismən]
+警察

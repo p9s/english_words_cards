@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* participation [pɑrˌtɪsɪˈpeɪʃn]
+参与

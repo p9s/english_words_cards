@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ghost [goʊst]
+鬼;灵魂;鬼魂

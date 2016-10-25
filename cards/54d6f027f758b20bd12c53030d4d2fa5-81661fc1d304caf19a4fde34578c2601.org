@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* corporate [ˈkɔrpərət]
+团体的;共同的

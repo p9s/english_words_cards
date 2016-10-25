@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* convenience [kənˈvinjəns]
+便利;方便;厕所

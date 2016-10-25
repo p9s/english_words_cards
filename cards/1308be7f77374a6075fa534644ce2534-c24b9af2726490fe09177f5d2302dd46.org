@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* uncover [ʌnˈkʌvɚ]
+揭开的盖子

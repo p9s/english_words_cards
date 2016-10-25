@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* organism [ˈɔrgənɪzəm]
+生物体;有机体

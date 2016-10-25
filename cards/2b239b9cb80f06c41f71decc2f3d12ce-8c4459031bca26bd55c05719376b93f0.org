@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fix [fɪks]
+使固定;决定

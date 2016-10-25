@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pasta [ˈpɑstə]
+意大利面制品;意大利面食

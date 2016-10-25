@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* teammate [ˈtimˌmet]
+同队队员;队友

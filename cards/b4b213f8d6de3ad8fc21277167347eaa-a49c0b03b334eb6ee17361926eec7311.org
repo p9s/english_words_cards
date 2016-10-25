@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* steadily [ˈstɛdəlɪ]
+稳定地;不变地

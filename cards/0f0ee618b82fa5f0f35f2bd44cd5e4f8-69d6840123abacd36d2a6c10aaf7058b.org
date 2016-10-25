@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* canvas [ˈkænvəs]
+粗帆布;一块油画布

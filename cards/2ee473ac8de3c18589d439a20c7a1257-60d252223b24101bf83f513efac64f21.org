@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* authorize [ˈɔθəˌraɪz]
+授权;批准

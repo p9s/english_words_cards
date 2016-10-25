@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* office [ˈɔfɪs]
+办公室;处;局;社

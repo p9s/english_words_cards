@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* jump [dʒʌmp]
+跳;暴涨跳过

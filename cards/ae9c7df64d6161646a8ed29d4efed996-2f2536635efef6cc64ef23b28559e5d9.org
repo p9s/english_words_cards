@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* incorporate [ɪnˈkɔrpəreɪt]
+结合;合并;收编

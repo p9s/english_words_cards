@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* assemble [əˈsɛmbəl]
+集合;召集;装配

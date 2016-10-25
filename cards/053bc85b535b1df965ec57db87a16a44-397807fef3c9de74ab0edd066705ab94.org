@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* audience [ˈɔdiəns]
+听众;观众;读者

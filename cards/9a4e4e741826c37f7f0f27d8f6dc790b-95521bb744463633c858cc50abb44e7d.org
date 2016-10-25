@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* music [ˈmjuzɪk]
+音乐

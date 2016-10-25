@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* monitor [ˈmɑnɪtə]
+班长;监视器

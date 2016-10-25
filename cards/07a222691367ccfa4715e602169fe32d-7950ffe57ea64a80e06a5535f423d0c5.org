@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* earn [ɜrn]
+赚得;挣得;获得

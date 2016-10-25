@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* output [ˈaʊtˌpʊt]
+产量;输出量;输出

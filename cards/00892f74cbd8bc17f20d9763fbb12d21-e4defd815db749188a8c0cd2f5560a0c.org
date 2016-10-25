@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* psychological [ˌsaɪkəˈlɑdʒɪkl]
+心理的;心理学的

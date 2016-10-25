@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* move [muv]
+行动;步骤

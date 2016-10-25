@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* post [poʊst]
+投寄;邮寄邮局

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* nose [noʊz]
+鼻子

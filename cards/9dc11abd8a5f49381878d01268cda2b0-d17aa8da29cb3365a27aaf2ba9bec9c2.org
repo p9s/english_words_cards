@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stop [stɑp]
+塞住;阻止;停止

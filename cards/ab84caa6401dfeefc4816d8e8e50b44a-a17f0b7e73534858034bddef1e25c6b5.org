@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* alive [əˈlaɪv]
+活着

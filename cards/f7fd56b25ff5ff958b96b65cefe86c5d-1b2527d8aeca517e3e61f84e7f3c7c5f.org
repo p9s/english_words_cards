@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ball [bɔl]
+球

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stove [stoʊv]
+炉;火炉;电炉

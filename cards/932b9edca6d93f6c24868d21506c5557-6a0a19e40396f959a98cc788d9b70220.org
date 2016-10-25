@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pop [pɑp]
+流行音乐;流行歌曲

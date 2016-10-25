@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* organization [ˌɔrgənəˈzeɪʃn]
+组织;团体;机构

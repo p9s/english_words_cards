@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* magnetic [mæɡˈnɛtɪk]
+磁的;有吸引力的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* out [aʊt]
+出;在外;现出来

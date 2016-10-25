@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* variable [ˈveriəbl]
+易变的变量

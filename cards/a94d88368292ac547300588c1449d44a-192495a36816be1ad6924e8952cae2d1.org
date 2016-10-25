@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* oppose [əˈpoʊz]
+反对;反抗

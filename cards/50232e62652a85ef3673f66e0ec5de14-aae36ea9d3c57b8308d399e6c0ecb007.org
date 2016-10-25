@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* salmon [ˈsæmən]
+鲑;大马哈鱼

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* factory [ˈfæktəri]
+工厂;制造厂

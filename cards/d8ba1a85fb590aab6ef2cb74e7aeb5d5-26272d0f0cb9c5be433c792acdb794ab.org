@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* buck [bʌk]
+强烈反对;吹牛;雄鹿;美元

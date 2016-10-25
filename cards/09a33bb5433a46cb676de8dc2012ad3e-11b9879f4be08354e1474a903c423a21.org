@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* window [ˈwɪndoʊ]
+窗子;窗户;窗口

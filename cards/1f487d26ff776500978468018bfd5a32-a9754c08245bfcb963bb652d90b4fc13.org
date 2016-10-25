@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* straight [stret]
+直的;正直的直

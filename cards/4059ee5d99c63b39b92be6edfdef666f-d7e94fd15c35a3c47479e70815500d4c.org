@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* depart [dɪˈpɑrt]
+离开;起程;出发

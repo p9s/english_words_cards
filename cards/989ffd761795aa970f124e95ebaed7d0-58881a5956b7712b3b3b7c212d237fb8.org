@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* constantly [ˈkɑnstəntli]
+经常地;不断地;不变地;经常地

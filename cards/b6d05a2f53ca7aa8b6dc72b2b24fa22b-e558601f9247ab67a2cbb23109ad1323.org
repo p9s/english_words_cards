@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* access [ˈæksɛs]
+接近;通道;入口

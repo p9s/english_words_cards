@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* substantial [səbˈstænʃəl]
+物质的;坚固的

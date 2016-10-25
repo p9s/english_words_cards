@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* interval [ˈɪntərvl]
+间隔;休息;间距

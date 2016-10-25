@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mount [maʊnt]
+登上;爬上…山

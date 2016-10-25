@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* accessible [ækˈsɛsəbəl]
+易达到的;易受影响的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tropical [ˈtrɑpɪkl]
+热带的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fiscal [ˈfɪskəl]
+公款的;财政的

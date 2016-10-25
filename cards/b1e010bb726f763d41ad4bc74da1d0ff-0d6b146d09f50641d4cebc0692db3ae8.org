@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* roll [roʊl]
+打滚;滚动

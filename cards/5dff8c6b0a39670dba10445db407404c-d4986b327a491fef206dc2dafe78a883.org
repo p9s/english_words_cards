@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* preserve [prɪˈzɜrv]
+保护;保存;腌渍

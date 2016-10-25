@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* herb [ɜrb]
+草本植物;香草

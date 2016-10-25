@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* season [ˈsizən]
+季;季节;时节

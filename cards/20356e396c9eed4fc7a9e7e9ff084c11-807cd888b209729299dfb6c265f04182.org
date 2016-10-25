@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* formation [fɔrˈmeɪʃn]
+形成;构成;形成物

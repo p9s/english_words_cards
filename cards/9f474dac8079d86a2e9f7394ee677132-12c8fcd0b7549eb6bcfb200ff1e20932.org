@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* permanent [ˈpɜrmənənt]
+永久的;持久的

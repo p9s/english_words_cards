@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cue [kju]
+开端;线索;发辫;长队;开始

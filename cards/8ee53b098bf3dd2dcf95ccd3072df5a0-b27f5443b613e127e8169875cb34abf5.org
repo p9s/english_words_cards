@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fantastic [fænˈtæstɪk]
+空想的;奇异的

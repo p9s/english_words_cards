@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* laundry [ˈlɔndri;ˈɑ-]
+送洗衣店去洗的东西

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* plunge [plʌndʒ]
+投入

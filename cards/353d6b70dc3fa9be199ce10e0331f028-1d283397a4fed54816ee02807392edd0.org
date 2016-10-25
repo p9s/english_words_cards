@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* campaign [kæmˈpen]
+战役;运动

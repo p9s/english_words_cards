@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* grasp [græsp]
+抓住;领会;掌握

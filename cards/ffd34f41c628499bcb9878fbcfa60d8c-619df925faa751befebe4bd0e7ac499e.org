@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* endure [ɪnˈdʊr]
+忍受;容忍

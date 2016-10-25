@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* acid [ˈæsɪd]
+酸;酸的;酸性的

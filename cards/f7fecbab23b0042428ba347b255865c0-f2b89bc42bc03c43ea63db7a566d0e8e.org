@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cable [ˈkebəl]
+海底电报

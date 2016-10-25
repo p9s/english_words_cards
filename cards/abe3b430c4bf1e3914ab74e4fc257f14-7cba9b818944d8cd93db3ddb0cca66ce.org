@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fixed [fɪkst]
+坚决的;固定的;已确定的;确定了的;不变的

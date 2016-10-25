@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* airport [ˈerpɔrt]
+机场;航空站

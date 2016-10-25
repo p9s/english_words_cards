@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sponsor [ˈspɑnsə]
+发起者发起

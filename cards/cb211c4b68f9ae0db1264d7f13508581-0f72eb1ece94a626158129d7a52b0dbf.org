@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reduction [rɪˈdʌkʃən]
+减少;减小;缩减

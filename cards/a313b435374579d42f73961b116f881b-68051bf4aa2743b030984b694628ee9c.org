@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* database [ˈdetəˌbes;ˈæə-]
+数据库

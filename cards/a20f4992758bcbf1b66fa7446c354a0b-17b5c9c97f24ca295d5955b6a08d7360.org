@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* evening [ˈivnɪŋ]
+傍晚;晚上

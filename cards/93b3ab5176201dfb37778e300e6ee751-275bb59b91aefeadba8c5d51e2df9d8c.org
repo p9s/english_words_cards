@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* booth [buθ]
+货摊;公用电话亭

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* written [ˈrɪtn]
+写作的;书面的;的过去分词

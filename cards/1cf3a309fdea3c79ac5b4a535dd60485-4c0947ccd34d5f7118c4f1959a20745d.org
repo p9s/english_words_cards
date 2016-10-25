@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* code [koʊd]
+准则;法典;代码

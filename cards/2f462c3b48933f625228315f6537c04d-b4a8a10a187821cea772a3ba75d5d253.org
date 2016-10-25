@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* identify [aɪˈdɛntəˌfaɪ]
+认出;识别;鉴定

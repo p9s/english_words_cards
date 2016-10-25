@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* minimize [ˈmɪnəˌmaɪz]
+使减到最小

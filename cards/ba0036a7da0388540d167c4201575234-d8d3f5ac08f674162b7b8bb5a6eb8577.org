@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* enemy [ˈɛnəmi]
+敌人;仇敌;敌兵

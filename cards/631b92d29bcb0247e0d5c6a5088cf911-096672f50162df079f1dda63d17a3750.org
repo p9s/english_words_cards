@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* garbage [ˈgɑrbɪdʒ]
+垃圾;污物;废料

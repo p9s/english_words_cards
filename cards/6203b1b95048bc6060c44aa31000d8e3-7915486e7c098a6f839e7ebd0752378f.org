@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* peaceful [ˈpisfəl]
+和平的;安静的

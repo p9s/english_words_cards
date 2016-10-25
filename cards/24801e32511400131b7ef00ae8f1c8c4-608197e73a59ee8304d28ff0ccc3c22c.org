@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mention [ˈmɛnʃən]
+提到;说起

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* beautiful [ˈbjutəfəl]
+美的;美丽的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* protocol [ˈproʊtəkɔl]
+外交礼节;协议

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* logic [ˈlɑdʒɪk]
+逻辑;推理;逻辑性

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* export [ˈekspɔrt]
+输出;出口;运走

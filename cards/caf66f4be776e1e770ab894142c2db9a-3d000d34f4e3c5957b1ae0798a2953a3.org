@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gap [ɡæp]
+空隙;缺口

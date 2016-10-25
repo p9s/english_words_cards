@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* coast [koʊst]
+海岸;海滨

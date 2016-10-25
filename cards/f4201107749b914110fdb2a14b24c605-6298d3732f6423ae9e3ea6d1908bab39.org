@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* guy [ɡaɪ]
+（铁塔等的）支索;牵索

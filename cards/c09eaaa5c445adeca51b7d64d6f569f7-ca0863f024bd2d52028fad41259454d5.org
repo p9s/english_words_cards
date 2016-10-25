@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* woman [ˈwʊmən]
+妇女;女人

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* predator [ˈprɛdətɚ;-ˌɔ]
+食肉动物

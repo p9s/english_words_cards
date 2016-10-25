@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* amid [ə'mɪd]
+在中间

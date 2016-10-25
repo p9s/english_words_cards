@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* agent [ˈedʒənt]
+代理人;代理商

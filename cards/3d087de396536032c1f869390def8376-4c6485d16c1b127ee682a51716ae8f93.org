@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mutual [ˈmjutʃuəl]
+相互的;共同的

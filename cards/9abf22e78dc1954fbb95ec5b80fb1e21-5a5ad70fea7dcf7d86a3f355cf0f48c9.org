@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* insurance [ɪnˈʃʊrəns]
+保险;保险费

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* terrorism [ˈtɛrəˌrɪzəm]
+恐怖主义

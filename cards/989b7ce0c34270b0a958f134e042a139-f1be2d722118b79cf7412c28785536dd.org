@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* chamber [ˈtʃembɚ]
+会议室;房间;腔

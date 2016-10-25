@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* crucial [ˈkruʃəl]
+至关重要的

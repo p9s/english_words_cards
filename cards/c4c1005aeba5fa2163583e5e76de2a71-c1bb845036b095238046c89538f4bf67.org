@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* apologize [əˈpɑlədʒaɪz]
+道歉;谢罪;认错

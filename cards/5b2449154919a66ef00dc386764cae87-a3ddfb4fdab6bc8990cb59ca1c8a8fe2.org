@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* horrible [ˈhɔrəbl]
+可怕的;极讨厌的

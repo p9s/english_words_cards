@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* simple [ˈsɪmpəl]
+单纯的;简易的

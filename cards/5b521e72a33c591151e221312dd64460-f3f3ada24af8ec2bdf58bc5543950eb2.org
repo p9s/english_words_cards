@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* foster [ˈfɔstə]
+养育;抚养;培养

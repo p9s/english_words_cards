@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lemon [ˈlɛmən]
+柠檬;柠檬树

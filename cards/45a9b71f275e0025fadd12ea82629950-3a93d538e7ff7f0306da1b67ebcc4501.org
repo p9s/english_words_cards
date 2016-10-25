@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* marketing [ˈmɑrkɪtɪŋ]
+市场学;营销学;销售学;销售业务

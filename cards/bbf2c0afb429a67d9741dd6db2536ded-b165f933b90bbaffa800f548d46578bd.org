@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dark [dɑrk]
+黑暗的

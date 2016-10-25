@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tobacco [təˈbækoʊ]
+烟草;烟叶

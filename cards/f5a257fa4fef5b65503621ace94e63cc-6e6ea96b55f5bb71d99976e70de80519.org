@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* vacuum [ˈvækjuəm]
+真空;真空吸尘器

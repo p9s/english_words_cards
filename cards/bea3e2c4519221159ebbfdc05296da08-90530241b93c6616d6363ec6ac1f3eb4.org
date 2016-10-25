@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* abroad [əˈbrɔd]
+国外;到处

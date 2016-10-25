@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* extension [ɪkˈstɛnʃən]
+延长部分;伸展

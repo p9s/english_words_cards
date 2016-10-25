@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* flavor [ˈflevɚ]
+滋味;香料

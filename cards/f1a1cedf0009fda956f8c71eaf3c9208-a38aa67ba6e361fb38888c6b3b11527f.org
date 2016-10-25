@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* principal [ˈprɪnsəpəl]
+主要的负责人

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sustain [səˈsten]
+支撑;供养;忍受

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* homeless [ˈhoʊmləs]
+无家的;无养主的

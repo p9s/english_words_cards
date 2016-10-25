@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wrap [ræp]
+裹;包;捆披肩

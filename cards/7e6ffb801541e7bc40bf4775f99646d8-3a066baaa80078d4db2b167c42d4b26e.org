@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* correspondent [ˌkɔrəˈspɑndənt]
+通信者;通讯员

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hormone [ˈhɔrmoʊn]
+激素;荷尔蒙;内分泌

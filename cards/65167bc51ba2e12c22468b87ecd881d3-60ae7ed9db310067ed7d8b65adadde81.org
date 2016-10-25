@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* garlic [ˈgɑrlɪk]
+蒜;大蒜

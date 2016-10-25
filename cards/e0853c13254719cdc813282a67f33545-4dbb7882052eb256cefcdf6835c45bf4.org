@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* portrait [ˈpɔrtrət]
+肖像;画像;描写

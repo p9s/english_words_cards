@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* opera [ˈɑprə]
+歌剧

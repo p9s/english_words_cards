@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* creature [ˈkritʃɚ]
+生物;动物;家畜

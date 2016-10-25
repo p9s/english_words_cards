@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cell [sɛl]
+细胞;小房间

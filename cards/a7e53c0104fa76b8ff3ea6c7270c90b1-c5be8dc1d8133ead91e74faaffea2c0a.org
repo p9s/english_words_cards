@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rod [rɑd]
+杆;竿;棒

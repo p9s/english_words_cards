@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* birth [bɜrθ]
+分娩;诞生;出身

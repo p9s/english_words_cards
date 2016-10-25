@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cool [kul]
+凉快;冷却

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tide [taɪd]
+潮;潮水

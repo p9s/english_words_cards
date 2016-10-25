@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* number [ˈnʌmbɚ]
+共计;达…之数

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* understanding [ˌʌndərˈstændɪŋ]
+理解;理解力;协定

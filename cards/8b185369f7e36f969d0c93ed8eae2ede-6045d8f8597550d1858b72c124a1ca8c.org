@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* as [æz;əz]
+因为;由于

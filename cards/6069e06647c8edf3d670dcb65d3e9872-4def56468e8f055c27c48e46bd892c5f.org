@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* old-fashioned [ˈoldˈfæʃənd]
+旧式的;保守的;挑剔的

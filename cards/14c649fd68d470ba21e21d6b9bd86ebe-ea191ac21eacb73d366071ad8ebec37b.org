@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* articulate [ɑrˈtɪkjuleɪt]
+清楚说话;接合

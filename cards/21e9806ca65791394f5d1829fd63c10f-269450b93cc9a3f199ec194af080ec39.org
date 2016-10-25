@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* consultant [kənˈsʌltənt]
+咨询顾问顾问;会诊医生

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* expensive [ɪkˈspɛnsɪv]
+昂贵的

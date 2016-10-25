@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* but [bʌt;bət]
+但是;可是

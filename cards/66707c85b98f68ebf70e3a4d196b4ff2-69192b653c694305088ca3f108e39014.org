@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* trade [treid]
+经商;进行贸易

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* coastal [ˈkoʊstl]
+海岸的;沿海的;沿岸的

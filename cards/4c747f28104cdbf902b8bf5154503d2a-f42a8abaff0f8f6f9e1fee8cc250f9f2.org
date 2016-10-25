@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sigh [saɪ]
+叹气;叹息

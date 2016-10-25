@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* radar [ˈredɑr]
+雷达;无线电探测器

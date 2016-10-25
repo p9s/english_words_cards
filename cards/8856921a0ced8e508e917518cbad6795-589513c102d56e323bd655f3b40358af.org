@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* economy [ɪˈkɑnəmi]
+经济;节约;节省

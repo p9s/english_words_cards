@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* breakfast [ˈbrekfəst]
+早饭;早餐

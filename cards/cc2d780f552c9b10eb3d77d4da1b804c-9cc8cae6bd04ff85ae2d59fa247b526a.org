@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* deeply [ˈdiplɪ]
+深深地;深切地

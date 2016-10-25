@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* metaphor [ˈmɛtəˌfɔr;-ɚ]
+隐喻;暗喻

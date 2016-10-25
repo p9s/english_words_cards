@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* illegal [ɪˈliɡəl]
+不合法的;非法的

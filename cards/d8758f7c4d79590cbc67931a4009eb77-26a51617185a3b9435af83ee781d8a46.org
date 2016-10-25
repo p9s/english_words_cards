@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* background [ˈbækˌɡraʊnd]
+背景;后景;经历

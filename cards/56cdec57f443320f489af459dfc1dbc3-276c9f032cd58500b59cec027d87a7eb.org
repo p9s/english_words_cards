@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* comparison [kəmˈpærɪsən]
+比较;对照;比似

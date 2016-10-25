@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* manage [ˈmænɪdʒ]
+设法;对付

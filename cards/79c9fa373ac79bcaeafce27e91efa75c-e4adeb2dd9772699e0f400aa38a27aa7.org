@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* opportunity [ˌɑpərˈtunəti]
+机会;良机

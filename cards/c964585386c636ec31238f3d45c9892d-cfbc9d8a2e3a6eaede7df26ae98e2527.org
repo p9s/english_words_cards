@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* closed [kloʊzd]
+关着的;关闭的;停业的;闭迹

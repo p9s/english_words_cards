@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* opposite [ˈɑpəzət]
+对面的;相对的

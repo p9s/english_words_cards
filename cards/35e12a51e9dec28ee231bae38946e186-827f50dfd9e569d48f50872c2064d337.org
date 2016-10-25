@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* empire [ˈɛmˌpaɪr]
+帝国

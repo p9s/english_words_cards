@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* panel [ˈpænəl]
+专门小组;面;板

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* obviously [ˈɑbviəsli]
+显而易见地

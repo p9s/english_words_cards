@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* control [kənˈtroʊl]
+控制;支配

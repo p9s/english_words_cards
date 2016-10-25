@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rim [rɪm]
+边;边缘;框

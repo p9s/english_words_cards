@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* teaching [ˈtitʃɪŋ]
+教学;讲授;教导

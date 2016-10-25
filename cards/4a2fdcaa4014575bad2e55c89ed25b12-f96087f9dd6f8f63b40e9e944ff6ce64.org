@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* prior [ˈpraɪɚ]
+在先的;优先的

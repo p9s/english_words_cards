@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* glass [glæs]
+玻璃;玻璃杯

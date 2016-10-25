@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* growing [ˈgroʊɪŋ]
+分类;分组;成群

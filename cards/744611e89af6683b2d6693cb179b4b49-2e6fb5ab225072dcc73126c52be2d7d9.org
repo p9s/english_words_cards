@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* advance [ədˈvæns]
+前进;提高进展

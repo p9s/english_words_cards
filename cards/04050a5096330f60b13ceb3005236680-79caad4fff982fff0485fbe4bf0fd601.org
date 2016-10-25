@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* flat [flæt]
+平的;扁平的

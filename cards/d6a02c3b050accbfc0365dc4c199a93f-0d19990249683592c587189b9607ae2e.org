@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* homework [ˈhoʊmwɜrk]
+家庭作业

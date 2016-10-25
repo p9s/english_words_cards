@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* criticize [ˈkrɪtɪˌsaɪz]
+批评;责备

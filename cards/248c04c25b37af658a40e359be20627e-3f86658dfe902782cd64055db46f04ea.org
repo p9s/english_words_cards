@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* harm [hɑrm]
+伤害;损害损害

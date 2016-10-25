@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pray [pre]
+请求;祈祷

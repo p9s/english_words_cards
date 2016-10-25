@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* consistent [kənˈsɪstənt]
+前后一致的;连贯的

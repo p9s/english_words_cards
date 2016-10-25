@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* adapt [əˈdæpt]
+使适应;改编

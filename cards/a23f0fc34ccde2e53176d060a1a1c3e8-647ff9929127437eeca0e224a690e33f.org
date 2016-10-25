@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* counselor [ˈkaʊnsəlɚ;-ɚ]
+顾问;参事;法律顾问

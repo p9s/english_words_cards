@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* prompt [prɑmpt]
+及时的敦促

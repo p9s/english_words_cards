@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* survive [sərˈvaɪv]
+幸免于活下来

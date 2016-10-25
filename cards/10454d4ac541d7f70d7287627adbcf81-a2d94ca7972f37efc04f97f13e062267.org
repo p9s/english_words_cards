@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* odds [ɑdz]
+困难;差额;可能性;差异;机会;优势

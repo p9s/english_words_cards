@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shy [ʃaɪ]
+易受惊的;害羞的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* surprise [sərˈpraɪz]
+惊奇;诧异

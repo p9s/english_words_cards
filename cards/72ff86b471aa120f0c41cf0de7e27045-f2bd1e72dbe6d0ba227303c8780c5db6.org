@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* regardless [rɪˈgɑrdləs]
+不顾一切地

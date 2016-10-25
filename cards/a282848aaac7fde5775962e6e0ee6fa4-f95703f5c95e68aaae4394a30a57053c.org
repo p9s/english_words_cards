@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gain [ɡen]
+获得利益

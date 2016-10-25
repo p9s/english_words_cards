@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* financial [faɪˈnænʃl]
+财政的;金融的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* use [jus]
+用;耗费用

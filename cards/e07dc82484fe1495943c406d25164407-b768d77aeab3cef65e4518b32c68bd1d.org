@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ear [ɪr]
+耳朵;听力;听觉

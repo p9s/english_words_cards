@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* highly ['haɪlɪ]
+高度地;非常;很;十分;赞许地

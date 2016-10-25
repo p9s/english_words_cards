@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* chew [tʃu]
+咀嚼;嚼碎

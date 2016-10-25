@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* myself [maɪˈsɛlf]
+我自己

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ridge [rɪdʒ]
+脊;岭;山脉;垄

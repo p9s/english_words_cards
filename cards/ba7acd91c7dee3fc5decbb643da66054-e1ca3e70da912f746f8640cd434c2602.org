@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* technician [tɛkˈnɪʃən]
+技术员;技师

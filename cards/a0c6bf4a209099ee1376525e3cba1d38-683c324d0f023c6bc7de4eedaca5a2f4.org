@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* personnel [ˌpɜrsəˈnel]
+全体人员;全体职员

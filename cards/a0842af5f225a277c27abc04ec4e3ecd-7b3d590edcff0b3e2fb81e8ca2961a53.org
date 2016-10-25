@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* obstacle [ˈɑbstəkl]
+障碍;障碍物;妨害

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wound [waʊnd]
+创伤;伤使受伤

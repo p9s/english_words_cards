@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* buyer [ˈbaɪɚ]
+买主;买方

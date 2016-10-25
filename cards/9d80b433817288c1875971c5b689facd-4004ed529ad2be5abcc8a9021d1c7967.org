@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* currency [ˈkɜrənsi]
+通货;通用;市价

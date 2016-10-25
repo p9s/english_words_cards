@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* unlikely [ʌnˈlaɪkli]
+未必的;未必可能的

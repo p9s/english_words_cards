@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* memory [ˈmɛməri]
+记忆;回忆;存储

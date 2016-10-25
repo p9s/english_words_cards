@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bed [bɛd]
+床

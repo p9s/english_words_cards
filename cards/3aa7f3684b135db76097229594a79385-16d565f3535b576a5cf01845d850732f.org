@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* survival [sərˈvaɪvl]
+幸存;生存

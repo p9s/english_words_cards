@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* leave [liv]
+离开;剩下离去

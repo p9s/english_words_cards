@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* boat [boʊt]
+小船;艇;渔船

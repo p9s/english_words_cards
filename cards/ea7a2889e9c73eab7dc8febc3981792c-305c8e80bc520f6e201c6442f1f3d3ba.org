@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* charity [ˈtʃærɪti]
+施舍;慈善事业

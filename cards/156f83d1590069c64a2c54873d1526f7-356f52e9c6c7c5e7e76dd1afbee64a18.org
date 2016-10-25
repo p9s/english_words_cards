@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bride [braɪd]
+新娘

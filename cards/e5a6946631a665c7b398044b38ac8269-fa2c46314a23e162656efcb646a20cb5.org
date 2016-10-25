@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wave [wev]
+波;波浪;波动

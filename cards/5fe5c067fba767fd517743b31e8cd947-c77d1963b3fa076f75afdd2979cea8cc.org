@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* crush [krʌʃ]
+压碎;碾碎;镇压

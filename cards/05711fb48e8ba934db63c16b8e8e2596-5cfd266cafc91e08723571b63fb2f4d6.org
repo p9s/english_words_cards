@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* privilege [ˈprɪvəlɪdʒ;ˈɪɪʒ]
+特权;优惠

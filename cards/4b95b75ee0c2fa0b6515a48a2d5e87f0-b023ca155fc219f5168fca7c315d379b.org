@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* heat [hit]
+热;炎热变热

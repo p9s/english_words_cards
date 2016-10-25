@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* presumably [prɪˈzuməbli]
+也许;大概;推测起来;假定地;推测地

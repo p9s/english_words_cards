@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fork [fɔrk]
+叉;餐叉

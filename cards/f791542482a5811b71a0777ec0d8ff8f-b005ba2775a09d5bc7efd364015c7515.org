@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* difference [ˈdɪfərəns;ˈɪə]
+差别;差;分歧

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* domain [doʊˈmeɪn]
+领土;领域

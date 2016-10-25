@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tire [taɪr]
+疲劳;累;厌倦

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rubber [ˈrʌbɚ]
+橡皮

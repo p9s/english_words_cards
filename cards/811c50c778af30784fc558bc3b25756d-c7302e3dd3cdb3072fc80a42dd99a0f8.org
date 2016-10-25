@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mark [mɑrk]
+痕迹;记号;商标

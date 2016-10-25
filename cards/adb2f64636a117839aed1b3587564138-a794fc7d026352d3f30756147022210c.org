@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* moment [ˈmoʊmənt]
+片刻;瞬间;时刻

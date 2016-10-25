@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* someone [ˈsʌmˌwʌn;-ə]
+某人;有人

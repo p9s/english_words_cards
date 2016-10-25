@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* grow [groʊ]
+生长;变得;增长

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* servant [ˈsɜrvənt]
+仆人;佣人

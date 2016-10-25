@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hard [hɑrd]
+困难的;硬的

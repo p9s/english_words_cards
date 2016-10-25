@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tea [ti]
+茶;茶叶;茶树

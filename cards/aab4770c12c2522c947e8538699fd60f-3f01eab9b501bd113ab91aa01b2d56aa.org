@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hopefully [ˈhoʊpfəli]
+可以指望;抱着希望地

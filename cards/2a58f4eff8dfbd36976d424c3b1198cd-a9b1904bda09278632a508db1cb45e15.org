@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* web [wɛb]
+网;丝;网状物

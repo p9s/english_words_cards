@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* peasant [ˈpɛzənt]
+农民

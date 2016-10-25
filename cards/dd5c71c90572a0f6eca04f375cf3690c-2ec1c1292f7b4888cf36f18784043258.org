@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* menu [ˈmɛnju;ˈ]
+菜单;饭菜;菜肴

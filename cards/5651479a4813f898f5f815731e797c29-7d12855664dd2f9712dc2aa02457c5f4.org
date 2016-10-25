@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* elsewhere [ˌelsˈwer]
+在别处;向别处

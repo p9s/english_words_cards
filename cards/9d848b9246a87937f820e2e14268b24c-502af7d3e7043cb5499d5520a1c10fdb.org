@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* deliver [dɪˈlɪvɚ]
+投递;送交;发表

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* kingdom [ˈkɪŋdəm]
+王国;领域;界

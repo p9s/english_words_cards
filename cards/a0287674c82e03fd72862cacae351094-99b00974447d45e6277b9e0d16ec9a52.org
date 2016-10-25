@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* trouble [ˈtrʌbəl]
+烦恼;困难烦恼

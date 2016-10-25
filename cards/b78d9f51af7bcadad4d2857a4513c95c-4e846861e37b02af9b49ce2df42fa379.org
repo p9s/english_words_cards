@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* projection [prəˈdʒɛkʃən]
+突出物

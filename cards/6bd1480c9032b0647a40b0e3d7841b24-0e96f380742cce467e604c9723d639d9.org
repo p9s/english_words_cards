@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* administrator [ædˈmɪnɪˌstretɚ]
+管理人;行政官

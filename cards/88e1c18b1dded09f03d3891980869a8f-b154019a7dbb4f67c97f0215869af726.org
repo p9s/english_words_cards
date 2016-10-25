@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fantasy [ˈfæntəsi;-]
+幻想;白日梦

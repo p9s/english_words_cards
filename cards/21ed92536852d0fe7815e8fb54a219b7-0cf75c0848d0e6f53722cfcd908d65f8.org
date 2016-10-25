@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* strategic [strəˈtidʒɪk]
+战略的;战略上的

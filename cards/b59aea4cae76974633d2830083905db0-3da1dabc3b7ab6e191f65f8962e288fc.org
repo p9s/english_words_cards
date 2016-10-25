@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* manufacturer [ˌmænjəˈfæktʃəɚ]
+制造商;制造厂

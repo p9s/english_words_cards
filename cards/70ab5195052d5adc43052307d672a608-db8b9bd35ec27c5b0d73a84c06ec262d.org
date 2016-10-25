@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* transition [trænˈzɪʃən;-ˈɪʃ-]
+转变;变迁;过渡

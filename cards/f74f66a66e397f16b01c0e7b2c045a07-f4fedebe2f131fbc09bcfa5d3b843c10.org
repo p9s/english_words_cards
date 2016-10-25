@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* efficient [ɪˈfɪʃənt]
+效率高的;有能力的

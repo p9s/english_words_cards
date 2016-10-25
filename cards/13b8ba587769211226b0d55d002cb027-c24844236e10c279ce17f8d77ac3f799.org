@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* advertising [ˈædvərtaɪzɪŋ]
+广告的;广告;广告费广告;

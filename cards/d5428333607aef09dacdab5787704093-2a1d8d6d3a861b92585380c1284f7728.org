@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* exclude [ɪk'sklud]
+把…排除在外

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lead [lid]
+领导

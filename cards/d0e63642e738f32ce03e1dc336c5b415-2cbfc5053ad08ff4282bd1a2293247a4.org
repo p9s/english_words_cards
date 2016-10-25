@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bond [bɑnd]
+联结;联系;公债

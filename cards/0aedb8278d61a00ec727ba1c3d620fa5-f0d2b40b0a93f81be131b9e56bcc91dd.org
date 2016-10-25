@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* remind [rɪˈmaɪnd]
+使想起

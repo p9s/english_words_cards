@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stick [stɪk]
+伸;伸出

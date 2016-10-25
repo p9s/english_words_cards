@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sweat [swɛt]
+汗

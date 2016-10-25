@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* so [soʊ]
+这么;那么

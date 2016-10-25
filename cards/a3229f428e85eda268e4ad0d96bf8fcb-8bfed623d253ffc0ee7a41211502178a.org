@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fool [ful]
+愚弄;欺骗

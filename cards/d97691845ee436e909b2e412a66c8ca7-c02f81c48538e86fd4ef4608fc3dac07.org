@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* intent [ɪnˈtɛnt]
+目不转睛的;热切的

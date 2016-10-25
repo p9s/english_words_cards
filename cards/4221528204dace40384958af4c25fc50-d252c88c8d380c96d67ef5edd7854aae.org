@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shelf [ʃɛlf]
+搁板;架子

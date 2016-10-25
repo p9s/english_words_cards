@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cartoon [kɑrˈtun]
+漫画;动画片

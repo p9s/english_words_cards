@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* housing [ˈhaʊzɪŋ]
+住房供给;住房建筑;马衣;装饰

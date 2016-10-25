@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* trigger [ˈtrɪɡɚ]
+扳机触发;引起

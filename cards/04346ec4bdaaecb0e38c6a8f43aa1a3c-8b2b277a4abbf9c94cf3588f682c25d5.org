@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* listen [ˈlɪsən]
+听;留神听;听从

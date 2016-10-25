@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* electrical [ɪˈlektrɪkl]
+电的;电气科学的

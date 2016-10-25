@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* kind [kaɪnd]
+仁慈的;和蔼的

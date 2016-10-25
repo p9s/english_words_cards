@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* writing [ˈraɪtɪŋ]
+书写;写;著作

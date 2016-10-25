@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pole [poʊl]
+杆;柱

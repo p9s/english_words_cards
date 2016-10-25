@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* attention [əˈtɛnʃən]
+注意;留心;注意力

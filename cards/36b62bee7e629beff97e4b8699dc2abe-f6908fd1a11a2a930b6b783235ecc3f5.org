@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* up [ʌp]
+向上;起床;起来

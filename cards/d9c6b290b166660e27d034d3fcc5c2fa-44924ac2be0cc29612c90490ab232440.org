@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* defense [dɪˈfɛns]
+防卫;防卫物

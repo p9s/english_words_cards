@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* joint [dʒɔɪnt]
+接头;接缝;关节

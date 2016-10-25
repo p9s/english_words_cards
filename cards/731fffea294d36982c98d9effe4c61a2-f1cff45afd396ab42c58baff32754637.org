@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* overcome [ˌoʊvərˈkʌm]
+战胜;克服

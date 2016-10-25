@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* satisfy [ˈsætɪsˌfaɪ]
+使满意;使满足

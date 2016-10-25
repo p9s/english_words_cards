@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pretty [ˈprɪti]
+漂亮的;标致的

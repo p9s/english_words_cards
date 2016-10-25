@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* finger [ˈfɪŋɡɚ]
+手指

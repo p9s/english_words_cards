@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* movement [ˈmuvmənt]
+动作;活动;移动

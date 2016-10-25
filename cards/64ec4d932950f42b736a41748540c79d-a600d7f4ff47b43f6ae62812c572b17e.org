@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* liberal [ˈlɪbərəl;ˈɪə]
+心胸宽大的;慷慨的

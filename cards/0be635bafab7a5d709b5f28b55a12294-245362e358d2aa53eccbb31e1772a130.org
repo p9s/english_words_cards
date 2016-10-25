@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* affair [əˈfer]
+事件;事情

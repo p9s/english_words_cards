@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* double [ˈdʌbəl]
+两倍的;双的

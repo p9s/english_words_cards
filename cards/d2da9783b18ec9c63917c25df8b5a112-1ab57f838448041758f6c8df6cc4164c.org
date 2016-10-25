@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* humanity [hjuˈmænɪti]
+人类;人性;人情

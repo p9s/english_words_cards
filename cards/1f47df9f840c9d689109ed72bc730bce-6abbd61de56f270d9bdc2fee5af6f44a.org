@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* famous [ˈfeməs]
+著名的

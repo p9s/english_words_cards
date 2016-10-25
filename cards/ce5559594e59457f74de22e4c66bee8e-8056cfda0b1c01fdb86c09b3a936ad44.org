@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* appearance [əˈpɪrəns]
+出现;来到;外观

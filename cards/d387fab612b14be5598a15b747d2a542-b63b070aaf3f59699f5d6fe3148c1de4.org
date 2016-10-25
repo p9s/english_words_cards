@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* super [ˈsupɚ]
+极好的;超级的

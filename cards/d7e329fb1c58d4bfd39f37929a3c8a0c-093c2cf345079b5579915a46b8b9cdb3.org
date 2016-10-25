@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* oral [ˈɔrəl]
+口头的;口的

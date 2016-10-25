@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* crew [kru]
+全体船员

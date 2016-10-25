@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* deficit [ˈdɛfɪsɪt]
+不足;赤字

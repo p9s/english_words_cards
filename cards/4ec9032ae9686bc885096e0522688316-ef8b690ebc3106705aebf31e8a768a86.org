@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* unemployment [ˌʌnɛmˈplɔɪmənt;-ɪm-]
+失业;失业人数

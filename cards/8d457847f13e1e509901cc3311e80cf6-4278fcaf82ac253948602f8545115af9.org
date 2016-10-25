@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* championship [ˈtʃæmpiənˌʃɪp]
+冠军称号;锦标赛

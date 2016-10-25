@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* molecule [ˈmɑlɪkjul]
+分子;克分子

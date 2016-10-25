@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* program [ˈproʊgræm]
+编制程序

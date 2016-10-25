@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pipe [paɪp]
+管子;导管;输送管

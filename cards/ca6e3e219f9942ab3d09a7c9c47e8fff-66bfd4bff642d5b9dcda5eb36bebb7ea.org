@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* liberty [ˈlɪbərti]
+自由;释放;许可

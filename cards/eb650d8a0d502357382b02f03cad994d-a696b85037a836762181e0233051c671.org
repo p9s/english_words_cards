@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* crazy [ˈkrezi]
+疯狂的;荒唐的

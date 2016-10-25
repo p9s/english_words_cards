@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* link [lɪŋk]
+有环连接环

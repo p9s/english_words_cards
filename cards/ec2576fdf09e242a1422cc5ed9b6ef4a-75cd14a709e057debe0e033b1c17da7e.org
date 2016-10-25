@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shrink [ʃrɪŋk]
+收缩;缩小;退缩

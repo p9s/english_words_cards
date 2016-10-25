@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* already [ɔlˈrɛdi]
+早已;已经

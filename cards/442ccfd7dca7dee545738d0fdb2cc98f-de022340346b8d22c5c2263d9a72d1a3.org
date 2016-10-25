@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ambassador [æmˈbæsədɚ; -ˌɔ]
+大使;使节

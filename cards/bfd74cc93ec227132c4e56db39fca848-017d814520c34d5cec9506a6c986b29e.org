@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* everything [ˈɛvriˌθɪŋ]
+每件事;每样东西

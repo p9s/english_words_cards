@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reliability [rɪˌlaɪəˈbɪlətɪ]
+可靠性

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* naval [ˈnevəl]
+海军的;军舰的

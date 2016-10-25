@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* onion [ˈʌnjən]
+洋葱;洋葱头

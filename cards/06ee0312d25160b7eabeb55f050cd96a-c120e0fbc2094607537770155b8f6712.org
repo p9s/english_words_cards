@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* camera [ˈkæmərə;ˈæə]
+照相机

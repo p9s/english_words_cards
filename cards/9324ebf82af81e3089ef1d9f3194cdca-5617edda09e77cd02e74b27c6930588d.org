@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hence [hɛns]
+因此;所以;今后

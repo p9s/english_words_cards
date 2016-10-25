@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* belong [bɪˈlɔŋ]
+属于;附属

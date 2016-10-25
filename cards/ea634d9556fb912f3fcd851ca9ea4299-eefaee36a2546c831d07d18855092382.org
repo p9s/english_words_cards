@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* innovation [ˌɪnəˈveʃən]
+创新;改革;新设施

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* raw [rɔ]
+未煮过的;未加工的

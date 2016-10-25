@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* therapist [ˈθɛrəpɪst]
+治疗学家;治疗专家

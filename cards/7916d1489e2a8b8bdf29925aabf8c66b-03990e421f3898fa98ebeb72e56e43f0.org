@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* security [səˈkjʊrəti]
+安全;安全感

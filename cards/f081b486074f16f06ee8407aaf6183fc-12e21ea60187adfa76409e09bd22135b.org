@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* detailed [dɪˈteld;ˈdiˌteld]
+详细的;详尽的;说细的

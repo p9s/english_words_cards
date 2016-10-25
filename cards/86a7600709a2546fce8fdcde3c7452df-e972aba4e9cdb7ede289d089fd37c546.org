@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ordinary [ˈɔrdneri]
+平常的;平凡的

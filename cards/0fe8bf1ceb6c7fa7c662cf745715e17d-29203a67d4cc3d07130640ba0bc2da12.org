@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lean [lin]
+倾斜;屈身;靠

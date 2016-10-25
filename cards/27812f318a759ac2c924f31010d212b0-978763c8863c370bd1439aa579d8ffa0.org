@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* regulatory [ˈregjələtɔri]
+按规定的

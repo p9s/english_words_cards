@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* contribute [kənˈtrɪbjut]
+捐献;捐助;投稿

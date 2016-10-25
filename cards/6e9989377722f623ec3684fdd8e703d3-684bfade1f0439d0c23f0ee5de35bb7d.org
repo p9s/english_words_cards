@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* himself [hɪmˈsɛlf]
+他自己;他亲自

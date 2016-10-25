@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* proposal [prəˈpoʊzl]
+提议;建议;求婚

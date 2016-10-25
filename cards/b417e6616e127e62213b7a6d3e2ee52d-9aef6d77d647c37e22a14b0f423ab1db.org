@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* buddy [ˈbʌdi]
+伙伴;弟兄

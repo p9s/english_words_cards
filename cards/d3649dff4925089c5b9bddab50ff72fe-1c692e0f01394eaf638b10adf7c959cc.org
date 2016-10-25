@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* visible [ˈvɪzəbəl]
+可见的;看得见的

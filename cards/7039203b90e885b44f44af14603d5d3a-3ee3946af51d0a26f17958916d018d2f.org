@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* powder [ˈpaʊdɚ]
+粉末;药粉;火药

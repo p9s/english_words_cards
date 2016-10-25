@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cooperative [koˈɑpərətɪv;-əˈɪ;-ˈɑə-]
+合作社;合作的

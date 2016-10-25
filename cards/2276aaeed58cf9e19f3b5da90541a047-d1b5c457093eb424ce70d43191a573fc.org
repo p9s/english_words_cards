@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* beard [bɪrd]
+胡须;络腮胡子

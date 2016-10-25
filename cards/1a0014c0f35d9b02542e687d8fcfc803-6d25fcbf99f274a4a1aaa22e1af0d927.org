@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* express [ɪkˈsprɛs]
+表示快车;快递

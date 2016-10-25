@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* waste [west]
+浪费

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sprinkle [ˈsprɪŋkəl]
+洒;撒;小雨

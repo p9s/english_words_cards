@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* psychologist [saɪˈkɑlədʒɪst]
+心理学家

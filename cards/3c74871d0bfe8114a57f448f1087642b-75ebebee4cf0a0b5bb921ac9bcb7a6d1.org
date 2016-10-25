@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* consensus [kənˈsɛnsəs]
+一致;交感

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mission [ˈmɪʃən]
+使命;任务;使团

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* skull [skʌl]
+头盖骨;脑壳

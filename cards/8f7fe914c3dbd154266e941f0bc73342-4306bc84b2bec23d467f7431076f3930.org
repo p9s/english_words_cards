@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* today [təˈde]
+在今天;现在

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* image [ˈɪmɪdʒ]
+像;形象;映象

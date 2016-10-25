@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* slave
+奴隶

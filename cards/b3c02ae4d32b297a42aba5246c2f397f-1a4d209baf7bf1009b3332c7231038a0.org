@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* assistance [əˈsɪstəns]
+协助;援助

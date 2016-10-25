@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* treatment [ˈtritmənt]
+待遇;治疗;疗法

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* entire [ɛnˈtaɪr]
+全部的;整个的

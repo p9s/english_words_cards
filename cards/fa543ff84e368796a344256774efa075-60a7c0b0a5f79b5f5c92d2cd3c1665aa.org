@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* scent [sɛnt]
+气味;香味;香水

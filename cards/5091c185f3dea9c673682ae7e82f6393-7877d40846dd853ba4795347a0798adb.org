@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stay [ste]
+停留;暂住

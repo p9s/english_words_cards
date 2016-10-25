@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* social [ˈsoʊʃl]
+社会的;社交的

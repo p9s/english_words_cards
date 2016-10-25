@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* real [ˈriəl;]
+真的;现实的

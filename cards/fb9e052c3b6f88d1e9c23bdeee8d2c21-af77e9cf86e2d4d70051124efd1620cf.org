@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* toxic [ˈtɑksɪk]
+有毒的;中毒的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* study [ˈstʌdi]
+学习

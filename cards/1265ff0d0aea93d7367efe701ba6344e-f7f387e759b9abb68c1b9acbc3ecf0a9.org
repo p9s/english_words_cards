@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* account [əˈkaʊnt]
+记述;解释;帐目

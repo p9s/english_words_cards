@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* arrange [əˈrendʒ]
+整理;分类;排列

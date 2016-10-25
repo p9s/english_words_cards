@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* privacy [ˈpraɪvəsi]
+隐私;隐居;秘密

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* similar [ˈsɪməlɚ]
+相似的;类似的

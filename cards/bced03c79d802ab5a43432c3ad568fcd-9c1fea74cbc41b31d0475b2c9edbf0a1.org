@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* primary [ˈpraɪmeri]
+最初的;基本的

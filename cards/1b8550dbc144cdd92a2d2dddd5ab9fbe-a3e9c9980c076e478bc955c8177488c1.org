@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* receive [rɪˈsiv]
+收到;接到

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* epidemic [ˌɛpɪˈdɛmɪk]
+传染性的;流行性的

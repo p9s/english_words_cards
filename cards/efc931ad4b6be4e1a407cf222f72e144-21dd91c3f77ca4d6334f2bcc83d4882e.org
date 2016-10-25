@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* solid [ˈsɑlɪd]
+固体的固体

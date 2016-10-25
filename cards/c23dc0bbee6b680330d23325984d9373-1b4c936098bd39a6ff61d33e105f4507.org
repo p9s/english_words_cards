@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fierce [fɪrs]
+凶猛的;狂热的

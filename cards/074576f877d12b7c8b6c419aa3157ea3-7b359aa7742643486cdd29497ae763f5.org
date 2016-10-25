@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* invention [ɪnˈvɛnʃən]
+发明;创造

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* legislature [ˈlɛdʒɪˌsletʃɚ]
+立法机关

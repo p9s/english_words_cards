@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* halfway [ˌhæfˈweɪ]
+半途;不彻底地;中途的;不彻底的;半途中的

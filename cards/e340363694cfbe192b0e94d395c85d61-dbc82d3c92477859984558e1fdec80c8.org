@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* handful [ˈhændˌfʊl]
+一把;少数;一小撮

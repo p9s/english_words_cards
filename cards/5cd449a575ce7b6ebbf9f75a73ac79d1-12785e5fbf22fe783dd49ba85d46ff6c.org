@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pocket [ˈpɑkɪt]
+衣袋

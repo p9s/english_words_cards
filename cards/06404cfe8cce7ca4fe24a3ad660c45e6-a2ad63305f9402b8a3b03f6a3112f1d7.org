@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* capture [ˈkæptʃɚ]
+捕获;俘获;夺得

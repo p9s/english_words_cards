@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* characteristic [ˌkærəktəˈrɪstɪk]
+特有的特性

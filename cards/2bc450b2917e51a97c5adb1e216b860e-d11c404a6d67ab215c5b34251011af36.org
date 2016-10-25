@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* apply [əˈplaɪ]
+应用;实施;使用

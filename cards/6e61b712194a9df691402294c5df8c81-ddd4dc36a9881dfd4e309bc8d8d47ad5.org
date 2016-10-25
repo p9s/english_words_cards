@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* colony [ˈkɑləni]
+殖民地;侨居地

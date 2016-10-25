@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* exciting [ɪkˈsaɪtɪŋ]
+激动人心的;令人兴奋的;令人激动的;使激动的;兴奋的;使人振奋的

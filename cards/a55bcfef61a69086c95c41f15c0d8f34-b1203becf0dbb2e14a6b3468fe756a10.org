@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* architect [ˈɑrkɪtekt]
+建筑师

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* age [edʒ]
+年龄;时代变老

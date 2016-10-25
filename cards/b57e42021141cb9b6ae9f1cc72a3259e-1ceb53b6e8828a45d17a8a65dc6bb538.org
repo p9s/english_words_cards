@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* appear [əˈpɪr]
+出现;显得;好象

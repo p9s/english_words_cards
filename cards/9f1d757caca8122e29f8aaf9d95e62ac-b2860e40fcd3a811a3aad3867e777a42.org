@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* curious [ˈkjʊriəs]
+稀奇的;奇妙的

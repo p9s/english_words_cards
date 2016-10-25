@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* diverse [daɪˈvɜrs]
+不一样的;相异的

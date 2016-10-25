@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reluctant [rɪˈlʌktənt]
+不愿的;勉强的

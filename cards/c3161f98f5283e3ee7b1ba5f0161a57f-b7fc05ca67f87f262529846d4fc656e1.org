@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sauce [sɔs]
+调味汁;酱汁

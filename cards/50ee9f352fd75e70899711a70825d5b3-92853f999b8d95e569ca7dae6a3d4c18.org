@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* slot [slɑt]
+水沟;细长的孔;硬币投币口;

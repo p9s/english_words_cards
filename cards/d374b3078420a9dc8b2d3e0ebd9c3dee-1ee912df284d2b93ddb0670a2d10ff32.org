@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fun [fʌn]
+有趣的事;玩笑

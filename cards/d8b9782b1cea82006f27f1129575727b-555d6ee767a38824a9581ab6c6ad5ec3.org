@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* score [skɔr;]
+二十;得分

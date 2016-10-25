@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* author [ˈɔθɚ]
+创造者;创始人

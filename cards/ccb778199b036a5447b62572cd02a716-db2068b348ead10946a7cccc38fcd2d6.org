@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* subsequent [ˈsʌbsɪˌkwɛnt;-ə]
+随后的;后来的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* preliminary [prɪˈlɪmɪneri]
+预备的;初步的

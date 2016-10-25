@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* force [fɔrs]
+强迫;迫使

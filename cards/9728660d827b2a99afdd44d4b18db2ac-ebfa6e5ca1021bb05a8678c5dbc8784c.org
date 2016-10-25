@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* want [wɑnt]
+要;想要;需要

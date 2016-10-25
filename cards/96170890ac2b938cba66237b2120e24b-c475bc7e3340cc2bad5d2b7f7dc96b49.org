@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* leader [ˈlidɚ]
+领袖;领导人

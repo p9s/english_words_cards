@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* form [fɔrm]
+组成;建立

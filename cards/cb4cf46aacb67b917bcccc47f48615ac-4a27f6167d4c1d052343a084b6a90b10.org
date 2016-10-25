@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* science [ˈsaɪəns]
+科学

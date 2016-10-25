@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* evaluate [ɪˈvæljuˌet]
+评价;估…的价;估计;估价;评估;求…的值;估算;求值

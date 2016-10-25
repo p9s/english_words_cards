@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* beam [bim]
+梁;横梁;束;柱

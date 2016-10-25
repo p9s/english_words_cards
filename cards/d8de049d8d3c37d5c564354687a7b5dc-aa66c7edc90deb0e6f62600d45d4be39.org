@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* construct [kənˈstrʌkt]
+建造;建设;构筑

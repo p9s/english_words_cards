@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* brick [brɪk]
+砖;砖块;砖状物

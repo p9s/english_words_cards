@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* thick [θɪk]
+厚的;浓的

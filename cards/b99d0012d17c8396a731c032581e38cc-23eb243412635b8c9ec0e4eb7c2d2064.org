@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* format [ˈfɔrmæt]
+格式;样式;形式;版式;将…格式化

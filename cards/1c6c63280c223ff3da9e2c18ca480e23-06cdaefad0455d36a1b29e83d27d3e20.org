@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* partly [ˈpɑrtli]
+部分地;不完全地

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* valid [ˈvælɪd]
+有效的;正当的

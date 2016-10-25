@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* resident [ˈrɛzɪdənt;-ˌɛ]
+居住的居民

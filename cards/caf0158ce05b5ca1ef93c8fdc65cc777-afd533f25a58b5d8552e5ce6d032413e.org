@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* refuge [ˈrɛfjudʒ]
+避难;庇护;庇护者

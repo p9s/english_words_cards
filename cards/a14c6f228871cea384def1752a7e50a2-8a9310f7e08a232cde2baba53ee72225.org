@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* successful [səkˈsɛsfəl]
+成功的;结果良好的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gallery [ˈɡæləri]
+长廊;游廊;画廊

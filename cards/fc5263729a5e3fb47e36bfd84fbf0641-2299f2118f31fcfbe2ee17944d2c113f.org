@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bottle [ˈbɑtl]
+瓶;酒瓶;一瓶

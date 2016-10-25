@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* source [sɔrs]
+来源;根源

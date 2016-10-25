@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* seriously [ˈsɪriəsli]
+严肃地;严重地;认真地;重大

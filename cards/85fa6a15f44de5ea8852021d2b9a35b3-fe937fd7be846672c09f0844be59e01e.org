@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cart [kɑrt]
+二轮运货马车

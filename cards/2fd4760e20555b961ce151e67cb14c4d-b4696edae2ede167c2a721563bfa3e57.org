@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* promotion [prəˈmoʊʃn]
+促进;提升;创立

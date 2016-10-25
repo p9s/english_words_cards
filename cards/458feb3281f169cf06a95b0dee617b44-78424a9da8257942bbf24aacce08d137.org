@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* life [laɪf]
+生命;生活

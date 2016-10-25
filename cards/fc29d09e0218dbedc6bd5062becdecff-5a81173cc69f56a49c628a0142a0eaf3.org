@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* circle [ˈsɜrkl]
+环绕;盘旋圆

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bind [baɪnd]
+捆;绑

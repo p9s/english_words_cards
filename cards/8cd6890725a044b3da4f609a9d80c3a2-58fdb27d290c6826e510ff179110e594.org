@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* observer [əbˈzɜrvə]
+观察员;观测者

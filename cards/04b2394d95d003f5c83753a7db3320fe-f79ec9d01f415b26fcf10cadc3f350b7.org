@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* client [ˈklaɪənt]
+顾客;诉讼委托人

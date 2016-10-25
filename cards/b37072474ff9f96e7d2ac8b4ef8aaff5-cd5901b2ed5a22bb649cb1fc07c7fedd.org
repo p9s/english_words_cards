@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* faith [feθ]
+信任;信心;信仰

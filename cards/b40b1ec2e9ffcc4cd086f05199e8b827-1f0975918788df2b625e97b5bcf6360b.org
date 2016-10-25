@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* robot [ˈroʊbɑt]
+机器人

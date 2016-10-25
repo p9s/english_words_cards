@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* manipulate [məˈnɪpjəˌlet]
+操作;控制;手持

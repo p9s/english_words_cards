@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dust [dʌst]
+垃圾;废品;灰烬

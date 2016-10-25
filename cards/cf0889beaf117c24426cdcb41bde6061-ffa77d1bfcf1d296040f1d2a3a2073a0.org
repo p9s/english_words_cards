@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pencil [ˈpɛnsəl]
+铅笔

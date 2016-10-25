@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* assure [əˈʃʊr]
+使确信;向…保证

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* vote [voʊt]
+选举;投票;表决

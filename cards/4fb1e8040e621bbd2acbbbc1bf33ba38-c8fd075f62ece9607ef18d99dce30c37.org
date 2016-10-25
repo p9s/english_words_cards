@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* voice [vɔɪs]
+说话声;意见;语态

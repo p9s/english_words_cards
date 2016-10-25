@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* substance [ˈsʌbstəns]
+物质;实质;本旨

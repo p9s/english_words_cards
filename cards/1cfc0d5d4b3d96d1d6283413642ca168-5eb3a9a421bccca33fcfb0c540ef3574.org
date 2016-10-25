@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* researcher [ɪˈəʃɚ]
+调查者;探究者;研究人员

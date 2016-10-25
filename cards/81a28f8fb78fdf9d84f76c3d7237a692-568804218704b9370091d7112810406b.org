@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* consent [kənˈsɛnt]
+同意;赞成同意

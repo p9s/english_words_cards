@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* design [dɪˈzaɪn]
+设计设计;图样

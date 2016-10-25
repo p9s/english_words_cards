@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sole [soʊl]
+脚底;鞋底;袜底

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* salary [ˈsæləri;ˈæ]
+薪金;薪水

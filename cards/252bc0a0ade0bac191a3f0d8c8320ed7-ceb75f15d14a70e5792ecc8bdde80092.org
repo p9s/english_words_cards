@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sixth [ɪθ]
+第六;六分之一

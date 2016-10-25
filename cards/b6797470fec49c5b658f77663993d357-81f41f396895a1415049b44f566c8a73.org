@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* suspicion [səˈspɪʃən]
+怀疑;疑心;猜疑

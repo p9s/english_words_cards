@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* alien [ˈeliən;ˈeljən]
+外国的外国人

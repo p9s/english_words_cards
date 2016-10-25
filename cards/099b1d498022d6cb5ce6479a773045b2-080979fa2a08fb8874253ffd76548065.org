@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* intensity [ɪnˈtɛnsɪti]
+强烈;剧烈;强度

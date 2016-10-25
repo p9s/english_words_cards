@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* residential [ˌrɛzɪˈdɛnʃəl]
+住宅的;与居住有关的

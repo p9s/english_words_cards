@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* appoint [əˈpɔɪnt]
+任命;委任;约定

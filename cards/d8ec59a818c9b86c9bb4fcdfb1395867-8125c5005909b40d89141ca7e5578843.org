@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* launch [lɔntʃ;ɑʃ]
+发射;发动

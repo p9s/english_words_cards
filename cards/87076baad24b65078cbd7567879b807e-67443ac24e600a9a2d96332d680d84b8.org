@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* writer [ˈraɪtɚ]
+作者;作家;文学家

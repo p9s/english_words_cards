@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* personal [ˈpɜrsənl]
+个人的;本人的

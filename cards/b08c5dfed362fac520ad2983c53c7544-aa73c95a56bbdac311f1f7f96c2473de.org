@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* emotionally [ɪˈmoʃənlɪ]
+感情上

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* virtue [ˈvɜrtʃu]
+善;德;德行;优点

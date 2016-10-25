@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* chocolate [ˈtʃɑklət]
+巧克力;巧克力糖

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* priest [prist]
+教士;牧师;神父

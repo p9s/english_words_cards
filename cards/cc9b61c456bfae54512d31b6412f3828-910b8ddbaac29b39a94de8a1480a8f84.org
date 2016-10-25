@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* nominee [ˌnɑmɪˈni]
+被提名的人;被任命者

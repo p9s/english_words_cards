@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sensor [ˈsɛnsɚ;-ˌɔ]
+传感器;灵敏元件;敏感元件

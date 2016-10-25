@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* part [pɑrt]
+一部分;零件;本份

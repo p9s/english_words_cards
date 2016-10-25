@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rely [rɪˈlaɪ]
+依赖;依靠;信赖

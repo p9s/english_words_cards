@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ruling [ˈrulɪŋ]
+统治的;流和的;现有的

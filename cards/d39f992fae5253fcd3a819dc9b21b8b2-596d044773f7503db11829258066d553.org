@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dimension [dɪˈmɛnʃən;ɪ-]
+尺寸;尺度;面积

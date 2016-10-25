@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sensation [sɛnˈseʃən]
+感觉;知觉;轰动

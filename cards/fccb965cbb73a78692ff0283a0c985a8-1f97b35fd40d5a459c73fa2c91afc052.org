@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* magnitude [ˈmægnɪtud]
+大小;重大;星等

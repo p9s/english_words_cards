@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* correct [kəˈrɛkt]
+正确的纠正

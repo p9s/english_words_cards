@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gut [ɡʌt]
+勇气;剧情;内容;海峡;肚子;

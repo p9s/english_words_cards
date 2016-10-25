@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* marine [məˈrin]
+海的;海上的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* nerve [nɜrv]
+神经;勇敢;胆量

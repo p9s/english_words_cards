@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* diagnosis [ˌdaɪəgˈnoʊsɪs]
+诊断

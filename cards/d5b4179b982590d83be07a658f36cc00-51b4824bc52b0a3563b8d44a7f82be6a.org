@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* development [dɪˈvɛləpmənt]
+发展;开发;生长;进展;显影;研制

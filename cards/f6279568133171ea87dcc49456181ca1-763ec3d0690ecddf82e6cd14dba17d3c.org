@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reward [rɪˈwɔrd]
+报答;报酬奖赏

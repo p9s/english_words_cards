@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* spirit [ˈspɪrɪt]
+精神;气魄;情绪

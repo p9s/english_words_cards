@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* equality [iˈkwɑləti]
+等同;平等;相等

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rhetoric [ˈrɛtərɪk]
+修辞学;浮夸的言语

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* relieve [rɪˈliv]
+减轻;解除;救济

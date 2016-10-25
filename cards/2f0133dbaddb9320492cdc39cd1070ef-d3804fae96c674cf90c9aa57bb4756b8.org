@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* motivation [ˌmotəˈveʃən]
+动机;目的

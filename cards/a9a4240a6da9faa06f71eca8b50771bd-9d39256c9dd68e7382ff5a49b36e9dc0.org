@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* plant [plænt]
+植物;工厂栽种

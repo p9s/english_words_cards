@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* associate [əˈsoʊʃieɪt]
+交往伙伴;同事

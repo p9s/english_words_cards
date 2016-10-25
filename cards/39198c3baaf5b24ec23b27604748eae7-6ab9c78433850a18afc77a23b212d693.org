@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rid [rɪd]
+使摆脱;使去掉

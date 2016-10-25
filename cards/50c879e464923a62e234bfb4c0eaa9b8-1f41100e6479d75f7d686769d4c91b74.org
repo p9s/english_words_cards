@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* natural [ˈnætʃrəl]
+自然的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* raise [rez]
+提出;发起;发出

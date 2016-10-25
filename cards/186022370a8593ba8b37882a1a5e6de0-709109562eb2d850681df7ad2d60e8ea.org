@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sight [saɪt]
+视力;视觉;见

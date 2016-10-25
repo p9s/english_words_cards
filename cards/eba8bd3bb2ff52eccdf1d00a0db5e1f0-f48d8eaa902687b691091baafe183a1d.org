@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cat [kæt]
+猫;猫科;猫皮

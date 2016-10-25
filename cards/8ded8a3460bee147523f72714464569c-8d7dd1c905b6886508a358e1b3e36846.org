@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* venture [ˈvɛntʃɚ]
+冒险敢于

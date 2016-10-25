@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* headache [ˈhɛdˌek]
+头痛;头痛的事

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* expand [ɪkˈspænd]
+扩大;使膨胀

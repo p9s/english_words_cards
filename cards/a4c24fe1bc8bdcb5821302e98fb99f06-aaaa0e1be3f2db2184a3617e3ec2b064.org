@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* absorb [əbˈsɔrb]
+吸收;使专心

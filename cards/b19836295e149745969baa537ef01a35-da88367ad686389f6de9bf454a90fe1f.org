@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rider [ˈraɪdɚ]
+骑马的人;乘车的人

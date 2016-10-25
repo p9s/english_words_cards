@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* continue [kənˈtɪnju]
+继续;连续;延伸

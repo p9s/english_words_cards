@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* participant [pɑrˈtɪsɪpənt]
+参加者有份的

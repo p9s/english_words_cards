@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* long [lɔŋ]
+渴望;极想念

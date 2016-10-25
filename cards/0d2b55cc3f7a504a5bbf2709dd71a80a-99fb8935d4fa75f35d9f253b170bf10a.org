@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* impact [ˈɪmˌpækt]
+影响;作用;冲击

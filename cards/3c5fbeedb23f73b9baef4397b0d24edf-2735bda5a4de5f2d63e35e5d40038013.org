@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* conversion [kənˈvɜrʒn]
+转变;转化;改变

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* likewise [ˈlaɪkˌwaɪz]
+同样地;也;又

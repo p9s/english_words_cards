@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* blanket [ˈblæŋkɪt]
+毛毯;毯子;羊毛毯

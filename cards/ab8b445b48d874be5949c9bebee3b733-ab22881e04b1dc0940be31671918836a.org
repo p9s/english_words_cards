@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sand [sænd]
+沙;沙地

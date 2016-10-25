@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* nature [ˈnetʃɚ]
+大自然;自然界

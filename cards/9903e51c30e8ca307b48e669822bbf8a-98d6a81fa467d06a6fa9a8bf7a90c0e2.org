@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* appointment [əˈpɔɪntmənt]
+任命;约定;约会

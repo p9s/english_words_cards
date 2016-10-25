@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* landscape [ˈlændˌskep]
+风景;景色;景致

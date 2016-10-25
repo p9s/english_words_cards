@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* twice [twaɪs]
+两次;两倍

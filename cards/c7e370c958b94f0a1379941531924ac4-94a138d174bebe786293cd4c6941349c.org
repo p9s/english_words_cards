@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sector [ˈsɛktɚ;-ˌɔ]
+扇形;尺规;函数尺

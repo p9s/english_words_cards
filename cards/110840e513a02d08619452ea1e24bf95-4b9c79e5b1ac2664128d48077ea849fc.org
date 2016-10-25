@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lack [læk]
+;缺乏;没有

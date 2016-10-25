@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* compete [kəmˈpit]
+比赛;竞争;对抗

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* philosophical [ˌfɪləˈsɑfɪkl]
+哲学的;冷静的;哲学上的

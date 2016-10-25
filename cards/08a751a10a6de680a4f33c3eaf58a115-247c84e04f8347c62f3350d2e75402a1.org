@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* grateful [ˈɡretfəl]
+可喜的;令人愉快的

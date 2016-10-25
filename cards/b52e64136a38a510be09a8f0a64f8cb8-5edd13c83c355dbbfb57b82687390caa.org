@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lend [lɛnd]
+把借给

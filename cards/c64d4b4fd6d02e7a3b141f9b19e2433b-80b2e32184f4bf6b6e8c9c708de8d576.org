@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* nut [nʌt]
+坚果;干果;螺母

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* piano [piˈænoʊ]
+钢琴

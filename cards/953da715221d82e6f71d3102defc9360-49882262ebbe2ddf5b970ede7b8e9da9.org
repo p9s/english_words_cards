@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* deliberately [dɪˈlɪbərɪtlɪ]
+仔细考虑地;故意地;审慎地;慎重地;从容地;有意地

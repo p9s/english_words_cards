@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* summary [ˈsʌməri]
+概括的;速决的

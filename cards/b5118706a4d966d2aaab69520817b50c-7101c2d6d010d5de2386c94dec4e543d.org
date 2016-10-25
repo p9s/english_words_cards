@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rough [rʌf]
+表面不平的;粗略的

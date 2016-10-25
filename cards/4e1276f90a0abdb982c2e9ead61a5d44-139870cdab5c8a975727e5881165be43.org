@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* place [ples]
+地方;地点;住所

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* friendship [ˈfrɛndˌʃɪp]
+友谊;友好

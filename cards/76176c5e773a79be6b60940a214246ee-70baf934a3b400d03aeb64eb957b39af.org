@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tight [taɪt]
+紧紧地牢固的

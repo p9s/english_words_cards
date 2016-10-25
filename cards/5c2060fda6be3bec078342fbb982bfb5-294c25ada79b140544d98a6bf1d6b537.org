@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* together [təˈɡɛðɚ]
+共同;一起

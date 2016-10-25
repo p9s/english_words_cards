@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* kill [kɪl]
+杀死

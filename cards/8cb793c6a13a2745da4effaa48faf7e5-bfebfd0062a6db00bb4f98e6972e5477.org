@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* problem [ˈprɑbləm]
+问题;习题;问题

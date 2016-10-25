@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* incident [ˈɪɪə]
+小事件;插曲;事变

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pool [pul]
+小池;水塘

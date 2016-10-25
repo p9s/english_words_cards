@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* label [ˈleɪbl]
+标签;标记;符号

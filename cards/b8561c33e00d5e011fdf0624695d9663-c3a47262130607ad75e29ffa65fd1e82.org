@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* leading [ˈlidɪŋ]
+指导的;最主要的

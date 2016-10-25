@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* coalition [ˌkoʊəˈlɪʃn]
+结合;联合

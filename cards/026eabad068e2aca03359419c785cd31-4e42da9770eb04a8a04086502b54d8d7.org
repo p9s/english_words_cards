@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* doorway [ˈdɔrweɪ]
+门口;出入口

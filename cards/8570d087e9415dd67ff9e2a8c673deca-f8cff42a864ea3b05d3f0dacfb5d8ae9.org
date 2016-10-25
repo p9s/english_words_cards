@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* transport [ˈtrænspɔrt]
+运输;运输工具

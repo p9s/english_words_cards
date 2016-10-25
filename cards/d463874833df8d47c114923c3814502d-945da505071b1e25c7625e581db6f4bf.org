@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* claim [klem]
+权利;所有权

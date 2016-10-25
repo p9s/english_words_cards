@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* garden [ˈgɑrdn]
+花园;菜园;公园

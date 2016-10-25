@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* voluntary [ˈvɑlənteri]
+自愿的;志愿的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shame [ʃem]
+羞耻;羞愧;羞辱

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* proposed [prə'poʊzd]
+被提议的

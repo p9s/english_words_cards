@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* accomplishment [əˈkɑmplɪʃmənt]
+技能;成就

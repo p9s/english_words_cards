@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* feature [ˈfitʃɚ]
+特征;特色;面貌

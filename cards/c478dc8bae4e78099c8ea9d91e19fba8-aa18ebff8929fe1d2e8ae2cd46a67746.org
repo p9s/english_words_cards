@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* disclose [dɪsˈkloʊz]
+揭开;揭发;揭露

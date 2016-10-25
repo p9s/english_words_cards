@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* professional [prəˈfɛʃənəl]
+职业的专业人员

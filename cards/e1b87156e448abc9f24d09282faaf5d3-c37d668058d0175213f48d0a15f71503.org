@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* realm [rɛlm]
+王国;国土;领域

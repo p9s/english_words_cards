@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* item [ˈaɪtəm]
+条;条款;一条

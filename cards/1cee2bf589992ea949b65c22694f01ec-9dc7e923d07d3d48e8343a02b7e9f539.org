@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* eye [aɪ]
+眼睛;眼力;鉴赏力

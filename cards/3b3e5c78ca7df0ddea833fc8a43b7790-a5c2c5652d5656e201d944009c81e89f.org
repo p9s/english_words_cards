@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* discount [ˈdɪsˌkaʊnt]
+折扣;打折扣卖

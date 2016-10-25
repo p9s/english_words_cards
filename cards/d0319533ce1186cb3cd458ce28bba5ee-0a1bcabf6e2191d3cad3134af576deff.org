@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* interact [ˌɪntɚˈækt]
+相互影响;相互作用;相互相作;相互影响

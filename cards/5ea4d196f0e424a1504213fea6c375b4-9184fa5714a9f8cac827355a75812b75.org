@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* currently [ˈkɜrəntli]
+当前;广泛地;目前;普遍地;现在

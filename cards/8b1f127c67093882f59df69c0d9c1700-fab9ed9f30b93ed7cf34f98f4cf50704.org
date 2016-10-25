@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* admire [ædˈmaɪr]
+钦佩;羡慕;赞美

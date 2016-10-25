@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* apparent [əˈpærənt; əˈɛ-]
+表面上的;明显的

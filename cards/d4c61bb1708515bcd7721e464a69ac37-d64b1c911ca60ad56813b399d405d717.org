@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* productive [prəˈdʌktɪv;-]
+生产的;丰饶的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stiff [stɪf]
+硬的;僵直的

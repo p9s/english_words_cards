@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* level [ˈlɛvəl]
+水平面水平的

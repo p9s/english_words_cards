@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* knowledge [ˈnɑlɪdʒ]
+知识;学识;知道

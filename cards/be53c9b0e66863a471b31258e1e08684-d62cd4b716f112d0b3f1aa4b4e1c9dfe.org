@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* automatic [ˌɔtəˈmætɪk]
+自动的;机械的

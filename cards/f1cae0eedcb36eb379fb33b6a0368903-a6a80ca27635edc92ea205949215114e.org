@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* implementation [ˌɪmplɪmənˈteʃən]
+实行;执行;实现履行执行程序;实施

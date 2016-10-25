@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* minimal [ˈmɪnəməl]
+最小的;最低限度的

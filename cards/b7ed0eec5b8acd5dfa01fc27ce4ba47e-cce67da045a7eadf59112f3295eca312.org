@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bloody [ˈblʌdi]
+血腥的;嗜杀的;非常的;有血的

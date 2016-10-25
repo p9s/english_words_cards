@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hunt [hʌnt]
+打猎

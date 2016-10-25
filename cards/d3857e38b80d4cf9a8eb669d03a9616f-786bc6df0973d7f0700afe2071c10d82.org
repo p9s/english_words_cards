@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* framework [ˈfreɪmwɜrk]
+框架;构架;结构

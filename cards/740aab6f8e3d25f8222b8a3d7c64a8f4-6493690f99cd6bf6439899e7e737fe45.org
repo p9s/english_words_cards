@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reform [rɪˈfɔrm]
+改革;改良

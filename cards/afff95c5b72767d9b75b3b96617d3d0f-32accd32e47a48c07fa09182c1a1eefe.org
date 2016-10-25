@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* degree [dɪˈɡri]
+程度;度;学位

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* distinguish [dɪˈstɪŋɡwɪʃ]
+区别;辨别;认别

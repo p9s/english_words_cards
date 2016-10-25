@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sexual [ˈsɛkʃuəl]
+性的;性别的

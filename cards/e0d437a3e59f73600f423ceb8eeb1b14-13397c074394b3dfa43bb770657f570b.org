@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* diminish [dɪˈmɪnɪʃ]
+减少;减小;递减

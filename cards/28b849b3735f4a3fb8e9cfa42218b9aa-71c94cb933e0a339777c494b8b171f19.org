@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* comfortable [ˈkʌmfətəbəl;ˈʌəə]
+舒适的;安慰的

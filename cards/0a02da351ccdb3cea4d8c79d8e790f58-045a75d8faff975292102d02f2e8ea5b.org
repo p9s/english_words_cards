@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* partnership [ˈpɑrtnərʃɪp]
+合伙;合股

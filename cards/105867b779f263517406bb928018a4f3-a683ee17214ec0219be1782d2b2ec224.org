@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shout [ʃaʊt]
+喊;高呼

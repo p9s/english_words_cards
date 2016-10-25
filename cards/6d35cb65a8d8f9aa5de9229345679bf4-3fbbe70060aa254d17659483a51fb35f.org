@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* net [nɛt]
+用网捕;用网覆盖

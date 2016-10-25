@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* desperately [ˈdɛspərɪtlɪ]
+绝望地;孤注一掷地;拼命地;令人绝望地

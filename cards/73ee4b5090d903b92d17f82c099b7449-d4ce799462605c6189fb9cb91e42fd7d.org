@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* actively ['æktɪvlɪ]
+积极地;活跃地

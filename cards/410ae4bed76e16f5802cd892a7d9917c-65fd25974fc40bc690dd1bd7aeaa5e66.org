@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* constant [ˈkɑnstənt]
+经常的;永恒的

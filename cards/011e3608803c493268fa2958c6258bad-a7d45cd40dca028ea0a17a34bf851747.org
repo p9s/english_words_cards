@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dose [doʊs]
+剂量;用量;一剂

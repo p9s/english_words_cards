@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* satellite [ˈsætlˌaɪt]
+附属物

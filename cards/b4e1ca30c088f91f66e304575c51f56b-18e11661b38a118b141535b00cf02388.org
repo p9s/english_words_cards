@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sacred [ˈsekrɪd]
+上帝的;神圣的

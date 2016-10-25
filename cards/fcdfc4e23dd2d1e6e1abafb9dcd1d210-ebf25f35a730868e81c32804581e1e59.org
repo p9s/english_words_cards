@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* highway [ˈhaɪˌwe]
+公路;大路

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* subject [ˈsʌbdʒekt]
+题目;学科;主语

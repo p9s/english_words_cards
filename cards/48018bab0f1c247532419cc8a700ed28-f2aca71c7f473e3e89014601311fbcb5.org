@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bush [bʊʃ]
+灌木;灌木丛;矮树

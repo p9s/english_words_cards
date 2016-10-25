@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* diamond [ˈdaɪəmənd;ˈɪə]
+金钢石;钻石;菱形

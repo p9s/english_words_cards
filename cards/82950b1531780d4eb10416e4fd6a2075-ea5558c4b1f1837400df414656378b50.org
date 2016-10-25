@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* theory [ˈθɪri]
+理论;原理

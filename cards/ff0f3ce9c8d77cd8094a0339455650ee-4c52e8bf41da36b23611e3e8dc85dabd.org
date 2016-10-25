@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* restrict [rɪˈstrɪkt]
+限制;限定;约束

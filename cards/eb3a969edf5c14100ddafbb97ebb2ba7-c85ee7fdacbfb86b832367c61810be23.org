@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* flour [flaʊr]
+面粉;粉;粉状物质

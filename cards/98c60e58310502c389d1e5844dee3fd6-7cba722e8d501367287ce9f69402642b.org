@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Chinese [tʃaɪˈniz;-ˈ]
+中国的中国人

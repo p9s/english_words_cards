@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* emergency [iˈmɜrdʒənsi]
+紧急情况;突然事件

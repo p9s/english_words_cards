@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hunting [ˈhʌntɪŋ]
+打猎;狩猎

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* enter [ˈɛntɚ]
+走进;进入;参加

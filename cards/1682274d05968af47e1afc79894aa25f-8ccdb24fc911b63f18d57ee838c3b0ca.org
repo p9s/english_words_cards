@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* explanation [ˌɛkspləˈneʃən]
+解释;说明;辩解

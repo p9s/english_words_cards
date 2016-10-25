@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* platform [ˈplætfɔrm]
+政纲;党纲;宣言

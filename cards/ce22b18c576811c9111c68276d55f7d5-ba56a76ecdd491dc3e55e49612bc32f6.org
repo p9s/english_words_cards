@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lucky [ˈlʌki]
+幸运的;侥幸的

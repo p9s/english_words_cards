@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* envision [ɛnˈvɪʒən]
+预想;展望;想象

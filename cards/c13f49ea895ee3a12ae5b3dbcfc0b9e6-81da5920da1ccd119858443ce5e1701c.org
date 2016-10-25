@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* joy [dʒɔɪ]
+欢乐;高兴

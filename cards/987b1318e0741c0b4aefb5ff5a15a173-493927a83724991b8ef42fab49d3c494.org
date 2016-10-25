@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* perceive [pərˈsiv]
+察觉;发觉;理解

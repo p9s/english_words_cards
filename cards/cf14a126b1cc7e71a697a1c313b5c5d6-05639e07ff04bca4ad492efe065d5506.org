@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* judge [dʒʌdʒ]
+法官

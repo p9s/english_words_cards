@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* patrol [pəˈtroʊl]
+巡逻巡逻;巡查

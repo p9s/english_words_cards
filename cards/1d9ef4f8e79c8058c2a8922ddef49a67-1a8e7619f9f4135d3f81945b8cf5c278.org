@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* simultaneously [saɪməlˈtenɪəslɪ]
+同时地;同时;一起

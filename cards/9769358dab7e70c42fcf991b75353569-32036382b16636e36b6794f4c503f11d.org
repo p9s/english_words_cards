@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* instructor [ɪnˈstrʌktɚ]
+指导者;教员

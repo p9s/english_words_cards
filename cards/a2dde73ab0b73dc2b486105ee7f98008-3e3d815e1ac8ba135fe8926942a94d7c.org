@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* particular [pərˈtɪkjələ]
+特殊的;特定的

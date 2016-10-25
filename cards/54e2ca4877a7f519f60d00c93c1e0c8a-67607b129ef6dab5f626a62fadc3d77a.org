@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shoot [ʃut]
+发射;射中发芽

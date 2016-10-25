@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* curiosity [ˌkjʊriˈɑsəti]
+好奇;好奇心;珍品

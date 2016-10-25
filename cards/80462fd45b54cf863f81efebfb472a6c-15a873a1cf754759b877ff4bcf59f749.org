@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sheer [ʃɪr]
+纯粹的;全然的

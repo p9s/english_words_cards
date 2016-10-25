@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* corridor [ˈkɔrɪdɚ;-ˌɔ;ˈɑ-]
+走廊;回廊;通路

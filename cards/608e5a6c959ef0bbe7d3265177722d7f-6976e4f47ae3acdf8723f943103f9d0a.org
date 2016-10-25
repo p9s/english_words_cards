@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* afternoon [ˌæftərˈnun]
+下午;午后

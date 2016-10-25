@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dry [draɪ]
+使干变干

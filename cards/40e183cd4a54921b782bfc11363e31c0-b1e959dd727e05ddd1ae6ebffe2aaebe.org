@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* courage [ˈkɜrɪdʒ]
+勇气;胆量;胆识

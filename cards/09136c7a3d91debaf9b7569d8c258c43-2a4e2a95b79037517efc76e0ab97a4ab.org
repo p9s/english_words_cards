@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* identical [aɪˈdɛntɪkəl]
+同一的;恒等的

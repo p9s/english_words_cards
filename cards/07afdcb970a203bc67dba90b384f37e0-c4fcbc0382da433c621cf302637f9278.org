@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* equal [ˈikwəl]
+相等的;平等的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* collar [ˈkɑlə]
+衣领;项圈

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mineral [ˈmɪnərəl]
+矿物;矿石

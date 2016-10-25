@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* independence [ˌɪndɪˈpɛndəns]
+独立;自主;自立

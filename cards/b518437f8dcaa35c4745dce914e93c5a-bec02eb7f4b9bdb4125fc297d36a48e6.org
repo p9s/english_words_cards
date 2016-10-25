@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stone [stoʊn]
+果核;硬核

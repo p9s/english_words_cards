@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* enforcement [ɪn'fɔsmənt]
+执行;强制

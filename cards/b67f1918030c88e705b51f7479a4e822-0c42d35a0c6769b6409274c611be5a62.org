@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* weed [wid]
+杂草;野草除草

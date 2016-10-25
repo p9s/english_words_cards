@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* meaningful [ˈminɪŋfəl]
+含义深远的

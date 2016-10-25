@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* denial [dɪˈnaɪəl]
+否定;拒绝相信

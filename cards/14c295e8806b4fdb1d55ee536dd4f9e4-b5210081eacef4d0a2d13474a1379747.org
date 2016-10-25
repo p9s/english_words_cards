@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* original [əˈrɪdʒənəl]
+最初的;新颖的

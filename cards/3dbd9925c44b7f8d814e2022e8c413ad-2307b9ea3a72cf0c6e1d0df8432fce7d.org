@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* concept [ˈkɑnsept]
+概念;观念;设想

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* us [ʌs]
+我们

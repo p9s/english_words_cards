@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* practitioner [prækˈtɪʃənɚ]
+从业者;开业者

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* respectively [rɪˈspɛktɪvli]
+分别地;各自地;各自;个别地

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* heavily [hɛvəli]
+重重地;大量地

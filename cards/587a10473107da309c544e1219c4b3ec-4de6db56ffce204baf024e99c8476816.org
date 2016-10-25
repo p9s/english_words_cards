@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* spending [ˈspɛndɪŋ]
+消费;开支

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bad [bæd]
+坏的;恶的;严重的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* boring [ˈbɔrɪŋ;ˈ-]
+钻孔;讨厌的

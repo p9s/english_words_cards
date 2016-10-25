@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* itself [ɪtˈsɛlf]
+它自己;自身

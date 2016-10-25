@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* portray [pɔrˈtreɪ]
+描绘;描述

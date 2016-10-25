@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* performance [pərˈfɔrməns]
+履行;演出;行为

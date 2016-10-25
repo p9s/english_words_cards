@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* acceptable [ækˈsɛptəbəl]
+可接受的;合意的

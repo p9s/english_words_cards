@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* specifically [spəˈsɪfɪkli]
+特定的;明确的

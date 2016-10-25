@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bless [blɛs]
+保佑;降福

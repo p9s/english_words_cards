@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* jury [ˈdʒʊri]
+陪审团;评奖团

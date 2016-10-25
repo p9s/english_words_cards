@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fight [faɪt]
+打仗

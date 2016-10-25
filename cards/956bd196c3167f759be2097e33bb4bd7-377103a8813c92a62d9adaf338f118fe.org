@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* northeast [nɔrθˈist;ɔˈ]
+东北位于东北的

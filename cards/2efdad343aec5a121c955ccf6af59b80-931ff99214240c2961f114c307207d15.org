@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* contractor [ˈkɑnˌtræktɚ;əˈæ-]
+立契约的人;承包商

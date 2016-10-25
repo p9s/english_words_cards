@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* prohibit [proˈhɪbɪt]
+禁止;阻止

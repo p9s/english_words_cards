@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* historian [hɪˈstɔriən]
+历史学家;编史家

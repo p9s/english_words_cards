@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* passion [ˈpæʃn]
+激情;热情;爱好

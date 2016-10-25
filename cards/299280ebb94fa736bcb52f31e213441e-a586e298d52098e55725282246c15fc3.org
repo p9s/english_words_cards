@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* helpful [ˈhɛlpfəl]
+给予帮助的;有用的

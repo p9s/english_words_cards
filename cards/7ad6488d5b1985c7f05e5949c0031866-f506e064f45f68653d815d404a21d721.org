@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* distinction [dɪˈstɪŋkʃən]
+差别;不同;区分

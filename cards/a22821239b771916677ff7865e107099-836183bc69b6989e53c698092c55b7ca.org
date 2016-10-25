@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rice [raɪs]
+米饭;大米

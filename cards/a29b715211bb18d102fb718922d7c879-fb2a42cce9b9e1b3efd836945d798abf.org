@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* explain [ɪkˈsplen]
+解释;说明

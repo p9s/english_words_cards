@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* material [məˈtɪriəl]
+原料;材料

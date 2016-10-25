@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* overnight [ˌoʊvərˈnaɪt]
+一夜;突然

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ease [iz]
+安逸;熟练;轻易

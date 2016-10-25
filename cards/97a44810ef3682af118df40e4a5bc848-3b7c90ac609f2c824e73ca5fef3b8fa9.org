@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* severely [səˈvɪrlɪ]
+严厉地;苛刻地;严肃地;严格地;剧烈地

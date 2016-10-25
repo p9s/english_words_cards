@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* term [tɜrm]
+期;学期;条件;词

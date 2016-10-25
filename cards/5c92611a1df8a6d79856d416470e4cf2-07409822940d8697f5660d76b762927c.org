@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* intend [ɪnˈtɛnd]
+想要;打算;意指

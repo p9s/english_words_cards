@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* theological [ˌθiəˈlɑdʒɪkəl]
+神学的

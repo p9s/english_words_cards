@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* common [ˈkɑmən]
+普通的;一般地

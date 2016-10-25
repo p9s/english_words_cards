@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lawsuit [ˈlɔˌsut]
+诉讼;控诉

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* impulse [ˈɪmˌpʌls]
+推动;冲力;冲动

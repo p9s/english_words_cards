@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rise [raɪz]
+起立;升起;上涨

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* frozen [ˈfroʊzn]
+的过去分词;冷冻的;冻结

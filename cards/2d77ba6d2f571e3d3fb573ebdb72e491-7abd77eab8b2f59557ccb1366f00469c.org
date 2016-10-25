@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* greatly [ˈɡreɪtli]
+大大地;非常

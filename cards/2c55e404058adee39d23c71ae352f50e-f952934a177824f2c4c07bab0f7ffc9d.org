@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* appeal [əˈpil]
+呼吁;申述

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* commission [kəˈmɪʃən]
+委托;委任;委托状

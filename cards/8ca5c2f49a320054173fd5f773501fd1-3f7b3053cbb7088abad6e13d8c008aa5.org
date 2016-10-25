@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* greet [ɡrit]
+问候

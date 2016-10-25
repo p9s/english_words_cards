@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* possession [pəˈzɛʃən]
+所有;拥有;财产

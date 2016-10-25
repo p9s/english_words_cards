@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ideal [aɪˈdiəl;ɪˈ]
+理想的;观念的

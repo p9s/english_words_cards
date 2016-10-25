@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* report [rɪˈpɔrt]
+;报告;汇报

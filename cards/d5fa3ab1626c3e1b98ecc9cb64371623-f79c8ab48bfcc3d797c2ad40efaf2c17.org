@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* guideline [ˈɡaɪdˌlaɪn]
+指南;方针

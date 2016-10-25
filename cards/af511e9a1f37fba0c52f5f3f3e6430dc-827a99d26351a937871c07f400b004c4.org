@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* honestly [ˈɑnɪstli]
+诚实地;老实地

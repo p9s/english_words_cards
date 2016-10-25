@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* element [ˈɛləmənt]
+元素;要素;成分

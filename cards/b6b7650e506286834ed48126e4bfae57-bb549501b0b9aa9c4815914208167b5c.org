@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* member [ˈmɛmbɚ]
+成员;会员

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* minister [ˈmɪnɪstɚ]
+大臣;部长

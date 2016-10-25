@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* grab [ɡræb]
+急抓;抢

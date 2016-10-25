@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tissue [ˈtɪʃu]
+薄绢;薄纸;组织

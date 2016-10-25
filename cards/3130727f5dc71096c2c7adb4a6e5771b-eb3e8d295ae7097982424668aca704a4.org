@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* come [kʌm]
+来;来到;出现

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* painful [ˈpenfəl]
+使痛的;费力的

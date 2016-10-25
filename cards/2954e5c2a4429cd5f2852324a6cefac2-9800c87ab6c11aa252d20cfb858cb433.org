@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* awareness [əˈwerənəs]
+意识

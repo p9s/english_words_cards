@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bitter [ˈbɪtɚ]
+痛苦的;严寒的

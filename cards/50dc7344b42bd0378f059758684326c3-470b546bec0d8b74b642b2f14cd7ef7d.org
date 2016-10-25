@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* composition [ˌkɑmpəˈzɪʃn]
+组成;构成;结构

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* chair [tʃer]
+椅子;大学的讲座;主席;当…的主席;主持

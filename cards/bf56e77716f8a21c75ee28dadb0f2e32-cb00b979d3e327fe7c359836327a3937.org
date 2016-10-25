@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* genetic [dʒəˈnɛtɪk]
+遗传的;起源的

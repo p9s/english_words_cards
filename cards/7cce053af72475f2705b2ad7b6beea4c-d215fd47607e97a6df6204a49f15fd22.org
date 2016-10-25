@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cling [klɪŋ]
+粘住;依附;坚持

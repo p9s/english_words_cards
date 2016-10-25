@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* placement [ˈpleɪsmənt]
+布局;放置;布置;安排;安插

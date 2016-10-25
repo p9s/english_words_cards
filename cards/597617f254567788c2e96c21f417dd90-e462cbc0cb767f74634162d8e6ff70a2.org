@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* characterize [ˈkærəktəˌraɪz]
+表示…的特性

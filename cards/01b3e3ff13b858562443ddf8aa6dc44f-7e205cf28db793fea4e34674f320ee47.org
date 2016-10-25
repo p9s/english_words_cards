@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* important [ɪmˈpɔrtnt]
+重要的;有势力的

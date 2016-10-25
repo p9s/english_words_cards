@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* deserve [dɪˈzɜrv]
+应受;值得

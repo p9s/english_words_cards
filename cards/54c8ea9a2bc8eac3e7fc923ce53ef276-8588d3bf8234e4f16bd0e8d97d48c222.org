@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* advocate [ˈædvəˌket]
+辩护者拥护

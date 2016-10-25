@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* integrity [ɪnˈtɛɡrɪti]
+诚实;正直

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* busy [ˈbɪzi]
+忙的;繁忙的

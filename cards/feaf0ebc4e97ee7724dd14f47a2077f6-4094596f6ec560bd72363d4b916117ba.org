@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* injure [ˈɪndʒɚ]
+伤害;损害;损伤

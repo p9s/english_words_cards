@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wall [wɔl]
+墙;壁;围墙;城墙

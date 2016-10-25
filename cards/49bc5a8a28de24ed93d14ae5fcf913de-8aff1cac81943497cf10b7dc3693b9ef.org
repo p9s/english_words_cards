@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* workplace [ˈwɜrkpleɪs]
+工作场所;车间

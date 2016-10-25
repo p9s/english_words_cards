@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* forgive [fərˈgɪv]
+原谅;饶恕;宽恕

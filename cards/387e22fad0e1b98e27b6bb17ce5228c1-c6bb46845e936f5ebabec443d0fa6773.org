@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* edge [ɛdʒ]
+边缘;边

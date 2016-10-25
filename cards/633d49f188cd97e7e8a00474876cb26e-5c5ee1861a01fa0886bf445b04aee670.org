@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* treaty [ˈtriti]
+条约;协议;协定

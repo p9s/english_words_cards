@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* starting ['stɑtɪŋ]
+出发;开始;起始的

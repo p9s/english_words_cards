@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hip [hɪp]
+臀部;髋;屋脊

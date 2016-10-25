@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* apple [ˈæpəl]
+苹果

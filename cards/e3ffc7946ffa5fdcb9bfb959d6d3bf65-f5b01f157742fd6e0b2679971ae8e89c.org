@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* running [ˈrʌnɪŋ]
+跑步;经营;连续的;奔跑的;流动的;运行着的;游动的

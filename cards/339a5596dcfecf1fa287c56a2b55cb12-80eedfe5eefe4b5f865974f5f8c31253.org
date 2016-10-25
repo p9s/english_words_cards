@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* northwest [nɔrθˈwɛst;ɔˈɛ]
+西北位于西北的

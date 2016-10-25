@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* decision [dɪˈsɪʒən]
+决定;决心;果断;判决;决议;判定;决策;决断

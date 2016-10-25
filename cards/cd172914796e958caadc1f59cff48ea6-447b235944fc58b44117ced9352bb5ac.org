@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fund [fʌnd]
+资金;基金;存款

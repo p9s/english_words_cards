@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* negotiate [nɪˈgoʊʃieɪt]
+谈判;交涉;议定

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* occasion [əˈkeʒən]
+场合;时刻;时机

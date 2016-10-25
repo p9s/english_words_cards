@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* quickly [ˈkwɪklɪ]
+迅速地;快速地;快地;敏捷地

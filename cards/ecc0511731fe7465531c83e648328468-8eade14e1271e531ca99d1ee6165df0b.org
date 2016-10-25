@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* authority [əˈθɔrəti]
+当局;官方;权力

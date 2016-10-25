@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* persuade [pərˈsweɪd]
+劝说;说服

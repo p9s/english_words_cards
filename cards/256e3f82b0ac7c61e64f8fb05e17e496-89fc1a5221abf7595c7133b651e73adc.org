@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* burn [bɜrn]
+燃烧

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* abuse [əˈbjuz]
+滥用;虐待滥用

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* confident [ˈkɑnfɪdənt]
+确信的;自信的

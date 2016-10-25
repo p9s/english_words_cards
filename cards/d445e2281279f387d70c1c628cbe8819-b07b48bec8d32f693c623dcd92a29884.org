@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* perform [pərˈfɔrm]
+履行;表演行动

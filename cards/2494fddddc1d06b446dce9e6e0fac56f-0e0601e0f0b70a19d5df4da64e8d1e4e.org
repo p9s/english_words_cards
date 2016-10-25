@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* genuine [ˈdʒɛnjuɪn]
+真的;真正的

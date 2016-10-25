@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* definitely [ˈdefɪnətli]
+一定;肯定地;一定地;明确地;绝对

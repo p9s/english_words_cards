@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* flower [ˈflaʊɚ]
+花;花卉;开花

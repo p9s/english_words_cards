@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* elevator [ˈɛləˌvetɚ]
+电梯;升降机

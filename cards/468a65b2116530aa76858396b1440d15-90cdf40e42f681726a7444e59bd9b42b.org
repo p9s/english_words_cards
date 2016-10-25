@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shopping [ˈʃɑpɪŋ]
+买东西;购物

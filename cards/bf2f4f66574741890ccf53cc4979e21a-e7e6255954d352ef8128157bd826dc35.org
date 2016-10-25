@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* availability [əˌveləˈbɪlətɪ]
+有效;可得性;可用性;可供货;可行性;利用率

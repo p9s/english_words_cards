@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* concerned [kənˈsɜrnd]
+关心的

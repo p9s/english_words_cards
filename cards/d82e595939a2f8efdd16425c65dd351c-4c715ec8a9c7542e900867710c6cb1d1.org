@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* developer [dɪˈveləpər]
+开发者;显影剂

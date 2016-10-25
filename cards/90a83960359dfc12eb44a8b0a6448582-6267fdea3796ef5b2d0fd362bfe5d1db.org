@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* against [əˈɡenst]
+反对;对着

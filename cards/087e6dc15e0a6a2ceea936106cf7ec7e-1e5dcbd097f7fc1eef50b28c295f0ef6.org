@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* jacket [ˈdʒækɪt]
+短上衣;茄克衫

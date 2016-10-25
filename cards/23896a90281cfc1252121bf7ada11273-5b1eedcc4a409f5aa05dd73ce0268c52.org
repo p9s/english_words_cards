@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* diversity [daɪˈvɜrsəti]
+多样化;不同;杂多;差异;多样性;变化万千

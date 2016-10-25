@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* thigh [θaɪ]
+股;大腿

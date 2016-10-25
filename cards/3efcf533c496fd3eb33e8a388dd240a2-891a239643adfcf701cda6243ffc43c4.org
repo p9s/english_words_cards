@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* prize [praɪz]
+奖赏;奖金珍视

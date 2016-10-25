@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* retired [rɪˈtaɪərd]
+退休的;通职的

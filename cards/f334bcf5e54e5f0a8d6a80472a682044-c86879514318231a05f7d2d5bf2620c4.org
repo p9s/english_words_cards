@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* border [ˈbɔrdə]
+边;边缘;边界

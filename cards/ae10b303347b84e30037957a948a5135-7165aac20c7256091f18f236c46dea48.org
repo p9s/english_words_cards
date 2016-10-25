@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* capital [ˈkæpɪtl]
+资本;资金;首都

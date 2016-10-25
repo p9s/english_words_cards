@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* brand [brænd]
+商品;烙印铭刻

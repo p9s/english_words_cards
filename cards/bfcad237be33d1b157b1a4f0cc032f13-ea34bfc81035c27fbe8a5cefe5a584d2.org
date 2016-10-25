@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* network [ˈnetwɜrk]
+网状物;网络

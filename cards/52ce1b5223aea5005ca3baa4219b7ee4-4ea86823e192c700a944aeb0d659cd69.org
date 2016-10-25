@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* transit [ˈtrænsɪt;-ɪ]
+经过;通行;转变;运输线;运输

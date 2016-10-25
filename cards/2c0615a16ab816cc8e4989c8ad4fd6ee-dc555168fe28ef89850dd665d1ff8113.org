@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* aim [em]
+瞄准;目标;目的

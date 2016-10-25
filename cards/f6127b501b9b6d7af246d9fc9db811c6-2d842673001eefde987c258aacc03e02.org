@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* inform [ɪnˈfɔrm]
+通知;向…报告

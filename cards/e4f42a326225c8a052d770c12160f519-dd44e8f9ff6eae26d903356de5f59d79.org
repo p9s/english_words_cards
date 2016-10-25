@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* captain [ˈkæptən]
+陆军上尉;队长

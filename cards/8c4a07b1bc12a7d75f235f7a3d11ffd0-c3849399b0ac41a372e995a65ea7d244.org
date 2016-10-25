@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* impose [ɪmˈpoʊz]
+利用;欺骗

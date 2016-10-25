@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* organ [ˈɔrgən]
+器官;机构;管风琴

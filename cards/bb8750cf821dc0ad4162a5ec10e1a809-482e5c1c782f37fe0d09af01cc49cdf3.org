@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* analyze [ˈænəˌlaɪz]
+分析;分解

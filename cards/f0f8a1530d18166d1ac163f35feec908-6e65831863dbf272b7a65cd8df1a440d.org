@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* math [mæθ]
+数学

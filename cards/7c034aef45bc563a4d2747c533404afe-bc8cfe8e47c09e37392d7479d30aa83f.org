@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* grandmother [ˈɡrændˌmʌðɚ;ˈɡæ-]
+祖母;外祖母

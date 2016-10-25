@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* spy [spaɪ]
+间谍;特务侦察

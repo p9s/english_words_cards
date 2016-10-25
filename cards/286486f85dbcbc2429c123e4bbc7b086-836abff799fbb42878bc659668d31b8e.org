@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* broad [brɔd]
+宽的;广阔的

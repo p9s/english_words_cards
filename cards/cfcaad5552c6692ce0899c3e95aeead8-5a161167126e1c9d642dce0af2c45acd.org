@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* instruct [ɪnˈstrʌkt]
+教;指示;通知

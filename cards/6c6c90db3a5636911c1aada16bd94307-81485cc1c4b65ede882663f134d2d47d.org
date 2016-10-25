@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* distract [dɪˈstrækt]
+分散;打扰;分心;困恼;使分心分神;迷惑;心不在焉的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* record [ˈrekərd]
+记录;记载;唱片

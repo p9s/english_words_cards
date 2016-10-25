@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* debut [deˈbju;ˈˌ]
+初次登台;初次露面

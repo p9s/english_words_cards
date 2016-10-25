@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* can [kæn]
+罐头;听头

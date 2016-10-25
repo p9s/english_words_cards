@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* maintain [menˈten]
+维持;赡养;维修

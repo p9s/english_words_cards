@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* worldwide [ˈwɜrldwaɪd]
+遍及全球的;世界性的;世界范围的;全世界的

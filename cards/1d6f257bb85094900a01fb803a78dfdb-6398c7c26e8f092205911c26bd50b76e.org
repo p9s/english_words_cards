@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* instantly [ˈɪnstəntli]
+立即;即刻

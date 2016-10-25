@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* glory [ˈɡlɔri;ˈɡ]
+光荣;荣誉的事

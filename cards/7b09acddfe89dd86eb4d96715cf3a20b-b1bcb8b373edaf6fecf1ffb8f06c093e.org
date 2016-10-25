@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* right [raɪt]
+正好;恰恰

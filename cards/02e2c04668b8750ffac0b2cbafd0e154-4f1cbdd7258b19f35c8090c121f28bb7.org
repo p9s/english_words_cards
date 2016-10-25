@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dilemma [dɪˈlɛmə]
+困境;左右为难

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* asleep [əˈslip]
+睡着的;睡熟的

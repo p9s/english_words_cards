@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* push [pʊʃ]
+推;逼迫推

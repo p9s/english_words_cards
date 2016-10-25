@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* town [taʊn]
+镇;市镇;城镇

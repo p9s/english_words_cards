@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tournament [ˈtʊrnəmənt]
+比赛;（旧时）骑士比武大会

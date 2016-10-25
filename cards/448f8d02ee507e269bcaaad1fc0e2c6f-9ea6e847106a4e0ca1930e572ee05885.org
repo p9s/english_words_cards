@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* former [ˈfɔrmə]
+在前的前者

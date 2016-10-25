@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* column [ˈkɑləm]
+柱;支柱;圆柱

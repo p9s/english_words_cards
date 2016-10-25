@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fragment [ˈfræɡmənt]
+碎片;破片;碎块

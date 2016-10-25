@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* snap [snæp]
+猛咬;突然折断

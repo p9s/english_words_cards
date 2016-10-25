@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ego [ˈigoʊ]
+自我

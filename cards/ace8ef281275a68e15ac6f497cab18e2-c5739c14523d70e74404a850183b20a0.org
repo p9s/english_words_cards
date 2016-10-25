@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* health [hɛlθ]
+健康;健康状况

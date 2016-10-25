@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shape [ʃep]
+形状;情况形成

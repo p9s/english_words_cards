@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bus [bʌs]
+公共汽车;总线;信息通路

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* candle [ˈkændl]
+蜡烛

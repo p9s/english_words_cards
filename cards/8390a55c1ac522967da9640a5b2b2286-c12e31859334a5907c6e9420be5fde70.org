@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* threshold [ˈθreʃhoʊld]
+门槛;入门;开端

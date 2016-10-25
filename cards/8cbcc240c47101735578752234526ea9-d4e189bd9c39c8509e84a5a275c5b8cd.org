@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* briefly [ˈbriːfli]
+简单地;简短地;短暂地;简略地;简要地

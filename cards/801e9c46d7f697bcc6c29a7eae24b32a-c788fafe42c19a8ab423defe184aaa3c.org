@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* story [ˈstɔri;ˈ]
+故事;小说;传说

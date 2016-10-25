@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* situation [ˌsɪtʃuˈeʃən]
+位置;处境;形势

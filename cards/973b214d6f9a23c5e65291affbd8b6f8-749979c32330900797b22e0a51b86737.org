@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* digital [ˈdɪdʒɪtl]
+数字的;计数的

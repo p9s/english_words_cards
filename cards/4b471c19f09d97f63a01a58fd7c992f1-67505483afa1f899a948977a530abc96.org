@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* either [ˈiðɚ;ˈɪðɚ]
+或者;要么

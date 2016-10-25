@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fatigue [fəˈtiɡ]
+疲劳;劳累

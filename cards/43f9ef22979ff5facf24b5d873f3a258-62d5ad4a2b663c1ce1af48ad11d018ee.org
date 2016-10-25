@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* front [frʌnt]
+前面的前部

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fur [fɚ]
+软毛;皮毛

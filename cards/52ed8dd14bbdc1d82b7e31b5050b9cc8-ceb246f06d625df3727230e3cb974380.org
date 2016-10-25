@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* brake [brek]
+闸;刹车制动

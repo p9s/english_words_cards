@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* colonial [kəˈloʊniəl]
+殖民地的;殖民的

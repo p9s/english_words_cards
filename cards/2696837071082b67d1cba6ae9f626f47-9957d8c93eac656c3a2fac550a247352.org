@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* consideration [kənˌsɪdəˈreʃən]
+考虑;思考;体贴;照顾;原因;体谅;研究;讨论;补偿;报酬;理由;需考虑到的事;关心

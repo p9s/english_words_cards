@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lock [lɑk]
+锁锁上;锁住

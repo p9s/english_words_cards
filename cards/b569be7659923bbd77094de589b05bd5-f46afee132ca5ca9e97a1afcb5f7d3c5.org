@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* clinical [ˈklɪnɪkəl]
+临床的;病房用的

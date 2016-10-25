@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wine [waɪn]
+酒

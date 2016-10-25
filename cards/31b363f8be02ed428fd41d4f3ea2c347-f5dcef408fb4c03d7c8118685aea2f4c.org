@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* incentive [ɪnˈsɛntɪv]
+刺激;鼓励

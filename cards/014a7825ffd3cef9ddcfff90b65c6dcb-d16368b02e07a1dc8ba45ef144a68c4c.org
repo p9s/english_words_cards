@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* narrow [ˈnæroʊ]
+狭窄的

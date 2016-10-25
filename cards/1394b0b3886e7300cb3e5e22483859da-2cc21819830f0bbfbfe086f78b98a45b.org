@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* kitchen [ˈkɪtʃən]
+厨房;灶间

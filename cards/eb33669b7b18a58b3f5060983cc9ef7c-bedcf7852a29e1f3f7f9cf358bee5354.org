@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* heritage [ˈhɛrɪtɪdʒ]
+遗产;继承物

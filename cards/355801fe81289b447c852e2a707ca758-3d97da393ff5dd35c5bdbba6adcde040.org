@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* peanut [ˈpiˌnʌt]
+花生;极小的数额

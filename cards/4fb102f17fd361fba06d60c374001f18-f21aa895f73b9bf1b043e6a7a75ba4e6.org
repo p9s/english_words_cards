@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* panic [ˈpænɪk]
+恐慌;惊慌

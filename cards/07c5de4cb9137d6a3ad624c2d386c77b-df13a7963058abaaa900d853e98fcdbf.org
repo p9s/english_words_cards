@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* statue [ˈstætʃu]
+塑像;雕像;铸像

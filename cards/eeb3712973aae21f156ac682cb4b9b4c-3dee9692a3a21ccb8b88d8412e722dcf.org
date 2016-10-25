@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* objective [əbˈdʒɛktɪv]
+客观的;无偏见的

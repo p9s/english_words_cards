@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* contemporary [kənˈtempəreri]
+当代的;同时代的

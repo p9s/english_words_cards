@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* subsidy [ˈsʌbsɪdi]
+补助金

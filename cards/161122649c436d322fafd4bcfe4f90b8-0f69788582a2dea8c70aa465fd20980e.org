@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wagon [ˈwæɡən]
+篷车;四轮货运马车

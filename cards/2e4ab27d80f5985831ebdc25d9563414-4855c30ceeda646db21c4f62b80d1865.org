@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* maintenance [ˈmentənəns]
+扶养;坚持

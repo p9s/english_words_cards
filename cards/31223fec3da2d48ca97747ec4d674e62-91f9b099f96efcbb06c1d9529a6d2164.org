@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* collaboration [kəˌlæbəˈreɪʃn]
+合作;协作;通敌;勾结

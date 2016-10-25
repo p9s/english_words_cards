@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rich [rɪtʃ]
+有钱的;富裕的

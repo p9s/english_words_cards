@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mouth [maʊθ]
+嘴;口;口腔

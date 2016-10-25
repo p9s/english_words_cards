@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* auto [ˈɔtoʊ]
+汽车

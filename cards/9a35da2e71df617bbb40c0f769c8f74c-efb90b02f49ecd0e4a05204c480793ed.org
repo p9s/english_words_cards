@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* prominent [ˈprɑmɪnənt]
+实起的;突出的

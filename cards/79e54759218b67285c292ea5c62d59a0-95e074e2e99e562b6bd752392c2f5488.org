@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* structural [ˈstrʌktʃərəl]
+结构的;构造的

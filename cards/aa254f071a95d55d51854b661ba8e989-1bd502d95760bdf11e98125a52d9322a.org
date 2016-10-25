@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mobile [ˈmoʊbl]
+运动的;流动的

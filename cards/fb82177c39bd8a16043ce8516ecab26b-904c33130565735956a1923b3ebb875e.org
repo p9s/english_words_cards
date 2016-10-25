@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* coin [kɔɪn]
+硬币;铸造

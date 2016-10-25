@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* anyone [ˈɛniˌwʌn; -ə]
+任何人

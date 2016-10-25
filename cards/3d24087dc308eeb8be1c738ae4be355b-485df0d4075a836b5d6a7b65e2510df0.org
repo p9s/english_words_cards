@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* restore [rɪˈstɔr;-ˈ]
+恢复;归还;修补

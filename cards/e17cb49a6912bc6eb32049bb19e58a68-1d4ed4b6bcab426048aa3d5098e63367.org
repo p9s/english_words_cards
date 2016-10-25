@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* despite [dɪˈspaɪt]
+尽管;不管;不顾;任凭;轻蔑

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ecological [ˌikəˈlɑdʒɪkl]
+生态的;生态学的

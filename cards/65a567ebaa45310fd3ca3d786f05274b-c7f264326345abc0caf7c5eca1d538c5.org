@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* patient [ˈpeʃənt]
+忍耐的病人

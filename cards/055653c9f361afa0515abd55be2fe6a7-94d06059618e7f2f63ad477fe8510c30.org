@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* regulation [ˌrɛɡjəˈleʃən]
+规章;规则;调节

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* die [daɪ]
+死

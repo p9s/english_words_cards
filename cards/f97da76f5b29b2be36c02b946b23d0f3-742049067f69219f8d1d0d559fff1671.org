@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* seed [sid]
+种子

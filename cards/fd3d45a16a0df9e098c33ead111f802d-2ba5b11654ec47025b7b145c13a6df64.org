@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* know [noʊ]
+知道;认识;通晓

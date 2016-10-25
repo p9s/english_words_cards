@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tired [ˈtaɪərd]
+疲劳的;累的

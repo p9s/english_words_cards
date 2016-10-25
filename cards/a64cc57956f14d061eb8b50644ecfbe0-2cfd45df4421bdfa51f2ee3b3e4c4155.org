@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ignore [ɪɡˈnɔr;-ˈ]
+不顾;不理;忽视

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* skin [skɪn]
+皮;皮肤

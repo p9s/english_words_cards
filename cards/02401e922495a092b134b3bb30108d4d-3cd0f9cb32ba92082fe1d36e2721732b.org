@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* step [stɛp]
+步;步骤走

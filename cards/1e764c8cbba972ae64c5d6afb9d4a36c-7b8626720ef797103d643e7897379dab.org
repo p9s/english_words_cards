@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* barrel [ˈbærəl]
+桶;圆筒;枪管

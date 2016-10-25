@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* silent [ˈsaɪlənt]
+沉默的;寂静无声的

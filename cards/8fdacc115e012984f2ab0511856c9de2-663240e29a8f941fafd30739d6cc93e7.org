@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* camp [kæmp]
+野营;营地;兵营

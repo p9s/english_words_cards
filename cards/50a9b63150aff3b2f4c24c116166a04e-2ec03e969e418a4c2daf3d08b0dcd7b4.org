@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* exclusively [ɪkˈsklusɪvlɪ]
+排外地;专门地;独占地;独有地

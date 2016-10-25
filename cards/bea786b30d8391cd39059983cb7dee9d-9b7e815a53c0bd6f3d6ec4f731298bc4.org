@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* spectacular [spɛkˈtækjəlɚ]
+壮观的;引人入胜的

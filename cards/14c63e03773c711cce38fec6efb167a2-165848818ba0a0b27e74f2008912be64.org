@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* innocent [ˈɪnəsənt]
+清白的;幼稚的

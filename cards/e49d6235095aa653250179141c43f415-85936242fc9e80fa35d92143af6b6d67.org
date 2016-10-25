@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dialogue [ˈdaɪəˌlɔɡ;-ˌɑɡ]
+对话

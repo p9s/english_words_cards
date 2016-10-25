@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reminder [rɪˈmaɪndər]
+提醒的人;暗示

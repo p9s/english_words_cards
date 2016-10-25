@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stand [stænd]
+站;坐落架;台

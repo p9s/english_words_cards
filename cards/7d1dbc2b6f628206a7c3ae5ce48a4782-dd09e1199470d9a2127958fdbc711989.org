@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* spiritual [ˈspɪrɪtʃuəl]
+精神的;心灵的

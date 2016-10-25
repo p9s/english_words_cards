@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* feminist [ˈfɛmənɪst]
+女权运动者

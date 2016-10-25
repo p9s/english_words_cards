@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* avoid [əˈvɔɪd]
+避免;回避;躲开

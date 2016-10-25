@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pickup [ˈpɪkˌʌp]
+拾起;收集;获得

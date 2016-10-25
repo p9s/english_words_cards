@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* suffering [ˈsʌfərɪŋ;ˈʌɪŋ]
+痛苦;苦难

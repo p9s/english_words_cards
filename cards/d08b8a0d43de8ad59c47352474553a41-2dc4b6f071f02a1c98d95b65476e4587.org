@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* twin [twɪn]
+孪生的孪生儿

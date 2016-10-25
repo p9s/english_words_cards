@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* similarly [ˈsɪmələrli]
+同样地;类似地;相似地

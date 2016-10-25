@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* funny [ˈfʌni]
+滑稽可笑的

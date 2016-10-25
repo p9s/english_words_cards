@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* single [ˈsɪŋɡəl]
+单一的;独身的

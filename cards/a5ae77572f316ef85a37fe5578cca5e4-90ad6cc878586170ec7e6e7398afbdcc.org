@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* condemn [kənˈdɛm]
+谴责;指责;判刑

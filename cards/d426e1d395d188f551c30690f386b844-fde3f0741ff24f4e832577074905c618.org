@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cord [kɔrd]
+细绳;弦

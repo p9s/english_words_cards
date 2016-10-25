@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* basketball [ˈbæskɪtbɔl]
+篮球;篮球运动

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* suicide [ˈsuɪˌsaɪd]
+自杀

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* replace [rɪˈples]
+把…放回;取代

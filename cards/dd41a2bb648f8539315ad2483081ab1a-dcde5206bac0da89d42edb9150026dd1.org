@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* arm [ɑrm]
+手臂;胳膊

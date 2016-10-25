@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* recipe [ˈresəpi]
+菜谱;烹饪法;处方

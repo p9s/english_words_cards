@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* honest [ˈɑnɪst]
+诚实的;可敬的

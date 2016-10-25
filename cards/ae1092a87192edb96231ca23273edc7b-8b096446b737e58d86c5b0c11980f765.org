@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* prevail [prɪˈvel]
+胜;优胜;流行

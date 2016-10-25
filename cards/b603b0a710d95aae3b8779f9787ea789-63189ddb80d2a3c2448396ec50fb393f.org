@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* breath [brɛθ]
+呼吸;气息

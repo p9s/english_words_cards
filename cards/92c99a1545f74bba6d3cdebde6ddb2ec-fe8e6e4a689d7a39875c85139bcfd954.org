@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* handsome [ˈhænsəm]
+漂亮的;清秀的

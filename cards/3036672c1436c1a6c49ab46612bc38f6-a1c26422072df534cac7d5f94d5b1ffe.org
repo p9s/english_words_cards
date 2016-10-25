@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* strengthen [ˈstrɛŋkθən;ˈstrɛŋ-;ˈstrɛn-]
+加强;巩固

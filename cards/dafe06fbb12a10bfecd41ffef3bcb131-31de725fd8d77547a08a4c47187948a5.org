@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* earthquake [ˈɜrθkweɪk]
+地震

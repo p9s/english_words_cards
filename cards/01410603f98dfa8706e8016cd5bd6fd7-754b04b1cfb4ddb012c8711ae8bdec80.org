@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* teach [titʃ]
+讲;教育教书

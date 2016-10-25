@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* electricity [ɪlɛkˈtrɪsɪti;ˌilɛk-]
+电;电学;电流

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sugar [ˈʃʊɡɚ]
+糖

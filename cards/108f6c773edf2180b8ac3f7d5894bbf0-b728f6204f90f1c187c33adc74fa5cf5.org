@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* truck [trʌk]
+卡车

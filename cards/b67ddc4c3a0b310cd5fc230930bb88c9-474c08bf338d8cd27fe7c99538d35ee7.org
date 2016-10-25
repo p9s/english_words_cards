@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sales [seɪlz]
+销售;销售额;出售的

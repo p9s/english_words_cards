@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* worried [ˈwɜrid]
+焦虑的;烦恼的;担心的;忧心忡忡的;担忧的;焦急的

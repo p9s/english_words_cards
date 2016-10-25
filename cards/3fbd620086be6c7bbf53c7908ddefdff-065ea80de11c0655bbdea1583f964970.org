@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* commitment [kəˈmɪtmənt]
+约束;责任;承诺;约定

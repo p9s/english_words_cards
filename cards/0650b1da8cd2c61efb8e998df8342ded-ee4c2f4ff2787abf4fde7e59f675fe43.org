@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* major [ˈmedʒɚ]
+较大的专业

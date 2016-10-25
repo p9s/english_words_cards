@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* remote [rɪˈmoʊt]
+相隔很远的;冷淡的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* adoption [əˈdɑpʃn]
+收养;采纳;采取

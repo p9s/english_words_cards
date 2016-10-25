@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* electronics [ɪˌlekˈtrɑnɪks]
+电子学

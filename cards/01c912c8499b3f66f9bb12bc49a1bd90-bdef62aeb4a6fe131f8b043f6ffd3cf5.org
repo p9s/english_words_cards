@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* search [sɜrtʃ]
+在…中搜寻;搜查

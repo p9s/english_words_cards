@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* win [wɪn]
+获胜赢得

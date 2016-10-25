@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* worry [ˈwɜri]
+担忧

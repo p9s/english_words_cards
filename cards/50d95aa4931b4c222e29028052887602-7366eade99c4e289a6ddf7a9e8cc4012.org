@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* condition [kənˈdɪʃən]
+条件;状况

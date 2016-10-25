@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* prefer [prɪˈfɚ]
+宁可;宁愿

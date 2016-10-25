@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* suspicious [səˈspɪʃəs]
+可疑的;猜疑的

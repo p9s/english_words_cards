@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* turkey [ˈtɜrki]
+火鸡;火鸡肉

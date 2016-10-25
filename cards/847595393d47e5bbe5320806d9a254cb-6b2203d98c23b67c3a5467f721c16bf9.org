@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* inevitably [ɪnˈevɪtəbli]
+必然地;不可避免地;不可避免的

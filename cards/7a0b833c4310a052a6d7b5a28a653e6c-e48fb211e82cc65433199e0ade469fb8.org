@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tie [taɪ]
+系;栓

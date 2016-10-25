@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* low [loʊ]
+低的;浅的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cab [kæb]
+计程车;出租汽车;出租单马车

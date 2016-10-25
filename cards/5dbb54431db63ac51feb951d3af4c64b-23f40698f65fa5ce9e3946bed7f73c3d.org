@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lightly [ˈlaɪtli]
+轻轻地;轻松地

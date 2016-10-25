@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gather [ˈɡæðɚ]
+推测;推断

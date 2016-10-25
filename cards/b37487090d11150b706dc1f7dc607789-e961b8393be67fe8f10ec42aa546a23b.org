@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* publicly [ˈpʌblɪkli]
+公开地;公然;公众所有地

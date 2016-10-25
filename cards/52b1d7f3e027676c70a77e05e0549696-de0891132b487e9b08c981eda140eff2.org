@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* exclusive [ɪkˈsklusɪv]
+除外的;孤傲的

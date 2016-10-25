@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* diary [ˈdaɪəri]
+日记;日记簿

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* oil [ɔɪl]
+油;石油加油于

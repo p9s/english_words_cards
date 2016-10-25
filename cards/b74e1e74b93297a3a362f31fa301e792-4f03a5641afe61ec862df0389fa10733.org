@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rip [rɪp]
+撕啐;扯破;划破

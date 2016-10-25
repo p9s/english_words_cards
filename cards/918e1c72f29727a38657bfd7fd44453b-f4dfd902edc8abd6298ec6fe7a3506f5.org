@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* candy [ˈkændi]
+糖果;砂糖结晶

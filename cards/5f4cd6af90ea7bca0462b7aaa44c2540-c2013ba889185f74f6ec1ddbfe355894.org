@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* article [ˈɑrtɪkl]
+文章;论文;冠词

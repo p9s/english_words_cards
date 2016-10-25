@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* never [ˈnɛvɚ]
+从来没有;决不

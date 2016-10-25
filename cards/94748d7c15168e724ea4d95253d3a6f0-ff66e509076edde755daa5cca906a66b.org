@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* log [lɔg]
+原木;木料

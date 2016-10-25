@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sack [sæk]
+袋;麻袋;开除

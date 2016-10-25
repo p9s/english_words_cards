@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* kit [kɪt]
+成套工具;用具包

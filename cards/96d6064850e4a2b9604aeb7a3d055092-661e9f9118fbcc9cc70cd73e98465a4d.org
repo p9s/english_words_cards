@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* formula [ˈfɔrmjələ]
+公式;式

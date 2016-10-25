@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* precise [prɪˈsaɪs]
+精确的;准确的

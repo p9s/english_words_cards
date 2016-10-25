@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dough [doʊ]
+生面团

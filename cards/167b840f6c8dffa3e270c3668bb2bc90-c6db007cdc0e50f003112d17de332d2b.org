@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* religious [rɪˈlɪdʒəs]
+宗教的;虔诚的

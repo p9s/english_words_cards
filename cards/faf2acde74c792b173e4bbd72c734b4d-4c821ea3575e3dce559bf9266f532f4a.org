@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* provided [prəˈvaɪdɪd]
+以…为条件

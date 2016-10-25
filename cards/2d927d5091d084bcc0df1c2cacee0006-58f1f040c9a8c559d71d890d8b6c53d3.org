@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tiny [ˈtaɪni]
+微小的;极小的

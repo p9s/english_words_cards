@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Islam [ɪsˈlɑm;ɪz-]
+伊斯兰教;回教

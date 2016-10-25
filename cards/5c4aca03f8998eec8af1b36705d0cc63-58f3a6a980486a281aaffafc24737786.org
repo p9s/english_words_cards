@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* differently [ˈdɪfərəntlɪ]
+不同地;有差别地

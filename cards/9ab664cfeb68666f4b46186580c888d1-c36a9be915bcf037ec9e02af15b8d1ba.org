@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* enroll [ɛnˈrol]
+登记;招收参军

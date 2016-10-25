@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* habitat [ˈhæbɪˌtæt]
+自然环境;栖息地

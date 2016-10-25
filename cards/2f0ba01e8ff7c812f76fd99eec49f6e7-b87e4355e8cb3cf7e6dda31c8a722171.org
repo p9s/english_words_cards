@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* attendance [əˈtɛndəns]
+到场;出席人数

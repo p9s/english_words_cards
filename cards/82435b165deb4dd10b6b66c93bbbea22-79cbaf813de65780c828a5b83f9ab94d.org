@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* recent [ˈrisənt]
+新近的;最近的

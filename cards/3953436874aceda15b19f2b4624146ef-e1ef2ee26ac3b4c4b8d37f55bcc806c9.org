@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* statistical [stəˈtɪstɪkəl]
+统计的;统计学的

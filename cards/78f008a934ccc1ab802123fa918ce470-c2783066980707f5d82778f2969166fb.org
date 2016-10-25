@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* training [ˈtrenɪŋ]
+训练;锻炼;培养

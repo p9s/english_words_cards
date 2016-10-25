@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* existing [ɪɡˈzɪstɪŋ]
+现存的;已有的;现有的;现行的;目前的

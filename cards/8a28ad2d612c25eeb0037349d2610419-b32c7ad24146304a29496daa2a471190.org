@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sister [ˈsɪstɚ]
+姐、妹

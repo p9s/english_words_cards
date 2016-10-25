@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* understand [ˌʌndərˈstænd]
+懂;获悉懂得

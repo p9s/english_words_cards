@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* anger [ˈæŋɡɚ]
+发怒

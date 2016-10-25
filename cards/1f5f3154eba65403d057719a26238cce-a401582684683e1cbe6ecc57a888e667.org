@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* prospect [ˈprɑspekt]
+展望;前景;前程

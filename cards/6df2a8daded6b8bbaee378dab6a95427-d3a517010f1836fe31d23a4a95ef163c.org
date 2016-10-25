@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sweater [ˈswɛtɚ]
+厚运动衫;毛线衫

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pleased [pli:zd]
+高兴的;欣喜的;乐意的

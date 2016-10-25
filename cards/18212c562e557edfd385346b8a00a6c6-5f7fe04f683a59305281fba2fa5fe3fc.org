@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* naturally [ˈnætʃərəli;ˈæʃə-]
+自然地;天然地;必然地;天生地

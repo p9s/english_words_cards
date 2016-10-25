@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* municipal [mjuˈnɪsəpəl]
+市的;市立的

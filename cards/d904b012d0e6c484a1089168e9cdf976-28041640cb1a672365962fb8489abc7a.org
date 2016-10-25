@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* belief [bɪˈlif]
+相信;信念;信仰

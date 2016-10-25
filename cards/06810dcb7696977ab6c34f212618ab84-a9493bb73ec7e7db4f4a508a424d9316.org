@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rational [ˈræʃənəl]
+推理的;适度的

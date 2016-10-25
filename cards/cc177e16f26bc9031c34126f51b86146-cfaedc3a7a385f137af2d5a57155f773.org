@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* novel [ˈnɑvl]
+小说新的

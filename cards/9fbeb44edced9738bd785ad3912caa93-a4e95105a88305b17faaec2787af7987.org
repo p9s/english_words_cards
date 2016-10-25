@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* event [ɪˈvɛnt]
+事件;大事;事变

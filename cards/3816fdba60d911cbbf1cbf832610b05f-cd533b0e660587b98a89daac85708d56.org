@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* excellent [ˈɛksələnt]
+极好的;优秀的

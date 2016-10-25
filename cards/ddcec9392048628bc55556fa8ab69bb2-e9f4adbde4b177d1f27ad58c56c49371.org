@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pension [ˈpɛnʃən]
+抚恤金;年金

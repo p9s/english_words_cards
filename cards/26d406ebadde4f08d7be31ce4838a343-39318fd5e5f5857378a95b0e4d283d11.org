@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sanction [ˈsæŋkʃən]
+/批准;认可

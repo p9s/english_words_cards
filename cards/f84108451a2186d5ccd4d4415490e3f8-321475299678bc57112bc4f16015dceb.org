@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* impressive [ɪmˈprɛsɪv]
+给人印象深刻的

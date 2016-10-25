@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* compound [ˈkɑmpaʊnd]
+化合物;复合词

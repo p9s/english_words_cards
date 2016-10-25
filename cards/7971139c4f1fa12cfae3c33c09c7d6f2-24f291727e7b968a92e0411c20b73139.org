@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* steady [ˈstɛdi]
+坚定的;扎实的

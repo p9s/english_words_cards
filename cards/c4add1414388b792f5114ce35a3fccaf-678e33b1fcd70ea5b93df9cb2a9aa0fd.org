@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sharply [ˈʃɑrpli]
+锐利地;敏锐地

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* property [ˈprɑpərti]
+财产;财产权

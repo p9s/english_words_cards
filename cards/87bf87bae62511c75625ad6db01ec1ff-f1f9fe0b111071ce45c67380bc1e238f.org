@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* comfort [ˈkʌmfərt]
+舒适;安慰安慰

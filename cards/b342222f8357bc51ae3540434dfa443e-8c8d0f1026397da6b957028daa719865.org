@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* love [lʌv]
+爱;喜欢爱

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* artificial [ˌɑrtɪˈfɪʃl]
+人工的;娇揉造作的

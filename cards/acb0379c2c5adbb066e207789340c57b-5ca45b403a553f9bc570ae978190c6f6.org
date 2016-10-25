@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* professor [prəˈfɛsɚ]
+教授;索比教授;宣称者;声明者

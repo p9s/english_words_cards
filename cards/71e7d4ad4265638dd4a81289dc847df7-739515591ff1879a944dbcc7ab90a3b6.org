@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* diplomatic [ˌdɪpləˈmætɪk]
+外交的;有策略的

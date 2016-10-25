@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* drawing [ˈdrɔɪŋ]
+图画;素描;绘图

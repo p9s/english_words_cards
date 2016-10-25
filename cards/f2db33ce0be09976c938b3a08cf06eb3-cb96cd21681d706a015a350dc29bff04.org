@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* quit [kwɪt]
+离开;退出;停止

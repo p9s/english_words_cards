@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* deadline [ˈdɛdˌlaɪn]
+期限;最后付款期限;最后期限;截止交稿日期;监牢周围的死线

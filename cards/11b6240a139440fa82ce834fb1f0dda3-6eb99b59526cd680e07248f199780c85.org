@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* parking [ˈpɑrkɪŋ]
+停放车辆

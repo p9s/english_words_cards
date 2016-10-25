@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* alike [əˈlaɪk]
+同样的;相同的

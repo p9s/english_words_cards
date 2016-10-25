@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* missile [ˈmɪsl]
+发射物;导弹

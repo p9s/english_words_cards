@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* franchise [ˈfrænˌtʃaɪz]
+公民权;特权;免赔额

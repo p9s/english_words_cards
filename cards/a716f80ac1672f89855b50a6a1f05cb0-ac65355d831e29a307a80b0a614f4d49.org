@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* newspaper [ˈnuzpeɪpə]
+报纸

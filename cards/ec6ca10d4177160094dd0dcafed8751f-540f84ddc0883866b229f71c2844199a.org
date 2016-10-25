@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* danger [ˈdendʒɚ]
+危险

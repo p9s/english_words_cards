@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* leather [ˈlɛðɚ]
+皮革;皮革制品

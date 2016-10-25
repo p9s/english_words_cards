@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* consequently [ˈkɑnsəkwentli]
+因此;因而;所以

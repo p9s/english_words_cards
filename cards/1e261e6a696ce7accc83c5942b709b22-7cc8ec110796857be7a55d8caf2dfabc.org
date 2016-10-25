@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* installation [ˌɪnstəˈleʃən]
+安装;装置;设施

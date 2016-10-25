@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* help [hɛlp]
+帮助;帮忙

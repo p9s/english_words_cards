@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pistol [ˈpɪstəl]
+手枪

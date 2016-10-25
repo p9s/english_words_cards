@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* transmit [trænsˈmɪt;æ-]
+传送;传达;发射

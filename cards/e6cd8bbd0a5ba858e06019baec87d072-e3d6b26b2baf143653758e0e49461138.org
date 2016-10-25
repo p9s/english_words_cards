@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* answer [ˈænsə]
+回答;响应;适应

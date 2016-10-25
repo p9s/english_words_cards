@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dozen [ˈdʌzən]
+一打;十二个

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* admission [ædˈmɪʃən]
+允许进入;承认

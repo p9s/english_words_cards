@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* evidence [ˈɛvɪdəns]
+根据;证据;证人

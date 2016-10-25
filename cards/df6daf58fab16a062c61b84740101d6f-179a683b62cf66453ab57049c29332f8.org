@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* smooth [smuð]
+光滑的;平静的

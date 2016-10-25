@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lion [ˈlaɪən]
+狮子;勇猛的人

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mild [maɪld]
+和缓的;温柔的

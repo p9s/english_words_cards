@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* predict [prɪˈdɪkt]
+预言;预告;预测

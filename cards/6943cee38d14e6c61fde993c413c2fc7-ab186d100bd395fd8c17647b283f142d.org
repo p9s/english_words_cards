@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* acceptance [ækˈsɛptəns]
+接受;验收;承认

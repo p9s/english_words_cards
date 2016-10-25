@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* series [ˈsɪriz]
+连续;系列;丛书

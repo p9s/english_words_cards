@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cemetery [ˈseməteri]
+公墓;墓地

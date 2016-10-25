@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* catch [kætʃ;ɛʃ]
+钩住;挂住;绊住

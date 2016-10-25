@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stress [ɛ]
+压力;重音着重

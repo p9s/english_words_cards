@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* blast [blæst]
+管乐器的声音

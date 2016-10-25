@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* equip [ɪˈkwɪp]
+装备;配备

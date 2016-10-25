@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* from [frʌm]
+从;从起;由

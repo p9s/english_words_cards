@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shortly [ˈʃɔrtli]
+立刻;不久

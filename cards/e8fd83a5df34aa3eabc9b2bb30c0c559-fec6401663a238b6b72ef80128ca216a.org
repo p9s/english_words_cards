@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* schedule [ˈskedʒul]
+时间表;计划表

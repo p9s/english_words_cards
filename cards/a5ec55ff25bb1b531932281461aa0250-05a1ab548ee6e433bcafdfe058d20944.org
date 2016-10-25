@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pregnant [ˈprɛɡnənt]
+怀孕的;意义深长的

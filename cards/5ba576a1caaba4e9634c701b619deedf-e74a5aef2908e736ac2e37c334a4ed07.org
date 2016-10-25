@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* director [dɪˈrɛktɚ;ɪ-]
+指导者;理事;导演

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* except [ɪkˈsɛpt]
+除之外

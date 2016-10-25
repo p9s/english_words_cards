@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* thing [θɪŋ]
+事情;东西

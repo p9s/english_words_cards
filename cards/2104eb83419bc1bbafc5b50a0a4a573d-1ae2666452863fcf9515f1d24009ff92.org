@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* script [skrɪpt]
+手迹;手稿;副本

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* video [ˈvɪdioʊ]
+录象的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* accommodate [əˈkɑmədeɪt]
+容纳;供应;供给

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* connection [kəˈnɛkʃən]
+连接;联系;连贯性

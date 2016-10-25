@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* loyalty [ˈlɔɪəlti]
+忠诚;忠心

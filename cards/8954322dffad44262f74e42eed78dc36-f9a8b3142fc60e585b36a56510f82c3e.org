@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* essential [ɪˈsɛnʃəl]
+必要的;本质的

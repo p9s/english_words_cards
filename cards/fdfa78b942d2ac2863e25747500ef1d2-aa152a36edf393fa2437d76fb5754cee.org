@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lap [læp]
+膝部;一圈

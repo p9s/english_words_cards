@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* delivery [dɪˈlɪvəri;-ˈɪ]
+投递;交付;分娩;递送;讲述;送交;交货;传送;交货;发送;传递

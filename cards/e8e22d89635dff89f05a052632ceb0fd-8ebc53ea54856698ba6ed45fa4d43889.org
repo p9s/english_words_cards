@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* partner [ˈpɑrtnə]
+伙伴;搭挡;配偶

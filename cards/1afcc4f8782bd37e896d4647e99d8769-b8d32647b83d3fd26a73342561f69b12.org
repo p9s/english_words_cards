@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sound [saʊnd]
+健康的;完好的

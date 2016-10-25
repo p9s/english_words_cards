@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* seemingly [ˈsiːmɪŋli]
+表面上;外表上

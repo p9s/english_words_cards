@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* flash [flæʃ]
+一闪;闪亮

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* send [sɛnd]
+送;派遣;发射

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dirt [dɜrt]
+尘;土;污物;污垢

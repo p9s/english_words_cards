@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* assembly [əˈsɛmbli]
+集合;集会;装配

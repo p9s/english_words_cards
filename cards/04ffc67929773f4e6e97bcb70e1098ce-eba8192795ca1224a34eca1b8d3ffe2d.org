@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rapidly [ˈræpɪdlɪ]
+迅速地;急速地;敏捷地;险峻地

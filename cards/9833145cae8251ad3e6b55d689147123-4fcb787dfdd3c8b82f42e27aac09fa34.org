@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* occasionally [əˈkeɪʒnəli]
+偶然;非经常地;偶而;有时

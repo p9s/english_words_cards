@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* young [jʌŋ]
+年青的

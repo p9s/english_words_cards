@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* seldom [ˈsɛldəm]
+很少;不常

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* environmental [ɛnˌvaɪrənˈmɛntl;-ˌɪə]
+环境的;环境产生的;周围的

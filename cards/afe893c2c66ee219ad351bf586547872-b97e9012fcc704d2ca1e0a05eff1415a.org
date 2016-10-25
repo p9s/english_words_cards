@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* proclaim [proˈklem;ə-]
+宣告;宣布;表明

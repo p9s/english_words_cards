@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* debt [dɛt]
+债;债务;欠债

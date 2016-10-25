@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shot [ʃɑt]
+发射;射击声

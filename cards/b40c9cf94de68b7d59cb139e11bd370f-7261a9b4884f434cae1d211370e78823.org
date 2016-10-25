@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* secure [səˈkjʊr]
+安心的;安全的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* implication [ˌɪmplɪˈkeʃən]
+含义;暗示;暗指

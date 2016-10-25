@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* combine [kəmˈbaɪn]
+使结合;兼有

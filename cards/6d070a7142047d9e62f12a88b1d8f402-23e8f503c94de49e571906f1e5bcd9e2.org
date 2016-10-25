@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* decrease [dɪˈkris]
+减少;降低;缩短;减小;减弱;减少;减小

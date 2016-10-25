@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* liability [ˌlaɪəˈbɪlɪti]
+责任;倾向;债务

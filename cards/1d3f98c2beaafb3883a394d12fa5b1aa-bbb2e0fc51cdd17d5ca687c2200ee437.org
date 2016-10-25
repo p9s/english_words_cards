@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* examine [ɪɡˈzæmɪn]
+检查;诊察

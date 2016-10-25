@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* anything [ˈɛniˌθɪŋ]
+任何事

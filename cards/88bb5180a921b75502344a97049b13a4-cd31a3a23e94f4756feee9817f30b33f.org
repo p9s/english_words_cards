@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* inspire [ɪnˈspaɪr]
+鼓舞;给…以灵感

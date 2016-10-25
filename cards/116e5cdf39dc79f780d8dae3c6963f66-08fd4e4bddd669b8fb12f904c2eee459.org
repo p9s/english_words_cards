@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* convert [kənˈvɜrt]
+转变;改变;变换;使转变;使改变;变更;转换;改变信仰;改变信仰者

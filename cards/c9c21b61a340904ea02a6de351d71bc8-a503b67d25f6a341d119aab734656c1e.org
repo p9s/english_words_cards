@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* legal [ˈliɡəl]
+法律的;合法的

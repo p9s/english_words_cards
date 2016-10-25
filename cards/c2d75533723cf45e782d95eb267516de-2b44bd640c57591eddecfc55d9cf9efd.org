@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* economist [ɪˈkɑnəmɪst]
+经济学者;经济家

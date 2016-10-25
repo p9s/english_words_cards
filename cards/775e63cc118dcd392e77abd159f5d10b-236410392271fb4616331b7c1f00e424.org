@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* soft [sɔft]
+软的;柔和的

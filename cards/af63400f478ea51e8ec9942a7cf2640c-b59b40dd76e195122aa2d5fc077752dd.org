@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fishing [ˈfɪʃɪŋ]
+钓鱼;捕鱼;渔场;渔业

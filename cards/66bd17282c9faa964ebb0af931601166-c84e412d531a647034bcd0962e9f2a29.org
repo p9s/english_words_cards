@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* legislation [ˌlɛdʒɪˈsleʃən]
+立法;法规

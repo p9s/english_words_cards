@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* frustration [frʌˈstreʃən]
+打破;挫折;顿挫

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* constraint [kənˈstrent]
+强迫;结束;强制力

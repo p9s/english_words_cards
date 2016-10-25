@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wind [wɪnd]
+风

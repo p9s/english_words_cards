@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* chemical [ˈkɛmɪkəl]
+化学的

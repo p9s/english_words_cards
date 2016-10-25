@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* entry [ˈɛntri]
+入口处;登记;进入

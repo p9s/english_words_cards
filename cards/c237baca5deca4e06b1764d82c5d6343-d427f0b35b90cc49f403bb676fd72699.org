@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* jar [dʒɑr]
+坛子;罐子;缸

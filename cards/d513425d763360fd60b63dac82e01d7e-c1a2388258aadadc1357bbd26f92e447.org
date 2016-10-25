@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* chase [tʃes]
+追逐;追赶;追求

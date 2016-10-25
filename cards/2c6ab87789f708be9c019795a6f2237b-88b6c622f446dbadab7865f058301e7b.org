@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ancestor [ˈænˌsɛstɚ]
+祖宗;祖先

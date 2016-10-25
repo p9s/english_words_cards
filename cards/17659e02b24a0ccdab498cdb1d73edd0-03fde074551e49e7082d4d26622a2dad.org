@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* count [kaʊnt]
+数;计数

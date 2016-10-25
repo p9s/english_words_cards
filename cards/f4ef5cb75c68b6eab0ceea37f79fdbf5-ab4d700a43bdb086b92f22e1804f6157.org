@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* celebrity [səˈlɛbrɪti]
+名人;知名人士

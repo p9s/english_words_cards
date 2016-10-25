@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* specialty [ˈspɛʃəlti]
+专业;专长;特别;名产;特产

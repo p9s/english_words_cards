@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* glimpse [ɡlɪmps]
+瞥见一瞥;一看

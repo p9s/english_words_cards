@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* above [əˈbʌv]
+在…上面;高于

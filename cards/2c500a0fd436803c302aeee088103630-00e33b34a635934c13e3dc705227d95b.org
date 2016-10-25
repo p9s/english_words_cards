@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fraction [ˈfrækʃən]
+小部分;片断;分数

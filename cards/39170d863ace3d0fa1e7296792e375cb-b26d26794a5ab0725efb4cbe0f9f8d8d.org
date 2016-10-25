@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pork [pɔrk]
+猪肉

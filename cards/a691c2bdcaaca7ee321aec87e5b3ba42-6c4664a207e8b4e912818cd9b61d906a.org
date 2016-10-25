@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* quiet [ˈkwaɪɪt]
+安静的;平静的

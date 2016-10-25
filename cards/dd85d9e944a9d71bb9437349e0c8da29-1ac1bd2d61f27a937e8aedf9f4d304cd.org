@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* athlete [ˈæθˌlit]
+运动员;田径运动员

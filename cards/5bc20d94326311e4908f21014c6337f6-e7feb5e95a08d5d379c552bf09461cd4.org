@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* supposed [səˈpoʊzd]
+想象的;假定的;推测的

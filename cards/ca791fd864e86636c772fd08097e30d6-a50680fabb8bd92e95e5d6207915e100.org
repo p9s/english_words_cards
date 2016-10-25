@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* average [ˈævərɪdʒ;ˈæɪʒ]
+平均数平均的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rhythm [ˈrɪðəm]
+韵律;格律;节奏

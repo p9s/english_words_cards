@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pick [pɪk]
+镐;鹤嘴锄

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* giant [ˈdʒaɪənt]
+巨人;巨物

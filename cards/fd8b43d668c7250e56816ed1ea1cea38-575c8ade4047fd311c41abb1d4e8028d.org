@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* massive [ˈmæsɪv]
+粗大的;大而重的

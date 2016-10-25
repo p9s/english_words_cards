@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* son [sʌn]
+儿子

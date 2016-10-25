@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* forth [fɔrθ]
+向前;向外;往外

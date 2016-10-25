@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fast [fæst]
+快地快的

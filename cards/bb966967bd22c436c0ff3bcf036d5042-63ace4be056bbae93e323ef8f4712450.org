@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* establish [ɪˈstæblɪʃ]
+建立;设立;确立

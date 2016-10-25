@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* extreme [ɪkˈstrim]
+极端不同的性质

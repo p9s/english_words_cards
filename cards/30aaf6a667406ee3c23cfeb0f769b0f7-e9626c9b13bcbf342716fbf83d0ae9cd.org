@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* killer [ˈkɪlɚ]
+杀生者;杀人者;职业杀手

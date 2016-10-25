@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* soul [soʊl]
+灵魂;精神;人

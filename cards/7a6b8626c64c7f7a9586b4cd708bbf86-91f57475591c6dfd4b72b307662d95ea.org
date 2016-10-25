@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* faculty [ˈfækəlti]
+才能;能力;系;科

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* solely [ˈsoʊlli]
+唯一地;只;完全;单独地

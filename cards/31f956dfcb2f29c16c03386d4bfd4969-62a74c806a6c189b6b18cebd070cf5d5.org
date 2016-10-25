@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* male [ˈmel]
+男的;雄的男子

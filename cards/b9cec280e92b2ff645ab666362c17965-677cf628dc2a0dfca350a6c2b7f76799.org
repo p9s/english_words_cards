@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* eyebrow [ˈaɪˌbraʊ]
+眉毛

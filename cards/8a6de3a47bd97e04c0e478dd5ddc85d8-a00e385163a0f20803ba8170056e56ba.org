@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* accident [ˈæksɪdənt; -ˌɛ]
+意外的;事故

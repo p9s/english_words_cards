@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* chicken [ˈtʃɪkən]
+鸡肉;小鸡

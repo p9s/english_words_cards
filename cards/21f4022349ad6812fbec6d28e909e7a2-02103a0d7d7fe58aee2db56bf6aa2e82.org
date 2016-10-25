@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* coach [koʊtʃ]
+辅导;指导;训练

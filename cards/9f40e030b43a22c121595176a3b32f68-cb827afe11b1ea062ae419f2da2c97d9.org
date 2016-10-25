@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* appropriate [əˈproʊpriət]
+适当的;恰当的

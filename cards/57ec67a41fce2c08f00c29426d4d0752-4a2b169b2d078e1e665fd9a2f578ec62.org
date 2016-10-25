@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* experienced [ɪkˈspɪriənst]
+有经验的;老练的;熟练的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* suppose [səˈpoʊz]
+假定;猜想

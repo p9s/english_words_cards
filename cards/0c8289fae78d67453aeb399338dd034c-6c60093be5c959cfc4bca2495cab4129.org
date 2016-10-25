@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cause [kɔz]
+原因;理由;事业

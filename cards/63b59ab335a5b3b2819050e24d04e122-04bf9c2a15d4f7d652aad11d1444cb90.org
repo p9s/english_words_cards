@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* strict [strɪkt]
+严格的;严谨的

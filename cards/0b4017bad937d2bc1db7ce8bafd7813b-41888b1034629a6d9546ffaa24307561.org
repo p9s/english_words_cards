@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* chaos [ˈkeɪɑs]
+混乱

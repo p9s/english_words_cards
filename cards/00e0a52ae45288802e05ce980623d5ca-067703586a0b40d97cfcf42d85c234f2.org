@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tongue [tʌŋ]
+舌头;语言;口语

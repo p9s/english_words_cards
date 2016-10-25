@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* indicate [ˈɪndɪˌket]
+标示;表示;表明

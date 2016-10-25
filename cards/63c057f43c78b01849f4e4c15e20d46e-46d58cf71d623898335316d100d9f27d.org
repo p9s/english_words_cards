@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* excited [ɪkˈsaɪtɪd]
+兴奋的;激昂的;激动的

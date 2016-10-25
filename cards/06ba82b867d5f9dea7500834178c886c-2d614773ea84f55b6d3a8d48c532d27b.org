@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* faster ['fastə]
+更快

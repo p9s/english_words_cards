@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shelter [ˈʃɛltɚ]
+隐蔽处;掩蔽;庇护

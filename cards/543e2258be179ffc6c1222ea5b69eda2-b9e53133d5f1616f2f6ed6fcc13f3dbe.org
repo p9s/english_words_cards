@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* associated [əˈsoʊʃieɪtɪd]
+联合的;相联的副的

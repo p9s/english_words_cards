@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* squad [skwɑd]
+班;小队;小集团

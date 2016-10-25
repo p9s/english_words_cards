@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* compel [kəmˈpɛl]
+强迫;迫使屈服

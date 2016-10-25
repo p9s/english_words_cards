@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* model [ˈmɑdl]
+模型;模式;模特儿

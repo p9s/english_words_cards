@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* typically [ˈtɪpɪklɪ]
+有代表性地

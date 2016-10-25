@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* battle [ˈbætl]
+战斗与…作战

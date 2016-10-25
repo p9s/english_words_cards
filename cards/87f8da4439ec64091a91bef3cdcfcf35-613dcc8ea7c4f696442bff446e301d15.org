@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pizza [ˈpitsə]
+意大利肉饼;比萨饼

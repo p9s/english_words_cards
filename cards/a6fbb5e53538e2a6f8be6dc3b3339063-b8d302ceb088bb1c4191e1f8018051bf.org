@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ideology [ˌaɪdiˈɑlədʒi]
+意识;意识形态

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* estimate [ˈɛstəˌmet]
+估计;评价估计

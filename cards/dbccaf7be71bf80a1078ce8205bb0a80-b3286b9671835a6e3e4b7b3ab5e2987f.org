@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* guarantee [ˌɡærənˈti]
+保证;担保物

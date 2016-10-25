@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* qualify [ˈkwɑlɪfaɪ]
+修饰;限定;使合格;使胜任;使具有资格;限制;取得资格

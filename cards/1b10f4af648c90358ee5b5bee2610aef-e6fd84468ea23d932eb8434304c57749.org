@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rocket [ˈrɑkɪt]
+火箭;火箭发动机

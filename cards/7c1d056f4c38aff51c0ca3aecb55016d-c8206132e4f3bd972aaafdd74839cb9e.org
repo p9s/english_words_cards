@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* attend [əˈtɛnd]
+出席;照顾;护理

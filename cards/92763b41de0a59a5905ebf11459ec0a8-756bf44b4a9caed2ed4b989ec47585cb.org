@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* instinct [ˈɪnˌstɪŋkt]
+本能;直觉;生性

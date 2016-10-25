@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* object [ˈɑbdʒekt]
+物;物体;目的

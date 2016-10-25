@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* campus [ˈkæmpəs]
+校园;学校场地

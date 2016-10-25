@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* money [ˈmʌni]
+货币;金钱;财富

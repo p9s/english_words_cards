@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* automatically [ˌɔtəˈmætɪklɪ]
+自动地;机械地

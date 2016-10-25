@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cultural [ˈkʌltʃərəl]
+文化上的;文化的

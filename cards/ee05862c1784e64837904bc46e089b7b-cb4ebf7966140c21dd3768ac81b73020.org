@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* variation [ˌveriˈeɪʃn]
+变化;变动;变异

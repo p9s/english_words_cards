@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* show [ʃoʊ]
+给…看;表明

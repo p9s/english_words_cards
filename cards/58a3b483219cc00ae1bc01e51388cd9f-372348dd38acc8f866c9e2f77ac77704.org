@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* uncertainty [ʌnˈsɜrtnti]
+不确定;不可靠;半信半疑

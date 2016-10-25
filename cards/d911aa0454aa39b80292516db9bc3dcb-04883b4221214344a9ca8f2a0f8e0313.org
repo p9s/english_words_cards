@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* organizational [ˌɔɡənaɪ'zeɪʃənl]
+组织的

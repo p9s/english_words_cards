@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mentor ['mentɔr]
+导师

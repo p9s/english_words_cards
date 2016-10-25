@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* soar [sɔr;]
+高扬;翱翔

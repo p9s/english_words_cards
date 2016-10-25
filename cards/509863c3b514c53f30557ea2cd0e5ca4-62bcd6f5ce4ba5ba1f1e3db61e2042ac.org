@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* interested [ˈɪntrɪstɪd;-əɪɪ;-əˌɛɪ]
+感兴趣的;关心的;有兴趣;关注的

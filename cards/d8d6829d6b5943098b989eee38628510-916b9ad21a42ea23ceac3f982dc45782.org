@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sink [sɪŋk]
+洗涤槽

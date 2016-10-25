@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sure [ʃʊr]
+确信的;肯定的

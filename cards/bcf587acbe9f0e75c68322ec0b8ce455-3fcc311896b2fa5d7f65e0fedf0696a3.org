@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* category [ˈkætəgɔri]
+种类;类目;范畴

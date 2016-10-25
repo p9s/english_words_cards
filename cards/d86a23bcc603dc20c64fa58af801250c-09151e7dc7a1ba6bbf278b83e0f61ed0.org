@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* effect [ɪˈfɛkt]
+结果;影响;效果

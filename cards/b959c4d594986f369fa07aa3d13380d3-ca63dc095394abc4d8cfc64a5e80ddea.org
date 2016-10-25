@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* likelihood [ˈlaɪkliˌhʊd]
+可能

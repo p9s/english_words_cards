@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* isolate [ˈaɪsəˌlet]
+使隔离;使孤立;隔开;绝缘

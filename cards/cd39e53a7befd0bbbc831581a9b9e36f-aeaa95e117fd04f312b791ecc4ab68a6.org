@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* legislative [ˈledʒɪsleɪtɪv]
+立法的

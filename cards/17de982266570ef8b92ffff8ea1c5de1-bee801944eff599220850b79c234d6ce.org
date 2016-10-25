@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* salad [ˈsæləd]
+色拉;莴苣;生菜

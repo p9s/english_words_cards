@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* apartment [əˈpɑrtmənt]
+公寓;一套公寓房间;套房;一套房间;房间;间;公寓住宅;套间

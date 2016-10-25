@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* passenger [ˈpæsəndʒɚ]
+乘客;旅客

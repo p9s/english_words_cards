@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* elbow [ˈelboʊ]
+用肘挤;挤进

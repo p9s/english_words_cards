@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* European [ˌjʊrəˈpiən]
+欧洲的欧洲人

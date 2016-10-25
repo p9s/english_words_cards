@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dynamics [daɪˈnæmɪks]
+力学;动力学

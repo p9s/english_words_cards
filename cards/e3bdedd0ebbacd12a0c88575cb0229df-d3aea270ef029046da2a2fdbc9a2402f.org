@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* supervisor [ˈsupərvaɪzə]
+监督;主管

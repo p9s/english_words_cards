@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hook [hʊk]
+用钩连接;用钩挂

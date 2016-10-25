@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* destination [ˌdɛstəˈneʃən]
+目的地;终点;目标

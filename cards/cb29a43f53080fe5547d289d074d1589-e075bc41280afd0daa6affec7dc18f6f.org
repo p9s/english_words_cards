@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* extensive [ɪkˈstɛnsɪv]
+广阔的;广泛的

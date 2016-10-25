@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* independent [ˌɪndɪˈpɛndənt]
+独立的;自主的

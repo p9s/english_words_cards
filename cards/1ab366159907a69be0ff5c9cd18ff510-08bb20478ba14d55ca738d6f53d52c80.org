@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* operating [ˈɑpəˌretɪŋ]
+操作的;控制的

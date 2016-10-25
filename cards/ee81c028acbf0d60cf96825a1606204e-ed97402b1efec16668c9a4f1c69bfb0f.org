@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* project [ˈprɑdʒekt]
+方案;工程伸出

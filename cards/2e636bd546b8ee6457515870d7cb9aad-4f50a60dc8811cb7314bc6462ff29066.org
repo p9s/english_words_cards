@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* remove [rɪˈmuv]
+移动;搬开;脱掉

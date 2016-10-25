@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* viewer [ˈvjuɚ]
+观众;观察者;电视观众

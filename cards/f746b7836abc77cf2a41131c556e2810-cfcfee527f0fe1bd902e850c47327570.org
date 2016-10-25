@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lighting [ˈlaɪtɪŋ]
+照明;发光

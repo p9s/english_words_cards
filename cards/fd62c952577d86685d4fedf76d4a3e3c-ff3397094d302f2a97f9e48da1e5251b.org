@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* duck [dʌk]
+鸭;雌鸭;鸭肉

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ultimately [ˈʌltəmɪtli]
+最后;终究;最终;终于

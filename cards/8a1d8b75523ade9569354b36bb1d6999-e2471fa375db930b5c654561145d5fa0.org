@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* method [ˈmɛθəd]
+方法;办法;教学法

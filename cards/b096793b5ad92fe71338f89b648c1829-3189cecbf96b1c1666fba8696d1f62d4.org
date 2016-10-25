@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* effectively [ɪˈfɛktɪvli]
+有效地

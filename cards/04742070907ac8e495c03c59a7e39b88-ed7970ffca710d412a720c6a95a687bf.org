@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* statement [ˈə]
+陈述;声明

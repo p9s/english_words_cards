@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* motive [ˈmoʊtɪv]
+发动的;运动的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* everyday [ˈɛvriˈde]
+每天的;日常的

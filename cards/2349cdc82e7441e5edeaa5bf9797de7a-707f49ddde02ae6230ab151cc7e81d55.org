@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* consumer [kənˈsumə]
+消费者;用户

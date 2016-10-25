@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* usual [ˈjuʒuəl]
+通常的;平常的

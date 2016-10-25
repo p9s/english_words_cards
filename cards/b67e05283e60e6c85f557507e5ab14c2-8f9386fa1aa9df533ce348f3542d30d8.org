@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* weakness [ˈwiknɪs]
+虚弱;软弱;弱点

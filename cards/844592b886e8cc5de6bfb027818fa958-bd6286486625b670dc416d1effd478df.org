@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* blame [blem]
+责备;把…归咎于

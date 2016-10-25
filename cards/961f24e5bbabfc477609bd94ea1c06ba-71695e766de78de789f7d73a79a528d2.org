@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* revolution [ˌrɛvəˈluʃən]
+革命;旋转;绕转

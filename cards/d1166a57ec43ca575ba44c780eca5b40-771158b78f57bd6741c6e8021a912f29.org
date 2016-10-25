@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* proportion [prəˈpɔrʃn]
+比;比率;部分

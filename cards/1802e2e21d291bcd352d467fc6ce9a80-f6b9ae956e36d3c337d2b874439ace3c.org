@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* moon [mun]
+月球;月亮;卫星

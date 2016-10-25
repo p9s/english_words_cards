@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* crack [kræk]
+裂缝;裂纹爆裂

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lawn [lɔn]
+草地;草坪;草场

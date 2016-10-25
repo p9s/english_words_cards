@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* intellectual [ˌɪntlˈɛktʃuəl]
+知识分子智力的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* group [ɡrup]
+小组;群聚集

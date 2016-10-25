@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shift [ʃɪft]
+替换;转移转换

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* refugee [ˌrɛfjʊˈdʒi]
+难民;流亡者

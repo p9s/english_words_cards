@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* consecutive [kənˈsɛkjətɪv]
+连续的;联贯的;始终一贯的

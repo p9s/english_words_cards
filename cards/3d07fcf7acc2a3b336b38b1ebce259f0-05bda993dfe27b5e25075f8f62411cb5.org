@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* married [ˈmærid]
+已婚的;婚姻的;有配偶的

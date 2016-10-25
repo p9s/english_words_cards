@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Irish [ˈaɪrɪʃ]
+爱尔兰的

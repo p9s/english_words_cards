@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cow [kaʊ]
+母牛;奶牛

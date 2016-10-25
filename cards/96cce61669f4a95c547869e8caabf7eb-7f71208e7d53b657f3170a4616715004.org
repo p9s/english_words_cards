@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* album [ˈælbəm]
+粘贴簿;相册;文选

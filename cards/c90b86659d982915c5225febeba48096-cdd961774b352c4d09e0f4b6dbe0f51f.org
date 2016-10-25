@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ritual [ˈrɪtʃuəl]
+仪式;

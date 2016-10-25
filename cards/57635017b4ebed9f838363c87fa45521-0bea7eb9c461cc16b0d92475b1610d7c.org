@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* literally [ˈlɪtərəli]
+确确实实地;照字义;逐字地;简直;字面上;实际上;确实的;毫不夸张地

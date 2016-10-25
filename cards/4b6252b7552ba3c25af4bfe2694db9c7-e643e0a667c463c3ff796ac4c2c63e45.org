@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* communicate [kəˈmjunɪˌket]
+通信;通话

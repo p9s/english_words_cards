@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* validity [vəˈlɪdəti]
+有效;效力;正确

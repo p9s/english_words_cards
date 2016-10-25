@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* yes [jɛs]
+是;是的

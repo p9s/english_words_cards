@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* thoroughly [ˈθɜrəli]
+彻底地;透彻地;充分地;完全地;全面地

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* official [əˈfɪʃəl]
+官方的;正式的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* arrival [əˈraɪvəl]
+到达;到来;到达者

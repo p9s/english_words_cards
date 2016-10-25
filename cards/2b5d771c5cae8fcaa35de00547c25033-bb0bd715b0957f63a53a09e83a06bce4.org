@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* civil [ˈsɪvəl]
+公民的;文职的

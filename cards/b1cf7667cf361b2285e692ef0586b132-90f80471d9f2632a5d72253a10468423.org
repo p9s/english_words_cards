@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* usually [ˈjuːʒuəli]
+通常

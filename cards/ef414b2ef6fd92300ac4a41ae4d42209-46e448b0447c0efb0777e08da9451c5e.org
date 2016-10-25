@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* depressed [dɪˈprɛst]
+郁郁不乐;情绪低落的;消沉的;萧条的

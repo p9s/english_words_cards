@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bath [bæθ]
+浴;洗澡;浴缸

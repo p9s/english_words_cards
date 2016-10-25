@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* solution [səˈluʃən]
+解决;解答;溶解

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* random [ˈrændəm]
+随机随机的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mate [met]
+伙伴;同事;配偶

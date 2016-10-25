@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* intelligence [ɪnˈtɛlədʒəns]
+智力;理解力;情报

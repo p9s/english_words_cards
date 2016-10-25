@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* influential [ˌɪnfluˈɛnʃəl]
+有影响的;有权势的

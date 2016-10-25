@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* vendor [ˈvɛndɚ]
+小贩

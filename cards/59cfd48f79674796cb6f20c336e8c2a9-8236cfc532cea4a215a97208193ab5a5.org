@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* note [noʊt]
+钞票;纸币;笔记

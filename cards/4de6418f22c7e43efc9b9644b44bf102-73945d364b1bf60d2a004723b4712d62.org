@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* slow [sloʊ]
+慢的;迟钝的

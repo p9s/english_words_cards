@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* always [ˈɔlwez;-wɪz;-wiz]
+总是;一直

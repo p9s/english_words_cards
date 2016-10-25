@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* separate ['sepəreɪt]
+分离的;个别的

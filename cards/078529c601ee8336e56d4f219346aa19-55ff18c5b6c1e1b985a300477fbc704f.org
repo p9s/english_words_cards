@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* call [kɔl]
+把…叫做;叫;喊

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* heaven [ˈhɛvən]
+天堂;天;天空

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* family [ˈfæmli]
+家;家庭

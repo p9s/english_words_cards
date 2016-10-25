@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cheek [tʃik]
+面颊;脸蛋

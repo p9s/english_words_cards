@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* conscious [ˈkɑnʃəs]
+意识到的;有意的

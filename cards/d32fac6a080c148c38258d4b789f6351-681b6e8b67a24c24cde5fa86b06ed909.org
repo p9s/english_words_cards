@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hire [haɪr]
+租借租用;雇用

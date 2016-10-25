@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stranger [ˈstrendʒɚ]
+陌生人;新来者

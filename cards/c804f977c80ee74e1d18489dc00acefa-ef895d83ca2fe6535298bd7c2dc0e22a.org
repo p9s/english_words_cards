@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* heal [hil]
+治愈;使和解

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* confirm [kənˈfɜrm]
+证实;肯定;批准

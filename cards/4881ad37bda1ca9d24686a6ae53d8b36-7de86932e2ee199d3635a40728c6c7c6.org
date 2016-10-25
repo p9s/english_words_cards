@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mortgage [ˈmɔrgɪdʒ]
+抵押抵押

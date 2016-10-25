@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* idea [aɪˈdiə]
+主意;念头;思想

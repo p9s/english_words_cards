@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dependent [dɪˈpɛndənt]
+依靠的;依赖的

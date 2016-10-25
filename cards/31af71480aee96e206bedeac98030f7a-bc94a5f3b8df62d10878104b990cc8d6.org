@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* not [nɑt]
+不;没有

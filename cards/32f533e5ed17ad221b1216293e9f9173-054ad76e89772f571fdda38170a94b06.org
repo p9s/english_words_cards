@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* whole [hoʊl]
+整个的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* damn [dæm]
+诅咒诅咒;丝毫

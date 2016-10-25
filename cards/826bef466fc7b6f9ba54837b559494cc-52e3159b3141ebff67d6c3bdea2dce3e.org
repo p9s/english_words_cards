@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* approval [əˈpruvəl]
+赞成;同意;批准

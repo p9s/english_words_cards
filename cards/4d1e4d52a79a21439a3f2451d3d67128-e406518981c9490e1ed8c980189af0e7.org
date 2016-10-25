@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* happiness [ˈhæpɪnɪs]
+幸福;幸运;快乐

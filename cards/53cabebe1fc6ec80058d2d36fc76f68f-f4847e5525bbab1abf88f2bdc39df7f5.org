@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Christianity [ˌkrɪstʃiˈænɪti;ˌɪ-]
+基督教;基督教精神

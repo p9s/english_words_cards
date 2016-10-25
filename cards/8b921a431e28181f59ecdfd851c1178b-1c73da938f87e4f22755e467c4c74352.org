@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mainly [ˈmenli]
+主要地;大部分

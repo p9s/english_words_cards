@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* jet [dʒɛt]
+喷射;喷气发动机

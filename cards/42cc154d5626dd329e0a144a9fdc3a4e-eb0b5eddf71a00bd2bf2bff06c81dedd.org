@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* available [əˈveləbəl]
+可利用的;通用的

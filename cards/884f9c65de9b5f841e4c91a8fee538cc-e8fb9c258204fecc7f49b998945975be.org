@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* generate [ˈdʒɛnəˌret]
+发生;引起;生殖

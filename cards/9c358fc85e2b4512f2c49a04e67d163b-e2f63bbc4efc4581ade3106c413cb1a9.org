@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* twenty [ˈtwɛnti;ˈʌ-]
+二十;二十个

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* university [ˌjunɪˈvɜrsəti]
+综合性大学

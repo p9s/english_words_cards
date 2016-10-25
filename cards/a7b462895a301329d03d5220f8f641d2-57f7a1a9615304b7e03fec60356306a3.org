@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* threaten [ˈθrɛtn]
+威胁;恐吓

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* normally [ˈnɔrməli]
+通常地;一般地;正常地;平常地

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* goal [goʊl]
+球门;得分;目的

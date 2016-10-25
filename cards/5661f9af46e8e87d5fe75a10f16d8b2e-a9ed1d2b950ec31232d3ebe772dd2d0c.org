@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* adventure [ædˈvɛntʃɚ]
+冒险;冒险活动

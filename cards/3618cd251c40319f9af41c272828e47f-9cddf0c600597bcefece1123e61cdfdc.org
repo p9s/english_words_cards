@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* thrive [θraɪv]
+兴旺;繁荣;旺盛

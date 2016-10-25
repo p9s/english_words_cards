@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* long-term [ˈlɔŋˈtəm;ˈɑŋ-]
+长期的

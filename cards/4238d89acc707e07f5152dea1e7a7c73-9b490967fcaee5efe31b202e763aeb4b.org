@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* influence [ˈɪə]
+势力;权势

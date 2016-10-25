@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* violence [ˈvaɪələns]
+猛烈;激烈;暴力

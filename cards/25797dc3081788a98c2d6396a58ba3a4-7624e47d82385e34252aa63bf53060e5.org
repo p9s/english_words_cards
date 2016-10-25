@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* slam [slæm]
+使劲关;砰地放下

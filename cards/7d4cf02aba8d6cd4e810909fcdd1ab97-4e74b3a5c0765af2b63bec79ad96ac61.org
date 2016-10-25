@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* investigation [ɪnˌvɛstɪˈɡeʃən]
+调查;调查研究

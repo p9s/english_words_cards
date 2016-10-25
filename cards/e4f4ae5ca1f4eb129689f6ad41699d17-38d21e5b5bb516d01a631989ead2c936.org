@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* chief [tʃif]
+首长;头子

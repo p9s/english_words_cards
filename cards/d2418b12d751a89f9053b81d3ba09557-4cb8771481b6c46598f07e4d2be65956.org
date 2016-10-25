@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* confidence [ˈkɑnfɪdəns]
+私房话;秘密;机密

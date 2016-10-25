@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* approach [əˈproʊtʃ]
+向…靠近靠近

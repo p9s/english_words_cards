@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* voter [ˈvoʊtə]
+选举人

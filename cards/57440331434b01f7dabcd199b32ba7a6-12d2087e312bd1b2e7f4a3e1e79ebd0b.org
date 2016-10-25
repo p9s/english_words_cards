@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* OK [oˈke]
+对;好;可以

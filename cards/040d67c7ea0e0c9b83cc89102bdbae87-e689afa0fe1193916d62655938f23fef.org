@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* else [ɛls]
+别的另外

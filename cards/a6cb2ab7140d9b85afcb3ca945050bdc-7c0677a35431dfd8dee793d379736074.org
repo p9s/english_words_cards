@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* spouse [spaʊs;ʊ]
+配偶;夫妻

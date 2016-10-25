@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tolerate [ˈtɑləreɪt]
+忍受;容忍;宽恕

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* unique [juˈnik]
+唯一的;独一无二的

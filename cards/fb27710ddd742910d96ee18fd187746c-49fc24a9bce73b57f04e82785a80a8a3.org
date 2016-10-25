@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shell [ʃɛl]
+炮弹;猎枪子弹

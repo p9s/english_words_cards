@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* obtain [əbˈtein]
+获得;得到;买到

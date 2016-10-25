@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mixed [mɪkst]
+混合的;混杂的;综合的;中等的;适度的;公道的

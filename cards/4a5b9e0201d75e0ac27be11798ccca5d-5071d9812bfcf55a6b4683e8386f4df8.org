@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stroke [stroʊk]
+打;击;鸣声;中风

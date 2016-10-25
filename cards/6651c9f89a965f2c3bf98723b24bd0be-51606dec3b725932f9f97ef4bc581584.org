@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* review [ɪˈ]
+再检查复习

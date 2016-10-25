@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* accept [ækˈsɛpt]
+接受;同意

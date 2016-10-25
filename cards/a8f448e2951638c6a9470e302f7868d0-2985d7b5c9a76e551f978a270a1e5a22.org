@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* economic [ˌikəˈnɑmɪk]
+经济的;经济学的

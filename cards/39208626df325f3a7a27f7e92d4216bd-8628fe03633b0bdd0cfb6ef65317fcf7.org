@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* patent [ˈpætnt]
+专利的专利

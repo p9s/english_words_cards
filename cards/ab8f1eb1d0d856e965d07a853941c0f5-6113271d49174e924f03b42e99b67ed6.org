@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* working [ˈwɜrkɪŋ]
+工人的;劳动的;工作;操作;作业;劳动的

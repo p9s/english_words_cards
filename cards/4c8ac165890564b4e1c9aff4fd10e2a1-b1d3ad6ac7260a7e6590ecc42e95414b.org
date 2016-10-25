@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* owner [ˈoʊnə]
+物主;所有人

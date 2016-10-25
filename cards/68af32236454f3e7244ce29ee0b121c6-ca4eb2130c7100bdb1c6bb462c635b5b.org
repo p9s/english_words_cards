@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tightly [ˈtaɪtlɪ]
+紧地;牢固地;紧紧地;紧密地

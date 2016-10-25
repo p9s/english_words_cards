@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bulb [bʌlb]
+电灯泡;球状物

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* particularly [pərˈtɪkjələrli]
+特别;尤其;格外

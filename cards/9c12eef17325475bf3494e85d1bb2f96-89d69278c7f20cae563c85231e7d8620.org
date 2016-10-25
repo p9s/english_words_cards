@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pink [pɪŋk]
+粉红色粉红色的

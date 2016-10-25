@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* basic [ˈbesɪk]
+基本的;基础的

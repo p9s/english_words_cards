@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* genre [ˈʒɑnrə]
+（文艺的）类型

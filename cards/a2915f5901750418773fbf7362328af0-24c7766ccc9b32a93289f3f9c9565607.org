@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hide [haɪd]
+生皮;兽皮;皮革

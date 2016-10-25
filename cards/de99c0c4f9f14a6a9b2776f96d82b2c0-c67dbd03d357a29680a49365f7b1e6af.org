@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* detective [dɪˈtɛktɪv]
+侦探;密探

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* prisoner [ˈprɪzənɚ;ˈɪɚ]
+囚犯

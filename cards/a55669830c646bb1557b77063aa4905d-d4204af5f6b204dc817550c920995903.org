@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* loss [lɔs]
+遗失;损失;失败

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mental [ˈmɛntl]
+精神的;脑力的

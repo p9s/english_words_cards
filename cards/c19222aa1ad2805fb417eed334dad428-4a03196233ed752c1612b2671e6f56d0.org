@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* inspector [ɪnˈspɛktɚ]
+检查员;巡官

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* immigrant [ˈɪmɪɡrənt]
+移民移民的

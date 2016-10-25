@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* banker [ˈbæŋkɚ]
+银行家

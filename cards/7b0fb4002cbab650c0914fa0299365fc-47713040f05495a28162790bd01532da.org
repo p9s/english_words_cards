@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* prayer [prer]
+祈祷;祈求

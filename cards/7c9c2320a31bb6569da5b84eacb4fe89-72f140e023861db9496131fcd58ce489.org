@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* provide [prəˈvaɪd]
+提供;装备;供给

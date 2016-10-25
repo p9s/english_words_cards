@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sentence [ˈsɛntəns]
+判决;宣判

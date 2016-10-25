@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* attractive [əˈtræktɪv]
+有吸引力的

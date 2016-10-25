@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ought [ɔt]
+早应该;本应

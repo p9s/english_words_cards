@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* extended [ɪkˈstɛndɪd]
+伸长的;广大的

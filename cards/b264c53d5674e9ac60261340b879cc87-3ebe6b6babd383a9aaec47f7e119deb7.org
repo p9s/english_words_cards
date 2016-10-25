@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sufficient [səˈfɪʃənt]
+足够的;充分的

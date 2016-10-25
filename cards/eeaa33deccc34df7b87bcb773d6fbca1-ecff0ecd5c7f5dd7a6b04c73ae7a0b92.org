@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* altogether [ˌɔltəˈɡɛðɚ]
+完全;总而言之

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* versus [ˈvɜrsəs]
+对

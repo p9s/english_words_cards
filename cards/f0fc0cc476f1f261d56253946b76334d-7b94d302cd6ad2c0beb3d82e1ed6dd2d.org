@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mud [mʌd]
+软泥;泥浆

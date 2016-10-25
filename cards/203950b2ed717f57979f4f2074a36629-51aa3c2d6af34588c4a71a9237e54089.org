@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hot [hɑt]
+热的;刺激的;辣的

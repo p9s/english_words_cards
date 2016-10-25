@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* porch [pɔrtʃ]
+门廊;入口处

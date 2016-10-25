@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* marry [ˈmæri]
+娶;嫁结婚

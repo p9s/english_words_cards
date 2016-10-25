@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* controversy [ˈkɑntrəvɜrsi]
+争论;辩论;争吵

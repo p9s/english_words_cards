@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dead [dɛd]
+死的

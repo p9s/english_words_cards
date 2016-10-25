@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* oven [ˈʌvən]
+炉;灶;烘箱

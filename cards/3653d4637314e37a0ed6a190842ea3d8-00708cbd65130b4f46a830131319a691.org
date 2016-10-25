@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* definition [ˌdɛfəˈnɪʃən]
+定义;解说;释义;定界;解释;限定;明确;确实;清晰度;界限;清晰;规定

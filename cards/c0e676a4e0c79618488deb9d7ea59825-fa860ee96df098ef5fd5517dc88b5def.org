@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* contract [ˈkɑntrækt]
+契约;合同;婚约

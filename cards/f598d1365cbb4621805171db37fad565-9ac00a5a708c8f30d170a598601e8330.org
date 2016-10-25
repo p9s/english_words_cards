@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* founder [ˈfaʊndɚ]
+创立者;奠基者

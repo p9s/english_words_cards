@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rumor [ˈrumɚ]
+谣言;传闻;谣传

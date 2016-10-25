@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gesture [ˈdʒɛstʃɚ]
+姿势;手势;姿态

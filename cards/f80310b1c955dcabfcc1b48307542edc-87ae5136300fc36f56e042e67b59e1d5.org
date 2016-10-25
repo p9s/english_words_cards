@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* discipline [ˈdɪsəplɪn]
+纪律;训练训练

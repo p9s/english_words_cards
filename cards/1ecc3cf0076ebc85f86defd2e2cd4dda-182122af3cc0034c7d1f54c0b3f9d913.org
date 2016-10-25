@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* symbol [ˈsɪmbəl]
+象征;符号;记号

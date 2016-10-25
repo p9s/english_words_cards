@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* electric [ɪˈlɛktrɪk]
+电的;电动的

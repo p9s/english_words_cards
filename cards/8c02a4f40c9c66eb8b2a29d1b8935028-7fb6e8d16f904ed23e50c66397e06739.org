@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* multiple [ˈmʌltəpəl]
+复合的;并联的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* eat [i:t]
+吃;喝吃饭

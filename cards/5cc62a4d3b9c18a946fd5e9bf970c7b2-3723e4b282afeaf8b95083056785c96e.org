@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* precisely [prɪˈsaɪsli]
+正好;正确地;严密的;精确地;刻板地;明确地

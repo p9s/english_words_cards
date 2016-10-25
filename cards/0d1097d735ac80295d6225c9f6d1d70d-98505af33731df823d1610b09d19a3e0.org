@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* walk [wɔk]
+走;步行

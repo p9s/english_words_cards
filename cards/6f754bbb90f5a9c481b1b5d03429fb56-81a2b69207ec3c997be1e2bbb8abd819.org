@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bug [bʌɡ]
+臭虫;虫子

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sample [ˈsæmpl]
+样品;实例;标本

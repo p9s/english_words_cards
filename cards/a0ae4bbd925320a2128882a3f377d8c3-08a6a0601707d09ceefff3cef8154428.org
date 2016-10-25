@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* flip [flɪp]
+掷;弹;轻击;空翻

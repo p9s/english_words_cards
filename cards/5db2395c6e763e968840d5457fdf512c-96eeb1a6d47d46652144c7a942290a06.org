@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* defendant [dɪˈfɛndənt]
+被告

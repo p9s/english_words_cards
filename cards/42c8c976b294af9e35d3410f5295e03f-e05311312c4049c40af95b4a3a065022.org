@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tent [tɛnt]
+帐篷

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cabinet [ˈkæbənɪt]
+橱;柜;内阁

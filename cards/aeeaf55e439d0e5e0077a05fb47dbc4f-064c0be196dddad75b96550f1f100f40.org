@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mistake [mɪˈstek]
+错误误解;弄错

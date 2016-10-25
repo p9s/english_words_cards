@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shirt [ʃɜrt]
+衬衫

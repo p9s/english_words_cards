@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* concentration [ˌkɑnsnˈtreɪʃn]
+集中;专注;浓缩

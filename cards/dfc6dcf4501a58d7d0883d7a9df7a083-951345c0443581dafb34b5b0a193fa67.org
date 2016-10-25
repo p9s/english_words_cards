@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sovereignty [ˈsɑvrənti]
+主权;统治权

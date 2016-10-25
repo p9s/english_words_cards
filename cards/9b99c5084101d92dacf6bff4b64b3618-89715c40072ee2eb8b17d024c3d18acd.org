@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* effort [ˈefərt]
+努力;努力的成果

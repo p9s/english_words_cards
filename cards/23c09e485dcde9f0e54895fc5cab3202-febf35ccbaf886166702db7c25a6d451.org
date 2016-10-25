@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stereotype [ˈstɛriəˌtaɪp;ˈɪ-]
+陈规;旧框框;陈规习俗;固定形式;老套;固定的模式

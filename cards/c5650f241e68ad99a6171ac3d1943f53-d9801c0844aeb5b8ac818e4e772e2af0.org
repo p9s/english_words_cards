@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* quietly [ˈkwaɪətlɪ]
+安静地;平静地;轻轻地;静悄悄地;平稳地;静静地;静止地;寂静地

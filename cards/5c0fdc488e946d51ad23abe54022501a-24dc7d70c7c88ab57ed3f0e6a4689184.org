@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hit [hɪt]
+打;击中;撞

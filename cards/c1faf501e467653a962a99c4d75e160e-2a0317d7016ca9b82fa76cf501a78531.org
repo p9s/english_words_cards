@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cross [krɔs]
+十字架穿过

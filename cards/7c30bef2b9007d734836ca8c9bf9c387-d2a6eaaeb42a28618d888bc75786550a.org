@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* initiative [ɪˈnɪʃətɪv]
+创始的第一步

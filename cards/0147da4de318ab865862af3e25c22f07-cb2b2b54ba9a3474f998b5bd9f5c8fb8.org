@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* comedy [ˈkɑmədi]
+喜剧;喜剧场面

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* boss [bɔs]
+老板;上司指挥

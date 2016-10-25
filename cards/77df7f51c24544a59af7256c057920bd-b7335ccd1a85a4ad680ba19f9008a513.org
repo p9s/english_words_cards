@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* violent [ˈvaɪələnt]
+猛烈的;狂暴的

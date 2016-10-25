@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* clinic [ˈklɪnɪk]
+诊所;医务室;会诊

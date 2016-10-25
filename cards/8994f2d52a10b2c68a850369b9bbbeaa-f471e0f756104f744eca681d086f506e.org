@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* legally [ˈliɡlɪ]
+合法地

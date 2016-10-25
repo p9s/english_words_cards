@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* priority [praɪˈɔrəti]
+先;前;优先;重点

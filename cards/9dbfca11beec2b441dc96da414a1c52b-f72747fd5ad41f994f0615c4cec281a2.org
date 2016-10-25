@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* discovery [dɪˈskʌvəri]
+发现;被发现的事物

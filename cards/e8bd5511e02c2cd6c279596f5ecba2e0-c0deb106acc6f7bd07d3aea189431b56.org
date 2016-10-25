@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* doctor [ˈdɑktə]
+医生;医师;博士

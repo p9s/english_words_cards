@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reverse [rɪˈvɜrs]
+颠倒;翻转背面

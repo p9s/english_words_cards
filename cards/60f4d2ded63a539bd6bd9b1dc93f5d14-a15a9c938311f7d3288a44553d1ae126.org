@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* boy [bɔɪ]
+男孩;少年;家伙

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* restaurant [ˈrestrɑnt]
+餐馆;饭店;菜馆

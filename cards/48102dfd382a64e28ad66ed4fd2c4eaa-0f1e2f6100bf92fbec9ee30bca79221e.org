@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* system [ˈsɪstəm]
+系统;体系;制度

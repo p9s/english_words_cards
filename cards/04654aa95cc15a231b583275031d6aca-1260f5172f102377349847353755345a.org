@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* scientific [ˌsaɪənˈtɪfɪk]
+科学的;科学的

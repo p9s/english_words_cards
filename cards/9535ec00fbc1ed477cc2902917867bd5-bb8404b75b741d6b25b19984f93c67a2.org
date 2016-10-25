@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* trial [ˈtraɪəl;ɪ]
+试;试验;审判

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* exactly [ɪɡˈzæktli]
+确切地;恰恰正是

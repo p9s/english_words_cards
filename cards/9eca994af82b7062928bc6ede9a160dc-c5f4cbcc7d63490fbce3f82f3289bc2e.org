@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* civilization [ˌsɪvələˈzeɪʃn]
+文明;文化;开化

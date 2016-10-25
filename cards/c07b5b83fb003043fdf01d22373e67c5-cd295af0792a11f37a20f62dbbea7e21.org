@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* orientation [ˌɔriɛnˈteʃən;-ə-;ˌ-]
+向东;定位;方向

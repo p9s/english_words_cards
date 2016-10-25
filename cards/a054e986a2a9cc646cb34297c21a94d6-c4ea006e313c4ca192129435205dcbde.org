@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* arise [əˈraɪz]
+出现;由…引起

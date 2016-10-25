@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* advise [ædˈvaɪz]
+忠告;劝告;建议;通知;告诉;通告

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* theology [θiˈɑlədʒi]
+神学;宗教

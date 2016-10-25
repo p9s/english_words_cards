@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* whereas [ˌwerˈæz]
+而;却;反之

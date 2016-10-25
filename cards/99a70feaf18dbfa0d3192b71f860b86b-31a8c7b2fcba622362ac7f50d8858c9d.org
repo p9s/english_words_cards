@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* basis [ˈbesɪs]
+基础;根据

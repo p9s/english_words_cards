@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tension [ˈtɛnʃən]
+紧张;不安;拉紧;电压;压力;

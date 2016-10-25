@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* norm [nɔrm]
+标准;规范;平均数;定额;准则

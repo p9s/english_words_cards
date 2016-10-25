@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Indian [ˈɪndiən]
+印度的印度人

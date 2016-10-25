@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* opinion [əˈpɪnjən]
+意见;看法;主张

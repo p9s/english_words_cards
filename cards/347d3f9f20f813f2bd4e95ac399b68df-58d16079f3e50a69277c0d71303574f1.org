@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* awful [ˈɔfəl]
+令人不愉快的

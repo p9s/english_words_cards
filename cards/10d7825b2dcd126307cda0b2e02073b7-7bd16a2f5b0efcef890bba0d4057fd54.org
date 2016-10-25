@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fear [fɪr]
+害怕;担心害怕

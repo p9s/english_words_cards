@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fold [foʊld]
+折叠;合拢褶

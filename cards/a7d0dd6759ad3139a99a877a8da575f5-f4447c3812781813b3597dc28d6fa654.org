@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* jeans [dʒinz]
+斜纹布裤子;牛仔裤;斜纹布;工装裤

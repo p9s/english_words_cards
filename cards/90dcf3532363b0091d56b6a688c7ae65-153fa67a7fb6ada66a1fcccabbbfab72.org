@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* choice [tʃɔɪs]
+选择

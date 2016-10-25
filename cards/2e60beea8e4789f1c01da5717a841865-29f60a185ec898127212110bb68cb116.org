@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* treat [trit]
+治疗

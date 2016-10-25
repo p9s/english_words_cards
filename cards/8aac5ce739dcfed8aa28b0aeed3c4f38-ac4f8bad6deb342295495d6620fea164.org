@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* timber [ˈtɪmbɚ]
+木料;木材

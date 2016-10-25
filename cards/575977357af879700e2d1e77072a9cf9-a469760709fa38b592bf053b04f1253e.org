@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* protein [ˈproʊtin]
+蛋白质;朊

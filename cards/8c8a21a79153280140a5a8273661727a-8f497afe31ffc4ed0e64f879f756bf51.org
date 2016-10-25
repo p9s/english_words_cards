@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* operator [ˈɑpəreɪtə]
+操作人员;接线员

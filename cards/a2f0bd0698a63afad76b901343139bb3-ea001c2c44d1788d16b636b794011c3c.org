@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* desert [ˈdezərt]
+遗弃;擅离

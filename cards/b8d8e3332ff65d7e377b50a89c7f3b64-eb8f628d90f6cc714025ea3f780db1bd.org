@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* appreciate [əˈpriʃiˌet]
+感激;欣赏

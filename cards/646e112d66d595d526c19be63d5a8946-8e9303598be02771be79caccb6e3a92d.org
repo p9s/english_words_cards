@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rolling [ˈroʊlɪŋ]
+摇晃的;滚动;打滚

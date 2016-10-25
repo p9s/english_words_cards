@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* abandon [əˈbændən]
+丢弃;放弃;抛弃

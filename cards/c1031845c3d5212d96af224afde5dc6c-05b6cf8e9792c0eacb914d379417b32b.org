@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* name [nem]
+名字;名誉说出

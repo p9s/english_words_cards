@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* routine [ruˈtin]
+例行公事日常的

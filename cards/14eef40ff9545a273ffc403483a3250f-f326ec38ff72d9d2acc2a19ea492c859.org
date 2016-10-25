@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* human [ˈhjumən]
+人人的;人类的

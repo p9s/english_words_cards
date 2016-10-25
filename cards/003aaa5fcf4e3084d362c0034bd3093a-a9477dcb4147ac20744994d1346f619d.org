@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* symptom [ˈsɪmtəm;ˈɪ-]
+症状;征候;征兆;徵候;表征

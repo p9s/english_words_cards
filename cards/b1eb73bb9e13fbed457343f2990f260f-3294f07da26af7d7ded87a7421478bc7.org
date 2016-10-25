@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* atmosphere [ˈætməsfɪr]
+大气;空气;气氛

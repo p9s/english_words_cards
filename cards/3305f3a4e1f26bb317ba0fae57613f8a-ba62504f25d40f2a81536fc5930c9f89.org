@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* scan [skæn]
+细看;浏览;扫描

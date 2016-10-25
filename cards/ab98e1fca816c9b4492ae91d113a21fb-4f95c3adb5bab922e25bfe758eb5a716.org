@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* computer [kəmˈpjutɚ]
+计算机;电脑

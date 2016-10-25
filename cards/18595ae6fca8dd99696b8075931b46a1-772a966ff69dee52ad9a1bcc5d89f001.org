@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* poster [ˈpoʊstə]
+海报;招贴

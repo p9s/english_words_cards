@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* isolation [ˌaɪsəˈleʃən]
+隔绝;孤立;隔离

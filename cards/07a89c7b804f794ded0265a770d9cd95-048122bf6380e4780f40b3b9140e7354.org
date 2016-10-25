@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reception [rɪˈsɛpʃən]
+接待;招待会;接受

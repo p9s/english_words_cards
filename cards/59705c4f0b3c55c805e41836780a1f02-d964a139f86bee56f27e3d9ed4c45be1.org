@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* odd [ɑd]
+奇数的;单只的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* phone [foʊn]
+电话机;打电话

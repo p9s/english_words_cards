@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wet [wɛt]
+湿的

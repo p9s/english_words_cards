@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cotton [ˈkɑtn]
+棉;棉线;棉布

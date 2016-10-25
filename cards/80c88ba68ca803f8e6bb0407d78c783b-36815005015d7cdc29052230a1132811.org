@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* discover [dɪˈskʌvɚ]
+发现;暴露;显示

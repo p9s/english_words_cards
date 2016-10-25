@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Canadian [kəˈnediən]
+加拿大人

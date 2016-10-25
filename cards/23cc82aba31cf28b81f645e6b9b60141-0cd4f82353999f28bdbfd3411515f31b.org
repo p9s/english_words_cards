@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* crystal [ˈkrɪstəl]
+结晶的;透明的

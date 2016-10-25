@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* international [ˌɪntərˈnæʃnəl]
+国际的;世界的

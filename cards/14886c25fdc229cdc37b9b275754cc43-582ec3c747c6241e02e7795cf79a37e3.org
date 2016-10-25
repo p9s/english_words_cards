@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* arrive [əˈraɪv]
+到达;来临;达到

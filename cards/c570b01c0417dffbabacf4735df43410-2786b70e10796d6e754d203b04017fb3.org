@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cope [koʊp]
+对付;应付

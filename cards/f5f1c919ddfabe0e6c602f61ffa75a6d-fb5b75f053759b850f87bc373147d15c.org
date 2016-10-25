@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wait [wet]
+等;等候等待

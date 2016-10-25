@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* strain [stren]
+拉紧尽力

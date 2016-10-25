@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* appreciation [əˌpriʃiˈeʃən]
+欣赏;鉴别;感激

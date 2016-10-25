@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* function [ˈfʌŋkʃən]
+功能;职务;函数

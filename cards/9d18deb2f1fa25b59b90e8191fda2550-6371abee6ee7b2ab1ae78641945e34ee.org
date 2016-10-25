@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* split [splɪt]
+分裂;分化;派系

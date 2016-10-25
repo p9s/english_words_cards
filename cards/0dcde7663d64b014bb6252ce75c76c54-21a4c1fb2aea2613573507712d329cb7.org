@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cruel [ˈkruəl]
+残忍的;残酷的

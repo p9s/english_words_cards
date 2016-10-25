@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dancer [ˈdænsə]
+舞者;舞女;舞蹈家

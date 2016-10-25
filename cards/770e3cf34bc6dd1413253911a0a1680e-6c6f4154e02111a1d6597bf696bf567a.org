@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* everywhere [ˈevriwer]
+到处;无论哪里

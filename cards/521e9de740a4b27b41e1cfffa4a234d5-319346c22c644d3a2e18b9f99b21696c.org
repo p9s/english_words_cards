@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* church [tʃɜrtʃ]
+教堂

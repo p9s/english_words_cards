@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* protection [prəˈtɛkʃən]
+保护;警戒

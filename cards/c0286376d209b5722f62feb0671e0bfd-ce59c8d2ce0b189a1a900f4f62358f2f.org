@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* moral [ˈmɔrəl]
+道德的;合乎道德的

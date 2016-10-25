@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tighten [ˈtaɪtn]
+变紧

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ring [rɪŋ]
+环形物

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* standing [ˈstændɪŋ]
+起立;持续;身分

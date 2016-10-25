@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* employ [ɛmˈplɔɪ]
+雇用;用;使忙于

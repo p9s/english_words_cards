@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bake [bek]
+烤;烘;焙;烧硬

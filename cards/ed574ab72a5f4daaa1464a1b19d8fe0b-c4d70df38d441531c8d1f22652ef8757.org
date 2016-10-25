@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* drill [drɪl]
+;操练

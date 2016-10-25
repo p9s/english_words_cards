@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* deck [dɛk]
+甲板;舱面;层面;覆盖物;复盖

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* feeling [ˈfilɪŋ]
+感情;感觉;知觉

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bird [bɜrd]
+鸟;禽

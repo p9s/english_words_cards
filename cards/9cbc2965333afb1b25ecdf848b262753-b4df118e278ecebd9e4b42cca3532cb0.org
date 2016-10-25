@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* straighten [ˈstretn]
+把…弄直挺起来

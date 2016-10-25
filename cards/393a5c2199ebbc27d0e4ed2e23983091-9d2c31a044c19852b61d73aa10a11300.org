@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fiber ['faɪbə]
+纤维

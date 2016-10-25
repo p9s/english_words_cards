@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* actual [ˈæktʃuəl]
+实际的;现行的

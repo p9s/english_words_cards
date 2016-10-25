@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* resolve [rɪˈzɑlv]
+解决;决心决心

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* developing [dɪˈvɛləpɪŋ]
+发展中的

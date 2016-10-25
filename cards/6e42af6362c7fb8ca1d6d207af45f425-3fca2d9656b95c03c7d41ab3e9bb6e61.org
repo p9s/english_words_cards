@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hesitate ['hezɪteɪt]
+踌躇;犹豫

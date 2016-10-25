@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* casualty [ˈkæʒuəlti]
+严重事故;伤亡;受害者

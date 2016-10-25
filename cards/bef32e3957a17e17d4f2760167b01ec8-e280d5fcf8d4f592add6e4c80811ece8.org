@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* known [noʊn]
+过去分词;知道;了解;知名的;已知的;大家知道的

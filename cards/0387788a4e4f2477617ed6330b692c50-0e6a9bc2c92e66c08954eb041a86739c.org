@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* labor [ˈlebɚ]
+劳动;努力;分娩;劳工;工作

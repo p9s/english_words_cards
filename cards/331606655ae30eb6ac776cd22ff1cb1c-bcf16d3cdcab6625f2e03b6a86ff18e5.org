@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* suck [sʌk]
+吮吸;舐食

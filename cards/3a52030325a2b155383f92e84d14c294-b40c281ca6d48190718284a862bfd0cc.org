@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* inflation [ɪnˈfleʃən]
+通货膨胀;物价飞涨

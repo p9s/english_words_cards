@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* conceive [kənˈsiv]
+设想;以为;怀孕

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hear [hɪr]
+听见;听

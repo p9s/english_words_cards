@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* forty [ˈfɔrti]
+四十;第四十

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* musician [mjuˈzɪʃən]
+音乐家;作曲家

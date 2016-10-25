@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lightning [ˈlaɪtnɪŋ]
+闪电;闪电放电

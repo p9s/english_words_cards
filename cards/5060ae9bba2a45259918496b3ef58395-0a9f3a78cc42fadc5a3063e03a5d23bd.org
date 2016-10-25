@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* confront [kənˈfrʌnt]
+使面对;使对证

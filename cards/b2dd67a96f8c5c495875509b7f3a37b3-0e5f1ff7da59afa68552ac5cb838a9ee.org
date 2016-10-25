@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* resign [rɪ'zaɪn]
+使顺从;使听任于

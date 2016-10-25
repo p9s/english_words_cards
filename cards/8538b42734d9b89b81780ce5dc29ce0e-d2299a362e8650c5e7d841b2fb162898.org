@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ambition [æmˈbɪʃən]
+雄心;抱负;野心

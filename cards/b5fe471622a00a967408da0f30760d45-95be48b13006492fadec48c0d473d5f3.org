@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* secular [ˈsɛkjəlɚ]
+世俗的、尘世的

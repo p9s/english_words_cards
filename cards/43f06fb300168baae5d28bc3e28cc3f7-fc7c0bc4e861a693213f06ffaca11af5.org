@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* journey [ˈdʒɜrni]
+旅行;旅程;路程

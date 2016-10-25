@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* visitor [ˈvɪzɪtɚ]
+访问者;参观者

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* revenue [ˈrevənu]
+收入;收入数目

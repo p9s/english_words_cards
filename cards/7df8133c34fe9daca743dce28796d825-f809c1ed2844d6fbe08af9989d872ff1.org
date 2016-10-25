@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* romance [ˈroʊˈmæns]
+传奇;浪漫文学

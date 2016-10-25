@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* soften [ˈsɔfn]
+使变软

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rock [rɑk]
+摇;使动摇摇

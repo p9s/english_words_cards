@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* crop [krɑp]
+庄稼;收成

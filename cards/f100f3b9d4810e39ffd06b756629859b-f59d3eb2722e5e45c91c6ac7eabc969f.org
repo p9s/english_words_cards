@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* absolutely [ˈæbsəˌlutli;ˌæəˈ]
+完全地;绝对地

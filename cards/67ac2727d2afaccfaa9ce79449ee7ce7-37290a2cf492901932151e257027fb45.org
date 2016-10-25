@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ranch [ræntʃ]
+大牧场

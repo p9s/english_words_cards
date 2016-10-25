@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* couple [ˈkʌpəl]
+一对;夫妇

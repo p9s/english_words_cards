@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* palace [ˈpælɪs]
+宫;宫殿

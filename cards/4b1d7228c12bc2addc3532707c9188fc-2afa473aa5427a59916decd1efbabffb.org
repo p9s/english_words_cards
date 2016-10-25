@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* disorder [dɪsˈɔrdə]
+混乱;杂乱;骚乱

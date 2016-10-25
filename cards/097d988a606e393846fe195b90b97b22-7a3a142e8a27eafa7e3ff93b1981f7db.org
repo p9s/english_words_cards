@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* vessel [ˈvɛsəl]
+容器;船;飞船;管

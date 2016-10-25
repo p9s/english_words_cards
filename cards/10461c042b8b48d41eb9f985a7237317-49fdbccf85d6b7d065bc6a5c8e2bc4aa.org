@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* achievement [əˈtʃivmənt]
+完成;成就;成绩

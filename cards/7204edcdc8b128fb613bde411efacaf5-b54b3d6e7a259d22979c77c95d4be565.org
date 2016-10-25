@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stable [ˈstebəl]
+稳定的;不变的

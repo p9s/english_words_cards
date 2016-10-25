@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* something [ˈsʌmθɪŋ]
+某事;某物

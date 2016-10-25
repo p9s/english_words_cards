@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* end [ɛnd]
+目标;目的

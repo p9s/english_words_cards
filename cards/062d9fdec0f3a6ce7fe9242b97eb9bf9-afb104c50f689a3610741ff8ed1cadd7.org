@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* presidency [ˈprɛzɪdənsi;-ˌɛ-]
+总统职位;总裁职位;主席职位

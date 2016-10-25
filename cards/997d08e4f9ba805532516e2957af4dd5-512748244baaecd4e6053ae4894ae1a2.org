@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* republic [rɪˈpʌblɪk]
+共和国

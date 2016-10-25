@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* limb [lɪm]
+分支;突出物

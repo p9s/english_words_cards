@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* opposed [əˈpoʊzd]
+反对的

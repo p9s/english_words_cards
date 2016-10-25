@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reading ['ridɪŋ]
+读;阅读;读书

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* loyal [ˈlɔɪəl]
+忠诚的;忠心的

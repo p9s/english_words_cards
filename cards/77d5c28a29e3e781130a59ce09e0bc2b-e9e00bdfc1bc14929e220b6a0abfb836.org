@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* forbid [fərˈbɪd]
+禁止;不许

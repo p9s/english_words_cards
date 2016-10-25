@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* earnings [ˈɜrnɪŋz]
+工资;收入;收益

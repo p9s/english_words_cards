@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* position [pəˈzɪʃən]
+主张;立场;形势

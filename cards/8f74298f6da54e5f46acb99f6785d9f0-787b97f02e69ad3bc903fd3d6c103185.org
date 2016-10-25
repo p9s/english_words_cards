@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tool [tul]
+工具;用具

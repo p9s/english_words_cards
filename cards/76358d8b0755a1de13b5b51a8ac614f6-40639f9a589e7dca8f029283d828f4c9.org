@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* speculate [ˈspɛkjəˌlet]
+思索;沉思;投机

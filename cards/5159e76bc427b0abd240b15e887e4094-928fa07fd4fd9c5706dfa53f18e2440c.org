@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* recognition [ˌrɛkəɡˈnɪʃən]
+认出;识别;重视

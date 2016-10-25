@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wild [waɪld]
+野生的;野蛮的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* brief [brif]
+简短的;短暂的

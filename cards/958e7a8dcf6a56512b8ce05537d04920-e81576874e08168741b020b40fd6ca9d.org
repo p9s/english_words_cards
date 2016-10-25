@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* marble [ˈmɑrbl]
+大理石

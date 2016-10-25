@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* poll [poʊl]
+投票投票

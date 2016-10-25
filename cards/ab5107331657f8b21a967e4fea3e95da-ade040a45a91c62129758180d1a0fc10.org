@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* grandchild [ˈɡrændˌtʃaɪld;ˈɡæ-]
+孙子;孙女;外孙;外孙女

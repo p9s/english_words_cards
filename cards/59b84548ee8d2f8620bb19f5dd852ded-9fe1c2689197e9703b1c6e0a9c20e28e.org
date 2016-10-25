@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cancer [ˈkænsɚ]
+癌;癌症;肿瘤

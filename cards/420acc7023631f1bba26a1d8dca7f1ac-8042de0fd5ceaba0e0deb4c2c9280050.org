@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* collective [kəˈlɛktɪv]
+集体的;集合性的

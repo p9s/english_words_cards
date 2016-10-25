@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* silk [sɪlk]
+丝;丝织品;绸

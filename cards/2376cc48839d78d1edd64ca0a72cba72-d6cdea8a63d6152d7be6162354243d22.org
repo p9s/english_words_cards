@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* loan [loʊn]
+贷款;暂借借出

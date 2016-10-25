@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* deposit [dɪˈpɑzɪt]
+使沉淀;存放

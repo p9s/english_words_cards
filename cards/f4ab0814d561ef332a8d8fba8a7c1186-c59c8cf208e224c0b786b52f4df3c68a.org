@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ministry [ˈmɪnɪstri]
+部

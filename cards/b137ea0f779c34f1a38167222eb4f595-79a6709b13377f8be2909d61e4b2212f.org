@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* comment [ˈkɑment]
+评论;意见;注释

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* premium [ˈprimiəm]
+保险费;奖金

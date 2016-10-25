@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* confession [kənˈfɛʃən]
+自认;自白;招供

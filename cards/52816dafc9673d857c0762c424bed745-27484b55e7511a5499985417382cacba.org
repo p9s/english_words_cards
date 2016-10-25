@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shake [ʃek]
+摇;使震动摇动

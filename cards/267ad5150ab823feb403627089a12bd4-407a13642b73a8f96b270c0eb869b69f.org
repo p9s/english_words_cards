@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stir [stɚ]
+动;拨动;激动

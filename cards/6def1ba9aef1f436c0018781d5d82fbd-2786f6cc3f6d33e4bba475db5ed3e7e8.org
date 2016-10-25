@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* selection [sɪˈlɛkʃən]
+选择;挑选;精选物

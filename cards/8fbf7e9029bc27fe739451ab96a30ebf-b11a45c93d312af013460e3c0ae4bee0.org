@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* chain [tʃen]
+链;链条;项圈

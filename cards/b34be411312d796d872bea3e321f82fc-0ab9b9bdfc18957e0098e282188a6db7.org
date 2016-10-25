@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* government [ˈgʌvərnmənt]
+政府;治理;政治

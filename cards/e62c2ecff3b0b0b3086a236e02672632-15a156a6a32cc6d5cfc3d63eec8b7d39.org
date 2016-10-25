@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* motivate [ˈmoʊtɪveɪt]
+促动;激励;激发;鼓励;作为…的动机;促使

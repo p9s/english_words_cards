@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* motion [ˈmoʊʃn]
+运动;手势;提议

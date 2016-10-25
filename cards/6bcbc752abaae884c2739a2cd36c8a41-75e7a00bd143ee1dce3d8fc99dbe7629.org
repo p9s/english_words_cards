@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* anxious [ˈæŋkʃəs]
+渴望的;忧虑的

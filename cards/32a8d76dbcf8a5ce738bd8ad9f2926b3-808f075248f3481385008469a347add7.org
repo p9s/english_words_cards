@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* happily [ˈhæpɪli]
+幸福地;快乐地;幸好

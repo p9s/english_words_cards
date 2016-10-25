@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* institution [ˌɪnstɪˈtuʃn]
+协会;制度;习俗

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* alternative [ɔlˈtɜrnətɪv]
+替换物;取舍;抉择

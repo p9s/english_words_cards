@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* perspective [pərˈspektɪv]
+透视;远景;观点

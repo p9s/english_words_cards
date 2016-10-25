@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* question [ˈkwɛstʃən]
+发问;问题;疑问

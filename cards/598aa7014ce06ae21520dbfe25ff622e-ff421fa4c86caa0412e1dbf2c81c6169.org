@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* seem [sim]
+好像;似乎

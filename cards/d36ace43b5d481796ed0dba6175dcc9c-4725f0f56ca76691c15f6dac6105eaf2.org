@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* license [ˈlaɪsəns]
+许可;执照准许

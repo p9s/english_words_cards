@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* television [ˈtɛləˌvɪʒən]
+电视;电视机

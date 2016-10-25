@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shrimp [ʃrɪmp]
+虾;河虾;褐虾

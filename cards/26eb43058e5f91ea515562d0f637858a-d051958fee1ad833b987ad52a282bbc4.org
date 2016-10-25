@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* art [ɑrt]
+艺术;美术

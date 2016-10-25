@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* version [ˈvɜrʒn]
+译文;说法;改写本

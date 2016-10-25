@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* journalist [ˈdʒɜrnəlɪst]
+记者;新闻工作者

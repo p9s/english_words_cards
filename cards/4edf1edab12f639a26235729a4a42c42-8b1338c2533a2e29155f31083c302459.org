@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* invest [ɪnˈvɛst]
+投资;投入

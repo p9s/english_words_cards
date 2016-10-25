@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mill [mɪl]
+磨坊;制造厂

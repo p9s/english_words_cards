@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* personally [ˈpɜrsənəli]
+亲自;就个人而言

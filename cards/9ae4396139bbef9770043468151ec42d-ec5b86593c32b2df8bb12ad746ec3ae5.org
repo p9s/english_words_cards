@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* action [ˈækʃən]
+行动;作用;功能

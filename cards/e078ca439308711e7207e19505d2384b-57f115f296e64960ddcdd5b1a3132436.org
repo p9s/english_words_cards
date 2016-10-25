@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reject [rɪˈdʒɛkt]
+抛弃;拒收

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* trap [træp]
+设陷阱捕捉;诱捕

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gear [gɪr]
+齿轮;传动装置

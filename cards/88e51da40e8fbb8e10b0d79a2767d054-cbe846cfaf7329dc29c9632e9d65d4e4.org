@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* monkey [ˈmʌŋki]
+猴子;猿

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* peak [pik]
+山顶;巅最高的

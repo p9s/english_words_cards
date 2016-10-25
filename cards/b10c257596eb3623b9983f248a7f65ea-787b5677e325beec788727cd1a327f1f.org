@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gender [ˈdʒɛndɚ]
+性别

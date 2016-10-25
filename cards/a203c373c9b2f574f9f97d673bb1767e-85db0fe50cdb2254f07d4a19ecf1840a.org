@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* underlying [ˌʌndərˈlaɪɪŋ]
+根本的;基础的;下层的;优先的;潜在的;在下面的

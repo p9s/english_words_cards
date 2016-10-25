@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* minute [ˈmɪnɪt]
+分钟

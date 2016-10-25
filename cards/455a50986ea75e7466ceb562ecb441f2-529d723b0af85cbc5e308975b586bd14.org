@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fate [fet]
+命运;天数

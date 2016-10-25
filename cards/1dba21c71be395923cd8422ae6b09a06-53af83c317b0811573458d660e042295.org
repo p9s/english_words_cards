@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* precious [ˈprɛʃəs]
+珍贵的;宝贵的

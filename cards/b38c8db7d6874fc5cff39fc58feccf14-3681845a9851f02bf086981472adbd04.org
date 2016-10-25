@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* alliance [əˈlaɪəns]
+联盟;联合

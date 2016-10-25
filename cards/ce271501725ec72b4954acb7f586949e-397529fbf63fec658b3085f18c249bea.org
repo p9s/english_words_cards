@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* implement [ˈɪmpləmənt]
+工具;服装贯彻

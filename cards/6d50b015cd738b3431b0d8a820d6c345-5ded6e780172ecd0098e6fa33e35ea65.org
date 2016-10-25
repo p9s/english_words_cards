@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* regularly [ˈregjələrli]
+规则地;经常地;定期地;有规律地;整齐地

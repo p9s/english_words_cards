@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cold [koʊld]
+冷的;冷淡的冷

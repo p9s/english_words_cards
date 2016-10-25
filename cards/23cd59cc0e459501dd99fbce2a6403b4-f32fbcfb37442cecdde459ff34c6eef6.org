@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* exploit [ɪkˈsplɔɪt]
+剥削;利用;开拓

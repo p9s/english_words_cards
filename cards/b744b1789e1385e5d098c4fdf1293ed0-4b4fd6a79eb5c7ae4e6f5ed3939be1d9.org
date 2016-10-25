@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* technology [tekˈnɑlədʒi]
+工艺学;工艺;技术

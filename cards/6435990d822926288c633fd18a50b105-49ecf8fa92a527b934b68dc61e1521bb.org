@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* attract [əˈtrækt]
+吸引;引起;诱惑

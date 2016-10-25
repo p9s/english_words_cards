@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* roof [ruf;rʊf]
+屋顶;顶;顶部

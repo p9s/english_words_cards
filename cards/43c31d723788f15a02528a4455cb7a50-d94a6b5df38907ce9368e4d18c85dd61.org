@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* strange [strendʒ]
+陌生的;奇怪的

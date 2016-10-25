@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* inherent [ɪnˈhɪrənt]
+固有的;生来的

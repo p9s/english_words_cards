@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* enormous [ɪˈnɔrməs]
+巨大的;庞大的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mind [maɪnd]
+介意注意;当心

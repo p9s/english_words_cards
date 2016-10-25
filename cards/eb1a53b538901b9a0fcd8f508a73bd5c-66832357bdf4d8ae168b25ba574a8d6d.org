@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fifty [ˈfɪfti]
+五十;五十个

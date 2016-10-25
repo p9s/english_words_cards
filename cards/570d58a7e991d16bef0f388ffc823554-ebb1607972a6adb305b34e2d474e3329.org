@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cook [kʊk]
+烹调;煮厨师

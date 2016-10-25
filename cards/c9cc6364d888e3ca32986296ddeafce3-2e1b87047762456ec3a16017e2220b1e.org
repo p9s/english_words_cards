@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* need [nid]
+需要需要

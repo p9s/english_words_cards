@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* poke [poʊk]
+戳;刺;伸

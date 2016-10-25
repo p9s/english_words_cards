@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* disaster [dɪˈzæstə]
+灾难;祸害;天灾

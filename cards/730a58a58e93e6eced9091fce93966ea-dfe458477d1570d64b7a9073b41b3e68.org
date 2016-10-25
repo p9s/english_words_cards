@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* career [kəˈrɪr]
+生涯;职业;经历

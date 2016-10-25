@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* conduct [əˈʌ]
+举止;行为;指导

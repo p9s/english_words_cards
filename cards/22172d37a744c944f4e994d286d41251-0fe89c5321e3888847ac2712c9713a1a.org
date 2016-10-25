@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* physical [ˈfɪzɪkəl]
+物理的

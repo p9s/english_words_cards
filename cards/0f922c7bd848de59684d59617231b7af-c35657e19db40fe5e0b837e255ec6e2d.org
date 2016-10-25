@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* approximately [əˈprɑksɪmətli]
+近乎;大约;近似地;几乎正确地;差不多

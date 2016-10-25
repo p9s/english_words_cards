@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* consist [kənˈsɪst]
+由…组成;在于

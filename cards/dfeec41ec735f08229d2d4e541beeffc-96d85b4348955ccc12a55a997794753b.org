@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* radical [ˈrædɪkəl;'rædɪkḷ]
+基本的;激进的

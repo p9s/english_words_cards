@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hint [hɪnt]
+暗示;示意;建议

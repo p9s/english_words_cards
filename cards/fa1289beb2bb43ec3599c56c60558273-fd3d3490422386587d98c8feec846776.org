@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bow [boʊ]
+弓;蝴蝶结;鞠躬

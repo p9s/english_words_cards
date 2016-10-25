@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* consistently [kənˈsɪstəntlɪ]
+一致地;始终如一地

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* conservative [kənˈsɜrvətɪv]
+保守的保守的人

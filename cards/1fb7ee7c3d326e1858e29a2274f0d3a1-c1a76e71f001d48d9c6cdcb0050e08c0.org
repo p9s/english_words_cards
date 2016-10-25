@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cut [kʌt]
+切;割;砍

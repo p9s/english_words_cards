@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* slowly [ˈsloʊli]
+慢慢地;缓慢地;减速地;慢慢地

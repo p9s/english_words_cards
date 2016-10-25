@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dish [dɪʃ]
+盘;碟;一道菜

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* target [ˈtɑrgɪt]
+靶;标的;目标

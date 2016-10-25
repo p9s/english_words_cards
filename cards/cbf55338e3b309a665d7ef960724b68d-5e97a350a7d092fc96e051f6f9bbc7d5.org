@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sir [sɚ]
+先生;阁下;…爵士

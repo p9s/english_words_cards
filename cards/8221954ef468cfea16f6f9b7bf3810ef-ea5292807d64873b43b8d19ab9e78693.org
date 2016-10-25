@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* highlight [ˈhaɪˌlaɪt]
+增强亮度;提示区;最重要的部分;最精彩的场面;使显著;使突出;着重

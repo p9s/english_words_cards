@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* finding [ˈfaɪndɪŋ]
+发现;调查的结果;发现物;判断;结果;结果

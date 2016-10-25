@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reference [ˈrɛfərəns;ˈɛə]
+参考文献;参照系

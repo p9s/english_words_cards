@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* technique [tɛkˈnik]
+技术;技巧;技能

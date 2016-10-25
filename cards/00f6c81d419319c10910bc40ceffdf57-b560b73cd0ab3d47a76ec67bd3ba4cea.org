@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reflection [rɪˈflɛkʃən]
+反对;水中映像

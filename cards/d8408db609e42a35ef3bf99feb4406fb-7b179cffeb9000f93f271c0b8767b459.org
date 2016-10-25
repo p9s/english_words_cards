@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* kid [ kɪd]
+小孩;儿童;少年

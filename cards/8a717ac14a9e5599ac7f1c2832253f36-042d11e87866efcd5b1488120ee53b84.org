@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* terms [tɜrmz]
+条件;条款

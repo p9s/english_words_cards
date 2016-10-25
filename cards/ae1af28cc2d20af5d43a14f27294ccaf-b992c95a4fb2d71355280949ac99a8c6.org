@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* budget [ˈbʌdʒɪt]
+预算;预算案

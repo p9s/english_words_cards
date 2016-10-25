@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mix [mɪks]
+混合;搅和

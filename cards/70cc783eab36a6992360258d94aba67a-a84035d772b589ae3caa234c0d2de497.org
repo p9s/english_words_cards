@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* knee [ni]
+膝;膝盖;膝关节

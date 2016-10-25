@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* house [haʊs]
+房屋;住宅;商号

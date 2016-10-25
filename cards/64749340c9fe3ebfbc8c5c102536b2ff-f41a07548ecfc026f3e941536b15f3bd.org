@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* utility [juˈtɪləti]
+效用;有用;实用

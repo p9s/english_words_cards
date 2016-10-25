@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* folk [foʊk]
+人们;家属;亲属

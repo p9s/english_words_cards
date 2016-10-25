@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* momentum [moʊˈmentəm]
+推进力;势头

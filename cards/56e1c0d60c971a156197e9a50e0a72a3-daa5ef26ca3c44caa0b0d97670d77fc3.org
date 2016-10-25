@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* density [ˈdɛnsɪti]
+密集;稠密;密度

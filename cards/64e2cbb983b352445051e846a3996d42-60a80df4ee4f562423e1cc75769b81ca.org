@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* supporter [səˈpɔrtə]
+支持者;后盾;伴随者

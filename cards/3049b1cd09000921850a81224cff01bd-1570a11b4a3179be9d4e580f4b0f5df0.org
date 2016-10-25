@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* truth [truθ]
+真理;真相

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* respect [rɪˈspɛkt]
+尊敬;尊重

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* administration [æˌɪɪˈʃə]
+局

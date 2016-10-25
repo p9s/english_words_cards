@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wing [wɪŋ]
+翅膀

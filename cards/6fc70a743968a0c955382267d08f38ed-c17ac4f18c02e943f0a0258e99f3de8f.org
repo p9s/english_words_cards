@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* elementary [ˌɛləˈmɛntəri;-]
+基本的;初级的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bite [baɪt]
+咬;叮;螫;剌穿

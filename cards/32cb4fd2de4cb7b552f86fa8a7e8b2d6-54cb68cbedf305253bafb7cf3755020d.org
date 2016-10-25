@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* measurement [ˈmeʒərmənt]
+衡量;测量;尺寸

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* style [staɪl]
+风格;文体;式样

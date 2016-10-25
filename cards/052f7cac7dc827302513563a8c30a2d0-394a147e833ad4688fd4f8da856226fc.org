@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* elect [ɪˈlɛkt]
+选举;推选;选择

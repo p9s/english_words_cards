@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* believe [bɪˈliv]
+相信;认为

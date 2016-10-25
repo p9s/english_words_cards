@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wander [ˈwɑndə]
+徘徊;流浪漫游

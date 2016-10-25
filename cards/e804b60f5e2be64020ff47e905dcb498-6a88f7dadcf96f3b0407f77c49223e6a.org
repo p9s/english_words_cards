@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hell [hɛl]
+地狱;极大的痛苦

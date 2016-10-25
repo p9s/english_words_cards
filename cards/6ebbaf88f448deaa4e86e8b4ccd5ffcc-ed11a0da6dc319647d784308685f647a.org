@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ticket [ˈtɪkɪt]
+罚款传票

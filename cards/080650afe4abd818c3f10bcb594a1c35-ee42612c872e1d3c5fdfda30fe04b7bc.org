@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* testimony [ˈtestɪmoʊni]
+证言;证明

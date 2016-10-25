@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* now [naʊ]
+现在;立刻;于是

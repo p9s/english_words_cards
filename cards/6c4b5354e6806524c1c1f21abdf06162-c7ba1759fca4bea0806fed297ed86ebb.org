@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pat [pæt]
+轻拍;抚摩

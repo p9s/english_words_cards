@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* delicate [ˈdɛlɪkɪt]
+纤细的;易碎的

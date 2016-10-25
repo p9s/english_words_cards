@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* competitive [kəmˈpɛtɪtɪv]
+竞争的;比赛的

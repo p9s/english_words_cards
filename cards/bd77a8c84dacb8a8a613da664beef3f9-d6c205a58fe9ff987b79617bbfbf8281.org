@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* success [səkˈsɛs]
+成功;成就;胜利

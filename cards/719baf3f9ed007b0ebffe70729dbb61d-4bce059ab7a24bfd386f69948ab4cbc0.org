@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* virtually [ˈvɜrtʃuəli]
+实际上;事实上;实质上;几乎;几乎;差不多

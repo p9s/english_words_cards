@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dramatically [drəˈmætɪklɪ]
+戏剧性地;显著地

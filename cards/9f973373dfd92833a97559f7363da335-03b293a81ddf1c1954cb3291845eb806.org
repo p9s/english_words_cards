@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* plastic [ˈplæstɪk]
+塑料的;塑性的

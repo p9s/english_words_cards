@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* exchange [ɪksˈtʃendʒ]
+交换;交流交换

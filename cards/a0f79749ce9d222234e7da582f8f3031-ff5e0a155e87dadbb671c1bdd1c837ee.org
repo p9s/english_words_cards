@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rabbit [ˈræbɪt]
+兔

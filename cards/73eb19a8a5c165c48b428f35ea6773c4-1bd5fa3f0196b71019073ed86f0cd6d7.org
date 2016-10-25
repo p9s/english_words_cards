@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* word [wɜrd]
+词;单词

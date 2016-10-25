@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* initial [ɪˈnɪʃəl]
+词首的

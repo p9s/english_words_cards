@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* economics [ˌikəˈnɑmɪks]
+经济学;经济

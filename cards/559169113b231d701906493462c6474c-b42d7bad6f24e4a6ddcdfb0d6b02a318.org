@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* public [ˈpʌblɪk]
+公共的;公众的

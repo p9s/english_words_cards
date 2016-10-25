@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gradually [ˈɡrædʒʊəlɪ]
+逐渐地;逐步地

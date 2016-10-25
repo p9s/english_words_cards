@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* vocal [ˈvoʊkl]
+声音的;有声的;歌唱的

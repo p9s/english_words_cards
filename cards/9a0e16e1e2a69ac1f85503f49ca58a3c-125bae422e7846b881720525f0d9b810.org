@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* evolution [ˌɛvəˈluʃən;ˌə-]
+发展;演变

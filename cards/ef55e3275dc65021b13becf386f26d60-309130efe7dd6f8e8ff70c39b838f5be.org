@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* federal [ˈfɛdərəl;ˈɛə]
+联邦的;联盟的

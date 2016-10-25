@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* policy [ˈpɑləsi]
+政策;方针

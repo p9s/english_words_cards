@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* estate [ɪˈstet]
+房地产;财产;产业

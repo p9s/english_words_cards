@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* feather [ˈfɛðɚ]
+羽毛;翎毛;羽状物

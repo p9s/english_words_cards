@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pattern [ˈpætərn]
+型;式样;模;模型

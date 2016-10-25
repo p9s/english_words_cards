@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* observation [ˌɑbzərˈveɪʃn]
+注意;观察;观察力

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* define [dɪˈfaɪn]
+给…下定义;限定

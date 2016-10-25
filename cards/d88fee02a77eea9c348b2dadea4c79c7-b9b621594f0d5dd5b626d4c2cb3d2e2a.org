@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* divorce [dɪˈvɔrs]
+离婚;离异离婚

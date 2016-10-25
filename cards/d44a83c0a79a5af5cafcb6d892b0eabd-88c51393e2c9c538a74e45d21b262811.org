@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* poverty [ˈpɑvərti]
+贫穷;贫困

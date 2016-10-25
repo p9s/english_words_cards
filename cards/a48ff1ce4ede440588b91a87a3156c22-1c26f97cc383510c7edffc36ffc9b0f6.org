@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* economically [ˌikəˈnɑmɪkli]
+节约地;在经济上

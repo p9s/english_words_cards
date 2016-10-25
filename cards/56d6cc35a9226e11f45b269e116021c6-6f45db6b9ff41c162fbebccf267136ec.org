@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* defeat [dɪˈfit]
+击败;失败

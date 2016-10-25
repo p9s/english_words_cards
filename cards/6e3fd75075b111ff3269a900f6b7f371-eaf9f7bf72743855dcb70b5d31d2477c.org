@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* community [kəˈmjunɪti]
+社区;社会;公社

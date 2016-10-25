@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* trainer [ˈtrenɚ]
+训练者;教练;训练员;教员

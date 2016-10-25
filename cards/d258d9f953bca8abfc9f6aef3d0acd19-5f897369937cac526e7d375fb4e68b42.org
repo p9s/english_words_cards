@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* regard [rɪˈgɑrd]
+把…看作;尊敬

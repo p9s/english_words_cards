@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* testify ['testɪfaɪ]
+证明;证实;作证

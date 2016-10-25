@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* teenager [ˈtinˌedʒɚ]
+青少年

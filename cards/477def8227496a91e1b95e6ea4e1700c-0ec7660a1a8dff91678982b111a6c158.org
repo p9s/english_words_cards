@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* photographer [fəˈtɑgrəfə]
+摄影者;摄影家

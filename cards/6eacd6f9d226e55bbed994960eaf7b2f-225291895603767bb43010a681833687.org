@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* permission [pərˈmɪʃn]
+允许;许可;同意

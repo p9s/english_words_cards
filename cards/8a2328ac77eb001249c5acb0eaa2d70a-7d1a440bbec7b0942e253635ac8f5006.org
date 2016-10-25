@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* living [ˈlɪvɪŋ]
+生活;谋生

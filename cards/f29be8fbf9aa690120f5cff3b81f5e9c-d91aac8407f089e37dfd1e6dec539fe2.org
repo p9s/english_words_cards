@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* decent [ˈdisənt]
+正派的;体面的

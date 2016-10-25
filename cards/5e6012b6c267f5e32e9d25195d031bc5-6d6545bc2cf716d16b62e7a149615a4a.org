@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* comply [kəmˈplaɪ]
+应允;遵照;照做

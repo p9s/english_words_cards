@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* very [ˈvɛri]
+很;完全真的

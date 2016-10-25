@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fighting [ˈfaɪtɪŋ]
+战斗的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* engine [ˈɛndʒɪn]
+发动机;引擎;机车

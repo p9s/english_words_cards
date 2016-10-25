@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* broken [ˈbroʊkən]
+被打碎的;骨折的

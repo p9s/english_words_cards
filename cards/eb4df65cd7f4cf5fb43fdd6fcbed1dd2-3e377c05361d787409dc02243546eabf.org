@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* moreover [mɔrˈoʊvər]
+再者;加之;此外

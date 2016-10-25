@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* vaccine [vækˈsin]
+牛痘苗;疫苗

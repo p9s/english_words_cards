@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* widow [ˈwɪdoʊ]
+寡妇

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* artistic [ɑrˈtɪstɪk]
+艺术的;艺术家的

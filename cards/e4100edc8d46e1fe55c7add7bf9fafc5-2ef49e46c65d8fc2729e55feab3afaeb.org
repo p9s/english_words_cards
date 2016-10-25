@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* asset [ˈæsˌɛt]
+财产;可取之处

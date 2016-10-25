@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* species [ˈspiʃiz;-]
+种类;种

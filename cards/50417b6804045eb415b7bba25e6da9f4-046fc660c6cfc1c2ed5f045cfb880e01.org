@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* skill [skɪl]
+技能;技巧;熟练

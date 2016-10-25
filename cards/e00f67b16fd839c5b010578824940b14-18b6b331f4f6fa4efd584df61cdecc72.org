@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* contest [ˈkɑntest]
+争夺;争取;辩驳

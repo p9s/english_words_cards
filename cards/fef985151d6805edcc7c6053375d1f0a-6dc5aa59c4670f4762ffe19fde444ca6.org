@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* incredible [ɪnˈkrɛdəbəl]
+难以置信的;惊人的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* base [bes]
+基础;基地;根据地

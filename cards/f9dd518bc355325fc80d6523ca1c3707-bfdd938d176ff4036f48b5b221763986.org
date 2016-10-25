@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* celebration [ˌselɪˈbreɪʃn]
+庆祝;庆祝会

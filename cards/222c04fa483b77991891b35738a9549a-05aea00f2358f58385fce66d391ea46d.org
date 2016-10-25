@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* adequate [ˈædɪkwɪt]
+足够的;可以胜任的

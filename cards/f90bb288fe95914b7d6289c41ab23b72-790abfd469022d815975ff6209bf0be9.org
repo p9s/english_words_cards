@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* inventory [ˈɪnvəntɔri]
+详细目录;存货清单

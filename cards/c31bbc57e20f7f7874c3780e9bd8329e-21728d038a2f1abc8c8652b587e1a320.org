@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reliable [rɪˈlaɪəbəl]
+可靠的;可信赖的

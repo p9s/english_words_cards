@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* grain [ɡren]
+谷物;谷类;谷粒

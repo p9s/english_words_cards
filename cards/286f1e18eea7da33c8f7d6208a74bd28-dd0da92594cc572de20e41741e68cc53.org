@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* session [ˈsɛʃən]
+会议;一段时间

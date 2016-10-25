@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* jaw [dʒɔ]
+颚;上下颚;口部

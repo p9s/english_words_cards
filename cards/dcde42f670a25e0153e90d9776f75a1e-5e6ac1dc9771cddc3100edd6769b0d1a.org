@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* seek [sik]
+寻找;探索;试图

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* chip [tʃɪp]
+薄片;碎片

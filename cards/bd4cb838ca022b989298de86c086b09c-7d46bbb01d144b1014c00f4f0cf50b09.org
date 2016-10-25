@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mutter [ˈmʌtɚ]
+轻声低语;抱怨

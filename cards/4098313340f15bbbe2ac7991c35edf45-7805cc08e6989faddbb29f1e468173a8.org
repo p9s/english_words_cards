@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* owe [oʊ]
+欠;感激;欠应该支付…;应该把…归功于

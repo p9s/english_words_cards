@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* production [prəˈdʌkʃən;-]
+生产;产品;总产量

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* amount [əˈmaʊnt]
+总数;数量;和

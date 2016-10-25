@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* largely [ˈlɑrdʒli]
+大部分;大量地

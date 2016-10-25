@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* college [ˈkɑlɪdʒ]
+学院

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* case [kes]
+情况;事实;病例

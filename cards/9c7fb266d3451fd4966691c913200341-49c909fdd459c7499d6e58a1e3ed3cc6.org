@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* favor [ˈfevɚ]
+好意;帮助;恩惠

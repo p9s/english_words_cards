@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* clip [klɪp]
+夹住夹子;钳子

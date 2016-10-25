@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* spring [sprɪŋ]
+春天;春季

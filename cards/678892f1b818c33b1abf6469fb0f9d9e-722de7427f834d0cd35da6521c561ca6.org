@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* nevertheless [ˌnevərðəˈles]
+然而仍然

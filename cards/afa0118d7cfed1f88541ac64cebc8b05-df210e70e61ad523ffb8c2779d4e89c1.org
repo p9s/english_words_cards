@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* childhood [ˈtʃaɪldˌhʊd]
+幼年;童年

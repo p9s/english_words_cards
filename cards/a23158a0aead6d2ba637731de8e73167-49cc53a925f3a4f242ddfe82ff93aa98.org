@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pay [pe]
+给报酬工资

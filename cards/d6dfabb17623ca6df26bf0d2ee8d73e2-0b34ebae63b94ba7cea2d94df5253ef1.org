@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* channel [ˈtʃænəl]
+海峡;渠道;频道

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* youth [juθ]
+青年

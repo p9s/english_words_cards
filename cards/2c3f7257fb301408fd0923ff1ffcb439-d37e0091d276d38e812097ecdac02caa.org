@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* await [əˈwet]
+等候;期待

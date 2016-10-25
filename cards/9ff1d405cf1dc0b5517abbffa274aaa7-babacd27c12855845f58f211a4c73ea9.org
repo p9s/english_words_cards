@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sign [saɪn]
+征兆;迹象;病症

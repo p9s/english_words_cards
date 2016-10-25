@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* vulnerable [ˈvʌlnərəbəl]
+易受攻击的;脆弱的

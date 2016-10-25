@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* status [ˈstetəs;ˈæə]
+地位;身分

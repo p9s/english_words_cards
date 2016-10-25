@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cliff [klɪf]
+悬崖;峭壁

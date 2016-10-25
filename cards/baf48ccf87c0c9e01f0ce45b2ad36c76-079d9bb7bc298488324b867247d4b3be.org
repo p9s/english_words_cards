@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* squeeze [skwiz]
+榨;挤;压榨

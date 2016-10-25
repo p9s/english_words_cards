@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sock [sɑk]
+短袜

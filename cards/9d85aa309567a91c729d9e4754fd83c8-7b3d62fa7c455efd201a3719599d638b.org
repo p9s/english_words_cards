@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* example [ɪgˈzæmpl]
+例子;榜样

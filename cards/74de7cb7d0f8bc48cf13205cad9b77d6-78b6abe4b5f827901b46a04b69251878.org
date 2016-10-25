@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* response [rɪˈspɑns]
+作答;回答;响应

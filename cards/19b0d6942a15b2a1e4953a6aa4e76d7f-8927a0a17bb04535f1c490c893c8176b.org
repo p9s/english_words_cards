@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* constitutional [ˌkɑnstəˈtuʃənl]
+宪法的;章程的

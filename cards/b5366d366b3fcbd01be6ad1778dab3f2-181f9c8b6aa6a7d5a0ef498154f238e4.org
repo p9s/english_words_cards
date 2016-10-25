@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* curtain [ˈkɜrtn]
+帘;幕

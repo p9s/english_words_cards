@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* banking [ˈbæŋkɪŋ]
+银行业

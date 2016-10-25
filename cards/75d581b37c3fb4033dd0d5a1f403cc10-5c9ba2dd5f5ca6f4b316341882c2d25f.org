@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* grin [ɡrɪn]
+咧着嘴笑

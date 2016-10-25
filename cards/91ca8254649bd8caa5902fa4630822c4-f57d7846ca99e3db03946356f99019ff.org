@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* think [θɪŋk]
+想;想要;认为

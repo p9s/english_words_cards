@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* calendar [ˈkæləndɚ]
+日历;历书;历法

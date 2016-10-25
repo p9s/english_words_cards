@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rehabilitation [ˌrihəˌbɪləˈteʃən]
+恢复

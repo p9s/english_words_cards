@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* undermine [ˌʌndərˈmaɪn]
+破坏;损坏

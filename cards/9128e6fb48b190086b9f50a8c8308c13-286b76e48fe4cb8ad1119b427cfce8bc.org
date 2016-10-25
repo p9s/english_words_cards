@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fundamental [ˌfʌndəˈmɛntl]
+基础的;基本的

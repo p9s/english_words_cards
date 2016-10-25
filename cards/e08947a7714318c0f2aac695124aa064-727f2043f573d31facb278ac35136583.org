@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* scope [skoʊp]
+范围;余地;机会

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* connect [kəˈnɛkt]
+连接;连结;联系

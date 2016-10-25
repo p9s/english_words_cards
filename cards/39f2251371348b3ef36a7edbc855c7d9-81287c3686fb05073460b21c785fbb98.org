@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* involve [ɪnˈvɑlv]
+使卷入;牵涉

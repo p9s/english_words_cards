@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* jail [dʒel]
+监狱;看守所监禁;监禁

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bacteria [bækˈtɪriə]
+细菌

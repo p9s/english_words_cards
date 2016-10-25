@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gifted [ˈɡɪftɪd]
+有天赋的;有才华的

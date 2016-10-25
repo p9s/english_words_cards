@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* character [ˈkærəktɚ]
+性格;特性;角色

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* education [ˌɛdʒəˈkeʃən]
+教育;训导;教育学

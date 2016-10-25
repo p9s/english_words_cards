@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* penalty [ˈpɛnəlti]
+处罚;刑罚;罚款

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* abstract [ˈæbˌstrækt]
+抽象的;深奥的

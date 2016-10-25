@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* intense [ɪnˈtɛns]
+强烈的;紧张的

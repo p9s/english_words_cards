@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* scene [sin]
+一场

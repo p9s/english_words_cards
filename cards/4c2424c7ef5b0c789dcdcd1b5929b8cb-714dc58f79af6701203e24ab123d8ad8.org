@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* specialist [ˈspɛʃəlɪst]
+专家

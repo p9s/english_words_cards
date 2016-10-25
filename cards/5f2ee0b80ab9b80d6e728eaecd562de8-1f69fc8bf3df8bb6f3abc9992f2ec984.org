@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* responsibility [rɪˌspɑnsəˈbɪləti]
+责任;责任心;职责

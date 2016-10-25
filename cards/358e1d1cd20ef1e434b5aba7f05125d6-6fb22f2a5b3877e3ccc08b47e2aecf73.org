@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* army [ˈɑrmi]
+军队

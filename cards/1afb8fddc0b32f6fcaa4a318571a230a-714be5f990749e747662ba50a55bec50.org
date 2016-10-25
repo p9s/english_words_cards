@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* serious [ˈsɪriəs]
+严肃的;认真的

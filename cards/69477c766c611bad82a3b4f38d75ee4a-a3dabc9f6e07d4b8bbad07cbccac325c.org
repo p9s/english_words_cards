@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* overwhelming [ˌoʊvərˈwelmɪŋ]
+压倒的;势不可挡的;绝大多数的;巨大的

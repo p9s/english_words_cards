@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bullet [ˈbʊlɪt]
+子弹;枪弹

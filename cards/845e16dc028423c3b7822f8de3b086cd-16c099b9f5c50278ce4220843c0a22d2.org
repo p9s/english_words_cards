@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* certain [ˈsɜrtn]
+确实的;肯定的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* occasional [əˈkeʒənəl]
+偶然的;临时的

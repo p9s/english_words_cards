@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* streak [strik]
+线条;条纹;加线条

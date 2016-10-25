@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* embrace [ɛmˈbres]
+包括;包含;包围

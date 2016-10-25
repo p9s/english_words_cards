@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* arrangement [əˈrendʒmənt]
+整理;排列;安排

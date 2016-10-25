@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mode [moʊd]
+方式;样式

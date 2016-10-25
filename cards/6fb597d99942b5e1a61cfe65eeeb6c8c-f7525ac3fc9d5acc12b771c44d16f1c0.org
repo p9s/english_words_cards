@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* surprised [sərˈpraɪzd]
+惊讶的

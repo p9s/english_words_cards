@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* thinking [ˈθɪŋkɪŋ]
+思考;思想;见解

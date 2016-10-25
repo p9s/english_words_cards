@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* notebook [ˈnoʊtbʊk]
+笔记本;期票簿

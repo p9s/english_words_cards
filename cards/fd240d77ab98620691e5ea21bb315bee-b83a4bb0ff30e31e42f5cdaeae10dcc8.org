@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* romantic [roʊˈmæntɪk]
+浪漫的;传奇的

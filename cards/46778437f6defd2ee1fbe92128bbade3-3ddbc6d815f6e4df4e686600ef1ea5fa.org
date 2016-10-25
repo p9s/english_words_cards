@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* southern [ˈsʌðərn]
+南方的;南部的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* coffee [ˈkɔfi]
+咖啡

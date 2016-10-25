@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* magazine [ˈmægəzin]
+杂志;期刊

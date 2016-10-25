@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pump n.泵
+用抽机抽

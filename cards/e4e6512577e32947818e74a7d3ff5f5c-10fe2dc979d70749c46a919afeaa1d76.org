@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* minority [maɪˈnɔrəti]
+少数;少数民族

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* option [ˈɑpʃn]
+选择;取舍

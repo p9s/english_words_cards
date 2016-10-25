@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* excuse [ɪkˈskjuz]
+藉口;托辞

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reinforce [ˌriɪnˈfɔrs]
+增援;支援;加强

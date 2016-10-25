@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* collapse [kəˈlæps]
+倒坍;崩溃;瓦解

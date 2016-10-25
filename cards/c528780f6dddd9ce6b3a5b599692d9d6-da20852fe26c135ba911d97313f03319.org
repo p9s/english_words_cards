@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* profile [ˈproʊfaɪl]
+外形;轮廓侧面像

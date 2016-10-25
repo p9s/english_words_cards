@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* utilize [ˈjutlˌaɪz]
+利用

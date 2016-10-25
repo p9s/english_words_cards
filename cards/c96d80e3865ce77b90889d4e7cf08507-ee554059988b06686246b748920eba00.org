@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sheep [ʃip]
+羊;绵羊

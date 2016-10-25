@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* governor [ˈgʌvərnə]
+统治者;总督

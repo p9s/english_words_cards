@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* knock [nɑk]
+敲;击;打

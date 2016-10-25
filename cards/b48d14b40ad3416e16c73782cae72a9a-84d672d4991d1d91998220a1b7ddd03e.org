@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fall [fɔl]
+落下;跌倒

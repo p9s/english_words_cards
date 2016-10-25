@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* logical [ˈlɑdʒɪkl]
+逻辑的;符合逻辑的

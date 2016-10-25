@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dynamic [daiˈnæmik]
+有活力的;动力的

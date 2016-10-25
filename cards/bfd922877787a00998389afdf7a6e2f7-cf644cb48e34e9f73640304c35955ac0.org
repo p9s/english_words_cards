@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* man [mæn]
+男人;人;人类

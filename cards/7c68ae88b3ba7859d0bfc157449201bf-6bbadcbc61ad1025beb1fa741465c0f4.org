@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bar [bɑr]
+酒吧间;条;杆;栅

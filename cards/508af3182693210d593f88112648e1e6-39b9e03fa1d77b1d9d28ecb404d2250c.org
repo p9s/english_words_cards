@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* convey [kənˈve]
+传送;运送;传播;转让;传达;通报;运输;传达

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* criticism [ˈkrɪtɪˌsɪzəm]
+批评;批判;评论

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* instead [ɪnˈstɛd]
+代替;顶替

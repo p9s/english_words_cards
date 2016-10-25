@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* grip [ɡrɪp]
+握紧;抓牢紧握

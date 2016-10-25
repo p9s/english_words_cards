@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* argue [ˈɑrgju]
+争论;争辩;辩论

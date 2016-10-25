@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rebuild [riˈbɪld]
+重建;改造

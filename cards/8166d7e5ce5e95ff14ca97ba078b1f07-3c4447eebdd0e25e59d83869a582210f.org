@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* class [klæs]
+课;门类;分类;班级;阶级;类别;把…分成等级

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* eastern [ˈistərn]
+东方的;朝东的

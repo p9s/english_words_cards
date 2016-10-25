@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* completely [kəmˈpliːtli]
+完全地;彻底地

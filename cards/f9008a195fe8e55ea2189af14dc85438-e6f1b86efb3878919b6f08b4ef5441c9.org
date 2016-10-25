@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* arena [əˈrinə]
+竞技场

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* historic [hɪˈstɔrɪk]
+有历史意义的

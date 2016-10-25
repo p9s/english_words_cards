@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lawyer [ˈlɔjɚ]
+律师;法学家

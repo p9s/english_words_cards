@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Jewish [ˈdʒuɪʃ]
+犹太人的

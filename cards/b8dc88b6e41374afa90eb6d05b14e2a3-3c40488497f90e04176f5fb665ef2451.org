@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* intimate [ˈɪntəmɪt]
+亲密的;个人的

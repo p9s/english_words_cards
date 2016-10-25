@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* alone [əˈloʊn]
+单独的单独地

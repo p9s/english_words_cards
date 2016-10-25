@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ironically [aɪ'rɒnɪklɪ]
+讽刺地;易人啼笑皆非地

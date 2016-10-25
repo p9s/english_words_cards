@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* prevention [prɪˈvɛnʃən]
+预防;阻止;妨碍

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* closet [ˈklɑzət]
+壁橱;小房间

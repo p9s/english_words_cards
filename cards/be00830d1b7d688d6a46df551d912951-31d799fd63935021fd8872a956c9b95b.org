@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* assault [əˈsɔlt]
+袭击;殴打攻击

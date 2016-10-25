@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* habit [ˈhæbɪt]
+习惯;习性

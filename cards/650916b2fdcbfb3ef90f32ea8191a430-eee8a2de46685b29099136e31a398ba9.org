@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fine [faɪn]
+好的很好;妙

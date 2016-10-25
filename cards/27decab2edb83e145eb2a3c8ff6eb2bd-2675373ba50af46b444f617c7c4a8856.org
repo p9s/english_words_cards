@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* presidential [ˌprɛzɪˈdɛnʃəl]
+总统的;首长的;支配的;统辖的;

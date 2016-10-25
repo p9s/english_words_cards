@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ancient [ˈenʃənt]
+古代的;古老的

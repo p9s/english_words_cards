@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* informal [ɪnˈfɔrml]
+非正式的;不拘礼的;通俗的

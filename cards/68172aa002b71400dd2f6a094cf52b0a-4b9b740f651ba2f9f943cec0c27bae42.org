@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* purse [pɜrs]
+钱包;小钱袋;手袋

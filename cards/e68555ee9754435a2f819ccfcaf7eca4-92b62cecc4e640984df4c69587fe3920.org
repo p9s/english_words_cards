@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* empty [ˈɛmpti]
+空的;空洞的

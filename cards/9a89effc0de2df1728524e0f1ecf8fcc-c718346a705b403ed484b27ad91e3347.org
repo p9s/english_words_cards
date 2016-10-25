@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* concert [ˈkɑnsərt]
+音乐会;演奏会

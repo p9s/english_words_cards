@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* couch [kaʊtʃ]
+睡椅;长沙发椅

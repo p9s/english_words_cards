@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* location [loʊˈkeɪʃn]
+定位;测位;测量

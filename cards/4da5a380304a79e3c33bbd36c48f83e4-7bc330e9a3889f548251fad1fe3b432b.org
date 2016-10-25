@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pursuit [pərˈsut]
+追赶;追求;事务

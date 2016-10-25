@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* elite [ɪˈlit;ˈ]
+精华;中坚;名流

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pressure [ˈprɛʃɚ]
+压力;压力;压;按

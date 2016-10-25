@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stock [stɑk]
+原料;库存品;股本

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* carrier [ˈkæriɚ]
+运输工具;运载工具

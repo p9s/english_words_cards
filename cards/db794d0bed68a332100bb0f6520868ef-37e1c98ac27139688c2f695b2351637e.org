@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* democracy [dɪˈmɑkrəsi]
+民主;民主制

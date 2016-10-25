@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* structure [ˈstrʌktʃɚ]
+结构;构造建造

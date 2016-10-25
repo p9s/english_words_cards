@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* grandparent [ˈgrænperənt]
+祖父或祖母;祖父母

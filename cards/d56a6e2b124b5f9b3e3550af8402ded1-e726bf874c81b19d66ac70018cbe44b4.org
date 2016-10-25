@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* importance [ɪmˈpɔrtns]
+重要;重要性

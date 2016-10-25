@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* kneel [nil]
+跪着;跪下

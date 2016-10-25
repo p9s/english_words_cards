@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hate [het]
+恨;憎恨;不喜欢

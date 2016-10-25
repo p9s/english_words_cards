@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* provision [prəˈvɪʒən]
+规定;条款;条项

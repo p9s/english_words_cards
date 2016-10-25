@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* expected [ɪkˈspektɪd]
+预期的;期待的

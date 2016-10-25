@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dock [dɑk]
+把…引入船坞

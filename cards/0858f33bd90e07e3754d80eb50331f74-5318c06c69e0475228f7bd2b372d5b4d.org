@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* infection [ɪnˈfɛkʃən]
+传染;影响;传染病

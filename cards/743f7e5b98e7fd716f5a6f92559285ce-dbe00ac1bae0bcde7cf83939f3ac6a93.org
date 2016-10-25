@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* accusation [ˌækjuˈzeʃən]
+指控

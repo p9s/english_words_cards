@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* arrest [əˈrɛst]
+逮捕;拘留;阻止

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bit [bɪt]
+一点;一些

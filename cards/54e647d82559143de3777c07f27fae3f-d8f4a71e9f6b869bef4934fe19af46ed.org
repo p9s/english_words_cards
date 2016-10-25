@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* familiar [fəˈmɪljɚ]
+熟悉的;冒昧的

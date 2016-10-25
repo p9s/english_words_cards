@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* readily [ˈrɛdəli;ˈɛ]
+乐意地;无困难地

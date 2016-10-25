@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* port [pɔrt]
+港;港口

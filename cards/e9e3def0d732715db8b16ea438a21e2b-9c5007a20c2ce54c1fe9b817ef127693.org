@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* course [kɔrs]
+课程;过程;一道菜

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* blade [bled]
+刀刃;刀片;叶片

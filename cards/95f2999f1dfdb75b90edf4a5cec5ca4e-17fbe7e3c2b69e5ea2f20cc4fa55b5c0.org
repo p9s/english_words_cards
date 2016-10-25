@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mouse [maʊs]
+鼠;耗子

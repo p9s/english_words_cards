@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* region [ˈridʒən]
+地区;地带;领域

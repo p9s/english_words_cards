@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* occur [əˈkɚ]
+发生;出现;存在

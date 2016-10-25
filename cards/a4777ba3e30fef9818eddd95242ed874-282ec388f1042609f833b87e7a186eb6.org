@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* undertake [ˌʌndərˈteɪk]
+约定;保证;从事

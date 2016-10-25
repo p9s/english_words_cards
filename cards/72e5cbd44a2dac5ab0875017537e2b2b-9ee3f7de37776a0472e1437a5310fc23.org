@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dealer [ˈdilɚ]
+商人;贩子;发牌者;经记人;证券商;商人贩子

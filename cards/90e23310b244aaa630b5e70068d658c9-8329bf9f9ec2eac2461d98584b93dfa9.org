@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hole [hoʊl]
+洞;孔眼;裂开处

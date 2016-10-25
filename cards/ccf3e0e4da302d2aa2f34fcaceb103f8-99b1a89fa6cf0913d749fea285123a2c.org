@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* origin [ˈɔrɪdʒɪn]
+起源;开端

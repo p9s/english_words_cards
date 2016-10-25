@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gate [ɡet]
+大门

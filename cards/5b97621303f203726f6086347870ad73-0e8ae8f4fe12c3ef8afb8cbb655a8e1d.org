@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* percentage [pərˈsentɪdʒ]
+百分比;百分率

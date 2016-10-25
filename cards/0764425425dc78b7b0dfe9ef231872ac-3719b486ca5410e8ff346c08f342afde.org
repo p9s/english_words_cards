@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* strategy [ˈstrætədʒi]
+战略;策略

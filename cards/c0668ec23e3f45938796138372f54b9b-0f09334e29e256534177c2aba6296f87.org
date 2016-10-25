@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* employment [ɛmˈplɔɪmənt]
+工业;雇用;使用

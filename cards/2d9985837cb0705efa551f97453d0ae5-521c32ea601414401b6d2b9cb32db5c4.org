@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* election [ɪˈlɛkʃən]
+选举;选择权;当选

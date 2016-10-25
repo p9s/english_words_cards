@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Thanksgiving [θæŋksˈɡɪvɪŋ]
+感恩节

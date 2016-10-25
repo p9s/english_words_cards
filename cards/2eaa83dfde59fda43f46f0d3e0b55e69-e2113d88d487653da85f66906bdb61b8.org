@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* envelope [ˈenvəloʊp]
+信封

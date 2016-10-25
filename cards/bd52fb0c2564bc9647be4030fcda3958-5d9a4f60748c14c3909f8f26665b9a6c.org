@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* forum [ˈfɔrəm]
+论坛;讨论会

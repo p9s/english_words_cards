@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* true [tru]
+真的;忠实的

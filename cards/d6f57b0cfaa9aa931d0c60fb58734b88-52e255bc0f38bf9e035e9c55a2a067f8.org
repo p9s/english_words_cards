@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* principle [ˈprɪnsəpəl]
+原则;原理;主义

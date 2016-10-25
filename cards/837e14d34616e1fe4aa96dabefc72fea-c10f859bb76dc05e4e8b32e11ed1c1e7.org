@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* affect [əˈfɛkt]
+影响;感动

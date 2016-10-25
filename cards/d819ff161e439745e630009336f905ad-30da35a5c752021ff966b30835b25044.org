@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* refuse [rɪˈfjuz]
+拒绝拒绝

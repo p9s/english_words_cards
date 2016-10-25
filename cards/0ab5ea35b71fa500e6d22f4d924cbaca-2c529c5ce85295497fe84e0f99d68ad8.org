@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* recording [rɪˈkɔrdɪŋ]
+录音;记录

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* beach [bitʃ]
+海滩;湖滩;河滩

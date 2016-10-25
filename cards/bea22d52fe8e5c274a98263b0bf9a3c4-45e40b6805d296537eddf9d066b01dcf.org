@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* widespread [ˈwaɪdˈsprɛd]
+分布广的;普遍的

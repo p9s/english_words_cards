@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* national [ˈnæʃənəl;ˈæʃə]
+国家的;民族的

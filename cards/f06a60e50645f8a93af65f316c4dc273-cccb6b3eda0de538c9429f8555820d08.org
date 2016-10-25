@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* intention [ɪnˈtɛnʃən]
+意图;意向;目的

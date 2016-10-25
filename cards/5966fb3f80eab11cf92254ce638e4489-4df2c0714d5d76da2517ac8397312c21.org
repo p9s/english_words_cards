@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* button [ˈbʌtn]
+扣子;按钮扣紧

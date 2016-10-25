@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* submit [səbˈmɪt]
+使服从服从

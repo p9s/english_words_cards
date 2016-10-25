@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* drug [drʌɡ]
+药;药物;药材

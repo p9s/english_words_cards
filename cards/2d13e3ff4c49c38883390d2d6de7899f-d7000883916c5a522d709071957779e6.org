@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* unhappy [ʌnˈhæpi]
+不幸福的;不快乐的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* failure ['feɪljər]
+失败;失败的人

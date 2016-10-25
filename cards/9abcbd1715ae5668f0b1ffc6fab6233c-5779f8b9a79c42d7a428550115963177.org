@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* following [ˈfɑloʊɪŋ]
+接着的;以下的;下列的;其次的;在…以后下一个

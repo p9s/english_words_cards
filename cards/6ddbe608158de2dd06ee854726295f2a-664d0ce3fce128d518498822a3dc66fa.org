@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pond [pɑnd]
+池塘;鱼塘

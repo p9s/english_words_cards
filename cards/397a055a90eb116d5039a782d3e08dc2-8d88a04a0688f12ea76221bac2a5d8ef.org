@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* talent [ˈtælənt]
+天才;才能;人才

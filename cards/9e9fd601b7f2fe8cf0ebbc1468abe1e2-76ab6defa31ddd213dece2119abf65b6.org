@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* activity [ækˈtɪvɪti]
+活动;能动性

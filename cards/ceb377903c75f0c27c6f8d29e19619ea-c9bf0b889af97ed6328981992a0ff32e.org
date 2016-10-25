@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* temperature [ˈtɛmpərəˌtʃʊr;-tʃɚ;ˈtɛmprə-]
+温度

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* employee [ɪmˈplɔɪi]
+受雇者;雇员;雇工

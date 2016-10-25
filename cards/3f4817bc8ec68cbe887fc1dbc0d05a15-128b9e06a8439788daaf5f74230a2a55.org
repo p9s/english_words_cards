@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* construction [kənˈstrʌkʃən]
+建设;修建;解释;工程;构造

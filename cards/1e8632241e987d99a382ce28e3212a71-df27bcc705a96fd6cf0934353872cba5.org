@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* interesting [ˈɪntrɪstɪŋ]
+有趣的;引人入胜的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* alter [ˈɔltɚ]
+改变;变更;改做

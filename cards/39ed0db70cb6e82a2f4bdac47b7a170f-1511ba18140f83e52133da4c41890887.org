@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* citizen [ˈsɪtɪzən]
+公民;市民;居民

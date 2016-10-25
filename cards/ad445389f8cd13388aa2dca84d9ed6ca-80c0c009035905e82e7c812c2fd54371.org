@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pilot [ˈpaɪlət]
+领航员;飞行员

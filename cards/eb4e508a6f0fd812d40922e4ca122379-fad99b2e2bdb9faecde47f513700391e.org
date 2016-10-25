@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* execution [ˌɛksɪˈkjuʃən]
+实行;执行;处死刑

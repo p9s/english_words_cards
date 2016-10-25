@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* adolescent [ˌædə'lesnt]
+青少年

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ambitious [æmˈbɪʃəs]
+有雄心的;热望的

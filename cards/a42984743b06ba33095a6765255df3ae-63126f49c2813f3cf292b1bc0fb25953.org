@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* phase [fez]
+阶段;方面;相位

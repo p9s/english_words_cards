@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* participate [pɑrˈtɪsɪpeɪt]
+参与;参加;分享

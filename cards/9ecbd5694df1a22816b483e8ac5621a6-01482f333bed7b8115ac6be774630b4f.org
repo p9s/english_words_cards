@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* plan [plæn]
+计划;打算

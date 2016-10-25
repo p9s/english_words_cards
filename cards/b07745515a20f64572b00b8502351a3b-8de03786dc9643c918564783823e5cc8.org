@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* thereby [ˌðerˈbaɪ]
+因此;从而;由此

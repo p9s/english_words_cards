@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* slightly [ˈslaɪtli]
+轻微地;轻蔑地;略微地;稍微;有点;细长的;轻轻地

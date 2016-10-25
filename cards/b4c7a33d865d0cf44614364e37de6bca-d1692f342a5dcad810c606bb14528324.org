@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* north [nɔrθ]
+北部;北方

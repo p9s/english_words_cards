@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* behalf [bɪˈhæf]
+利益;维护;支持

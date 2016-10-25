@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tear [ter]
+扯开;撕裂

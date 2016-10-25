@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* necessity [nəˈsɛsɪti]
+必要性;必然性

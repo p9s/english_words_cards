@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cast [kæst]
+投;扔;抛;浇铸

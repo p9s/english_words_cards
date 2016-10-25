@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* brush [brʌʃ]
+刷子;毛刷;画笔

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cost [kɔst]
+值成本

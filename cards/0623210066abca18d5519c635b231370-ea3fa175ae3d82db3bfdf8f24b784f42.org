@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* laughter [ˈlæftə]
+笑;笑声

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* portion [ˈpɔrʃn]
+一部分;一分

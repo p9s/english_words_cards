@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* aware [əˈwer]
+知道的;意识到的

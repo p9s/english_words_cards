@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ourselves [ɑrˈselvz]
+我们自己

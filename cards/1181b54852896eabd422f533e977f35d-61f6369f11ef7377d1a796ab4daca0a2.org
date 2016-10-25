@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* driver [ˈdraɪvɚ]
+驾驶员;司机

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sensitive [ˈsɛnsɪtɪv]
+敏感的;灵敏的

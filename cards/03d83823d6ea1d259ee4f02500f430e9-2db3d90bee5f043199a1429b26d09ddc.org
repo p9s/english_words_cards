@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* vitamin [ˈvaɪtəmɪn]
+维生素;维他命

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* laugh [læf]
+笑;发笑笑

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hurricane [ˈhɜrəkən]
+飓风;十二级风

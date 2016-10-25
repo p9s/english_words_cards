@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* convince [kənˈvɪns]
+使确信;使信服

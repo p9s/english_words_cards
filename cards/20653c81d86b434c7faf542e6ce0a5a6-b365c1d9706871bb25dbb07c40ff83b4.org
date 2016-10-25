@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* unfair [ˌʌnˈfer]
+不公平的

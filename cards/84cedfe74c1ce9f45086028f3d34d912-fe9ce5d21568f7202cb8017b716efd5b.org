@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bomb [bɑm]
+炸弹;突发事件;高压喷雾器;投弹;轰炸;投弹于

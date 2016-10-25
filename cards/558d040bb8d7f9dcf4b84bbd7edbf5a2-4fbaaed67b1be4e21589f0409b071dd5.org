@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* index [ˈɪnˌdɛks]
+索引;指数;指标

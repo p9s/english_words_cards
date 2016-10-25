@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* divine [dɪˈvaɪn]
+神的;敬神的

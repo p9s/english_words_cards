@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* blind [blaɪnd]
+百叶窗;窗帘;遮帘

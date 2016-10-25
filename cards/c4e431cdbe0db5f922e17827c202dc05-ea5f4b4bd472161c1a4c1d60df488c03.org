@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* seminar [ˈsɛməˌnɑr]
+研讨会;学术讲座;研究班

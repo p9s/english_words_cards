@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* province [ˈprɑvɪns]
+领域;范围;职权

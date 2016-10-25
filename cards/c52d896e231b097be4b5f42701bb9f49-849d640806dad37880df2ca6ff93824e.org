@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* criminal [ˈkrɪmənəl]
+犯人;罪犯;刑事犯

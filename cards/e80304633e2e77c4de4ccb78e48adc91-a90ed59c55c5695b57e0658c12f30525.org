@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* thought [θɔt]
+思想;思维;想法

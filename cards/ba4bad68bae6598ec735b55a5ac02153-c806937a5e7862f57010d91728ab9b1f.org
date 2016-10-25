@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* adjust [əˈdʒʌst]
+调整;调节;校正

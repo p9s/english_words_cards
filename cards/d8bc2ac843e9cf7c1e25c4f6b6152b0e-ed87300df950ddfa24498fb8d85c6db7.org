@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* trend [trɛnd]
+伸向;倾向倾向

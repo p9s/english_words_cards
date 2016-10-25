@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* society [səˈsaɪɪti]
+社会;会;社团

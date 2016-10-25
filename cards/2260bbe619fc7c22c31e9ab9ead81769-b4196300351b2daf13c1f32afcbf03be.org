@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* brave [brev]
+勇敢的;华丽的

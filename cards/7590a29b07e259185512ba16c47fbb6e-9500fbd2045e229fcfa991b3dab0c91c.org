@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* poetry [ˈpoʊətri]
+诗;诗歌;诗作

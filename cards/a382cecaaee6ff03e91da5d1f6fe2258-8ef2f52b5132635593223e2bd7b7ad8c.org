@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* week [wik]
+星期;周

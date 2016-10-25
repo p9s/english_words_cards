@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* questionnaire [ˌkwestʃəˈner]
+调查表;问卷;调查表

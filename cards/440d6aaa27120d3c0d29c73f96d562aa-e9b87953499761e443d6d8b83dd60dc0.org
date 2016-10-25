@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* demonstration [ˌdɛmənˈstreʃən]
+示范;实证

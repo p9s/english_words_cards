@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lot [lɑt]
+许多;大量;签;阄

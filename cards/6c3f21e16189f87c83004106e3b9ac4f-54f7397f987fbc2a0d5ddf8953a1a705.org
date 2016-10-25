@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* glove [ɡlʌv]
+手套

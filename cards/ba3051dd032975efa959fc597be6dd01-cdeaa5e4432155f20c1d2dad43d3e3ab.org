@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* being [ˈbiɪŋ]
+存在;生物;生命

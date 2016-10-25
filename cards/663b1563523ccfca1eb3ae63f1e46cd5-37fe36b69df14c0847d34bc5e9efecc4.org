@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* president [ˈprɛzɪdənt;-ˌdɛnt]
+总统

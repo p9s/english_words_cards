@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* surrounding [səˈraʊndɪŋ]
+周围的事物;环境;环绕的;周围的;包围

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* beauty [ˈbjuti]
+美;美人

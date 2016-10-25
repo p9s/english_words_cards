@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pair [per]
+一对成对;配对

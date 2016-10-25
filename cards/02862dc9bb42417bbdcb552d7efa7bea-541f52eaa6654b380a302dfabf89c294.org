@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* businessman [ˈbɪznɪsˌmæn]
+商人;实业家

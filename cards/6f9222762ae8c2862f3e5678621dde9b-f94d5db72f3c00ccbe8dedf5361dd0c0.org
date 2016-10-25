@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* proof [pruf]
+证据;证明;论证

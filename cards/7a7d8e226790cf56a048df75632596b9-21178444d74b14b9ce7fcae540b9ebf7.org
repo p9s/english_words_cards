@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fit [fɪt]
+适合;合身

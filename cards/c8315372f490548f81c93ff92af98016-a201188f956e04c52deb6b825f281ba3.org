@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* enough [ɪˈnʌf]
+足够的充分地

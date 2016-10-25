@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* race [reɪs]
+比赛;赛跑;赛马

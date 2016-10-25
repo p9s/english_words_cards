@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* doctrine [ˈdɑktrɪn]
+教义;主义;学说

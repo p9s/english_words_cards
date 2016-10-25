@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wonder [ˈwʌndɚ]
+惊异;惊奇;奇迹

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* second [ˈsekənd]
+第二二等的

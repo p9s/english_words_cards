@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* discussion [dɪˈskʌʃən]
+讨论;谈论;论述

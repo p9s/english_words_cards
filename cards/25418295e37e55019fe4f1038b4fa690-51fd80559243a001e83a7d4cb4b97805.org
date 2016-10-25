@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* message [ˈmɛsɪdʒ]
+信息;消息;启示

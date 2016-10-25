@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stack [stæk]
+堆;垛堆积

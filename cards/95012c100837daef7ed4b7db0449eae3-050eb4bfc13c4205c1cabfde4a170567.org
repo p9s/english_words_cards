@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* management [ˈmænɪdʒmənt]
+管理;经营;处理

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* frontier [frʌnˈtɪr]
+边境;边疆;新领域

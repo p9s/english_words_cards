@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lunch [lʌntʃ]
+午餐;便餐

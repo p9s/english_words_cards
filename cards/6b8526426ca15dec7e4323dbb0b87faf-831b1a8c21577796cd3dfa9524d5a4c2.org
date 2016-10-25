@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* smart [smɑrt]
+巧妙的;洒脱的

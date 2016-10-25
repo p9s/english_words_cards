@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* agriculture [ˈæɡrɪˌkʌltʃɚ]
+农业;农艺;农学

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* resort [rɪˈzɔrt]
+求助;凭借

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* party [ˈpɑrti]
+聚会

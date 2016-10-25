@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* relatively [ˈrɛlətɪvlɪ]
+比较地;相对地

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* conception [kənˈsɛpʃən]
+概念;观念;想法

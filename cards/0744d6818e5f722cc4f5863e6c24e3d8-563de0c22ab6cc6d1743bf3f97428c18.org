@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* oak [ əʊk]
+栎属植物;栎木

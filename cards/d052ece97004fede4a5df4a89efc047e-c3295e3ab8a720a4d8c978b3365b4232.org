@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* inmate [ˈɪnˌmet]
+同住者;居民

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* medicine [ˈmɛdɪsɪn]
+医学;内科学

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ethical [ˈɛθɪkəl]
+伦理的;民族的;民族特有的

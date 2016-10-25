@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* when [wɛn]
+什么时候;当…时

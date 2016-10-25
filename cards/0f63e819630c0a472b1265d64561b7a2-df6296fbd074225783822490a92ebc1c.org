@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* candidate [ˈkændɪˌdet;-ɪ]
+候选人

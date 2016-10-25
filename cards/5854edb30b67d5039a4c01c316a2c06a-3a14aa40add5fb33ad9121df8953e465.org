@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* educate [ˈɛdʒəˌket]
+教育;培养;训练

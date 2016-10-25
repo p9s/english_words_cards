@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* employer [ɪmˈplɔɪər]
+雇佣者;雇主

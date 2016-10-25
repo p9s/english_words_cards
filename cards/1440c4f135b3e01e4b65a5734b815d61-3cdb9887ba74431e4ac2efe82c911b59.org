@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* aircraft [ˈerkræft]
+飞机;飞行器

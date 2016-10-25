@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* previously [ˈprivɪəslɪ]
+预先;先前;以前

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cup [kʌp]
+使成杯形

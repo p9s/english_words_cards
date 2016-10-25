@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* benefit [ˈbɛnəfɪt]
+利益;恩惠;津贴

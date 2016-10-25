@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shore [ʃɔr;ʃ]
+滨;岸

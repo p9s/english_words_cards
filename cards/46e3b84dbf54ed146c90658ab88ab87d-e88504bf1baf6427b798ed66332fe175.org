@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wealth [wɛlθ]
+财富;财产;丰富

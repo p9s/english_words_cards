@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* unfortunately [ʌnˈfɔrtʃənətli]
+不幸地;不凑巧;倒霉地;可惜;遗憾地;使人遗憾的;不幸的

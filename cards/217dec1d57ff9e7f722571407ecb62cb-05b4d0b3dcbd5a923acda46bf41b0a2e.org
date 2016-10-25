@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gay [ɡeɪ]
+快乐的;鲜明的

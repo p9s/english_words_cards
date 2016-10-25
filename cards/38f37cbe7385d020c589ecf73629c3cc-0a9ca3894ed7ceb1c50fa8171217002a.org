@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* skirt [skɜrt]
+女裙

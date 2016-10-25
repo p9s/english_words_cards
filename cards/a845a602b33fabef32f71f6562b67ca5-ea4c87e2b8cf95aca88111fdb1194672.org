@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* compare [kəmˈper]
+比较;对照;比作

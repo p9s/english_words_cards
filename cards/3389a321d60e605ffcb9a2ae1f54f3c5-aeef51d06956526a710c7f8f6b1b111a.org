@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* spite [spaɪt]
+恶意;怨恨

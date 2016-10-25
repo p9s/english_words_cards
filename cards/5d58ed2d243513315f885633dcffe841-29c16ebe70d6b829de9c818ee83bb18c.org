@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* building [ˈbɪldɪŋ]
+建筑物;大楼;建筑

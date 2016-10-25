@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* locate [ˈloʊkeɪt]
+探明;找出;查出

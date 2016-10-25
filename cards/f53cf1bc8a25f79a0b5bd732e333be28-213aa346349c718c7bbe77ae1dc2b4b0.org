@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* become [bɪˈkʌm]
+变成;成为;变得

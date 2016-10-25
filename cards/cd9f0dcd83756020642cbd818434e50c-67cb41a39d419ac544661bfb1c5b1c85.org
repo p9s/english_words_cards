@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* withdrawal [wɪðˈdrɔəl;ɪθ-]
+撤退;退回;取消;停止服药;退股;

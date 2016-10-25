@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* finish [ˈfɪnɪʃ]
+完成;结束结束

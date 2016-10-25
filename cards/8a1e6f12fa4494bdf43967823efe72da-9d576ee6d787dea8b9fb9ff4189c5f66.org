@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* galaxy [ˈɡæləksi]
+（银河）星群;显赫的人群

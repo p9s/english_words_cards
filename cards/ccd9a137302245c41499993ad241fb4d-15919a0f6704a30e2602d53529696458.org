@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* winner [ˈɪɚ]
+获胜者;优胜者

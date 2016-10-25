@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* deal [dil]
+做买卖;对付

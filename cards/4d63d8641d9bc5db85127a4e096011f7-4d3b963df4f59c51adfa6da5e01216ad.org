@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* complicated [ˈkɑmplɪkeɪtɪd]
+使复杂化;使混乱;难懂的;难解的;复杂的

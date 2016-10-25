@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* award [əˈwɔrd]
+奖;奖品;判定

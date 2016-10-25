@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* holy [ˈhoʊli]
+神圣的;圣洁的

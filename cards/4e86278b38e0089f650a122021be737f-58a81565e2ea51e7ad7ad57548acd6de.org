@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* alarm [əˈlɑrm]
+惊恐;忧虑;警报

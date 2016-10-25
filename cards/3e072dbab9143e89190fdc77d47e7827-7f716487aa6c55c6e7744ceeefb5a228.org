@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* center [ˈsɛntɚ]
+中心;中心点;中锋

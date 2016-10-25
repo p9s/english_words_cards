@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* screen [skrin]
+屏;屏幕掩蔽

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* female [ˈˌ]
+雌性的动物;女子

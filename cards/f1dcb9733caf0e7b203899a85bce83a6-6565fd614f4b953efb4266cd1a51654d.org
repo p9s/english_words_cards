@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* impress [ɪmˈprɛs]
+印;留下极深的印象

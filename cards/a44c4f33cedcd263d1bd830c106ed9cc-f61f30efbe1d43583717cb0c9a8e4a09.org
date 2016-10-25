@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* animal [ˈænəməl]
+动物;兽动物的

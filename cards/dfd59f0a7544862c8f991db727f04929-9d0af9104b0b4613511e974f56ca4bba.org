@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* adult [əˈʌ;ˈæʌ]
+成年人成年的

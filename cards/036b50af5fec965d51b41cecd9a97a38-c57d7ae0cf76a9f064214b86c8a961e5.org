@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* crisis [ˈkraɪsɪs]
+危机;存亡之际

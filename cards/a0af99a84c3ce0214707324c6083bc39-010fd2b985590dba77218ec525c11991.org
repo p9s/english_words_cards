@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fewer ['fjuə]
+为数更少的

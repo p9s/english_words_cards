@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rare [rer]
+稀薄的;稀有的

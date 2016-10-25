@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* convention [kənˈvɛnʃən]
+习俗;惯例;公约;协定;会议;常规;契约

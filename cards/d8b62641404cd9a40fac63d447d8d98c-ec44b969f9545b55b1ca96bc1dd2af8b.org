@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dip [dɪp]
+浸;蘸

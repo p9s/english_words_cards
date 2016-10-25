@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* enable [ɛˈnebəl]
+使能够;使可能

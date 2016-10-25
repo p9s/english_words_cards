@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* translation [trænsˈleʃən;æ-]
+翻译;译文;译本

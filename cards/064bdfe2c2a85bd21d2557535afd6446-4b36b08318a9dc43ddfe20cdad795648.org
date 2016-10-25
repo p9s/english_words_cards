@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tomorrow [təˈmɑroʊ]
+在明天明天

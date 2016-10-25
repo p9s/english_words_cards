@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* annual [ˈænjuəl]
+每年的年报

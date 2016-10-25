@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* act [ækt]
+行动;做;做事

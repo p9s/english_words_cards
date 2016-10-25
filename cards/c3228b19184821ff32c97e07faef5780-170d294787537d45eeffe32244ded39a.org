@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* none [nʌn]
+没有人毫不

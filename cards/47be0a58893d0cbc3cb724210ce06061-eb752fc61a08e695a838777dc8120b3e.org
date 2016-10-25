@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* residence [ˈrɛzɪdəns]
+居住;驻扎;住处

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* religion [rɪˈlɪdʒən]
+宗教;宗教信仰

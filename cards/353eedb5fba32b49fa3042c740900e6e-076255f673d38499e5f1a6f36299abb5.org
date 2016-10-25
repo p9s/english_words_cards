@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stage [stedʒ]
+舞台;戏剧;阶段

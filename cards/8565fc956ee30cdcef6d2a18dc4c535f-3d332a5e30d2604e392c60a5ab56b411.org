@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* immune [ɪˈmjoon]
+免疫的;免除的

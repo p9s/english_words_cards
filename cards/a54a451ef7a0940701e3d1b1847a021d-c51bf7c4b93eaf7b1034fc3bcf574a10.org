@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* favorable [ˈfevərəbəl;ˈə-]
+称赞的

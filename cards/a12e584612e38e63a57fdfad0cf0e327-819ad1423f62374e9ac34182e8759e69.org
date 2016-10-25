@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* needle [ˈnidl]
+针;缝补;编织针

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* offender [əˈfɛndɚ]
+罪犯;无礼的人;得罪人的人

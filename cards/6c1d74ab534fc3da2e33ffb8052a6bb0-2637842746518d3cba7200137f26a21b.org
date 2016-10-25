@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* withdraw [wɪðˈdrɔ;ɪθ-]
+收回;撤回撤退

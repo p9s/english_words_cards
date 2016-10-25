@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* settle [ˈsɛtl]
+安排;安放;调停

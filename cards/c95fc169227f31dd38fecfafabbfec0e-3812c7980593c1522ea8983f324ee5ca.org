@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* senator [ˈsɛnətɚ]
+参议员;评议员

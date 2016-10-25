@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* monument [ˈmɑnjumənt]
+纪念碑;纪念物

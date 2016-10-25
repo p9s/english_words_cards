@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pitcher [ˈpɪtʃɚ]
+有柄水罐

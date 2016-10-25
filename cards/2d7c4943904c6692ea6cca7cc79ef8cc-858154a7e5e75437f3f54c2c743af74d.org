@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* nutrient [ˈnutriənt]
+营养品;滋养物

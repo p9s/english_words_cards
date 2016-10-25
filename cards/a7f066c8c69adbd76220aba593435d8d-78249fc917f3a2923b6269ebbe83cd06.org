@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* struggle [ˈstrʌɡəl]
+斗争;奋斗

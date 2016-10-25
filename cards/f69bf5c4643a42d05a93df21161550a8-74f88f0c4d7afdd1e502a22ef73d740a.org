@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* environment [ɛnˈvaɪrənmənt;-ˈɪə-]
+环境;外界;围绕

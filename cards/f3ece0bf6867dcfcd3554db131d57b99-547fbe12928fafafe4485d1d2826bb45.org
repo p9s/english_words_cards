@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* faint [fent]
+暗淡的;微弱的

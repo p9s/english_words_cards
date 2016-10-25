@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* closely [ˈkloslɪ]
+细细地;紧密地;接近地;严密地;准确地;精密地;仔细地

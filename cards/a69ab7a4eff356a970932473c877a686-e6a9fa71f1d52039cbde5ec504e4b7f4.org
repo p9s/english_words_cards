@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* swim [swɪm]
+游;游泳;眼花

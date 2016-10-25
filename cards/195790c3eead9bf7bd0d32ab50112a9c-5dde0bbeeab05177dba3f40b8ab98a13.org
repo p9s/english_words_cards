@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dominate [ˈdɑmɪneɪt]
+统治;支配;控制

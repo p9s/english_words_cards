@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* similarity [ˌsɪməˈlærɪti]
+类似;类似处

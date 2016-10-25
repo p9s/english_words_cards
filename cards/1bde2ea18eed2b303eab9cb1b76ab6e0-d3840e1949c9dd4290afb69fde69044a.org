@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* execute [ˈɛksɪˌkjut]
+将…处死;实施

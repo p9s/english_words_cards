@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* police [pəˈlis]
+警察;警察当局

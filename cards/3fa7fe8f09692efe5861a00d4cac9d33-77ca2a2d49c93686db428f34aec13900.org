@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* drive [draɪv]
+驱赶;驾驶

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* plenty [ˈplɛnti]
+充足;大量

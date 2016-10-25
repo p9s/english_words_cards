@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bull [bʊl]
+买空的证券投机商

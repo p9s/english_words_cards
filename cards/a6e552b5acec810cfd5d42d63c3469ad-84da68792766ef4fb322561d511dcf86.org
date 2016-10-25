@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* basically [ˈbesɪkəli;-kli]
+基本上;主要地;事实上;基本地

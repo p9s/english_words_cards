@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* equipment [ɪˈkwɪpmənt]
+装备;设备

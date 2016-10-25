@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* western [ˈwestərn]
+西的;西方的

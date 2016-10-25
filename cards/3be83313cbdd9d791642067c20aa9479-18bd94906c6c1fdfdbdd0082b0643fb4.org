@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tablespoon [ˈtebəlˌspun]
+大汤匙

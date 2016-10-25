@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* nomination [ˌnɑmɪˈneɪʃn]
+提名;指派

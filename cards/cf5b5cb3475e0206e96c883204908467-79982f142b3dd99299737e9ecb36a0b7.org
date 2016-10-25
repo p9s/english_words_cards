@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* treasure [ˈtrɛʒɚ]
+财富;珍宝珍视

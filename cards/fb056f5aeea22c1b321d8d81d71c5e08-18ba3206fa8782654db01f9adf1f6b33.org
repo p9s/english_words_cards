@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sculpture [ˈskʌlptʃɚ]
+雕刻;雕刻品

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* legend [ˈlɛdʒənd]
+传说;传奇

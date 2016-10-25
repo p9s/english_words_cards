@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* uncertain [ʌnˈsɜrtn]
+无常的;不确定的

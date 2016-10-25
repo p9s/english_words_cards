@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reserve [rɪˈzɜrv]
+储备;保留;预定

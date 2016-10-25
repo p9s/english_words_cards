@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* assume [əˈsum]
+假定;承担;呈现

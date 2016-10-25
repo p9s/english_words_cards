@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* toll [toʊl]
+通行费;代价;钟声

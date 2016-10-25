@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rate [ret]
+比率;速率;等级

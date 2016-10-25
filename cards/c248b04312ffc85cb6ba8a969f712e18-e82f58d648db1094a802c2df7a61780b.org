@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* investor [ɪnˈvɛstɚ]
+投资者

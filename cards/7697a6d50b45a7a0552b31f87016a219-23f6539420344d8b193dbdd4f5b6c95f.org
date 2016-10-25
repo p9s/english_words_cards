@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* customer [ˈkʌstəmɚ]
+顾客;主顾

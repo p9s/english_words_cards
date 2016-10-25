@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* invitation [ˌɪnvɪˈteʃən]
+请帖;邀请

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* missing [ˈmɪsɪŋ]
+缺掉的;失去的

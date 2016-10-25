@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* speculation [ˌspɛkjəˈleʃən]
+思索;推测;投机

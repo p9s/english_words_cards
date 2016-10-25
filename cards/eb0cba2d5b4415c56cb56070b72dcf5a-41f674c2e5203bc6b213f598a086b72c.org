@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pulse [pʌls]
+脉搏

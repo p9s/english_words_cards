@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* swallow [ˈswɑloʊ]
+;吞;咽

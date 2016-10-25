@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* decorate [ˈdɛkəˌret]
+装饰;装璜;修饰

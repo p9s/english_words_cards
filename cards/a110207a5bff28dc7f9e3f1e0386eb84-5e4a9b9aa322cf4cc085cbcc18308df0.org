@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hidden [ˈhɪdn]
+的过去分词

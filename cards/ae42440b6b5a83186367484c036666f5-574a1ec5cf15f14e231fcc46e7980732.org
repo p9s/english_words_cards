@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* death [dɛθ]
+死;死亡;灭亡

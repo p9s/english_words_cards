@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* crime [kraɪm]
+罪;罪行;犯罪

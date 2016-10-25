@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* immediately [ɪˈmidiɪtli]
+立即;直接地;立刻;马上;紧挨着地;即刻;立即地

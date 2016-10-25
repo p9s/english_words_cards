@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* equivalent [ɪˈkwɪvələnt]
+相等的;等量的

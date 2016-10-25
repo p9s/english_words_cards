@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wide [waɪd]
+广阔地;充分地

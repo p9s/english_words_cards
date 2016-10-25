@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* indicator [ˈɪndɪˌketɚ]
+指示者;指示物

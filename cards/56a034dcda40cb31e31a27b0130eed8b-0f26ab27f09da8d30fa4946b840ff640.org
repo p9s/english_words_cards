@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* exhaust [ɪɡˈzɔst]
+使筋疲力尽;用尽

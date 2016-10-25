@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mystery [ˈmɪstəri]
+神秘小说;侦探小说

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* realize [ˈriəˌlaɪz]
+意识到

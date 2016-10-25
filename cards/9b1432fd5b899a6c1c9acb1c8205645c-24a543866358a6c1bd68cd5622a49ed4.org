@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* component [kəmˈpoʊnənt]
+组成部分;分;组件

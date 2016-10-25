@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tunnel [ˈtʌnəl]
+隧道;坑道;地道

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pause [pɔz]
+中止;暂停

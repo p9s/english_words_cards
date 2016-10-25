@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* prison [ˈprɪzən]
+监狱;监禁

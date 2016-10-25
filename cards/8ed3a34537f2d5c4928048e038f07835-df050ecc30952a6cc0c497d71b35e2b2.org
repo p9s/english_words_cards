@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* motor [ˈmoʊtə]
+发动机;机动车

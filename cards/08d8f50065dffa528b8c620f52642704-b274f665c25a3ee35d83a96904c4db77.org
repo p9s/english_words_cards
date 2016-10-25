@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* alcohol [ˈælkəhɔl]
+酒精;乙醇

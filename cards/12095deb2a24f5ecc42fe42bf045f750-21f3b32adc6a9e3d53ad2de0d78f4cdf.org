@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* weaken [ˈwikən]
+削弱变弱

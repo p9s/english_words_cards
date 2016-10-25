@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* island [ˈaɪlənd]
+岛;岛状物

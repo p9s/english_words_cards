@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* graduate [ˈɡrædʒuˌet]
+毕业生大学毕业

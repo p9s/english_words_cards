@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* journal [ˈdʒɜrnl]
+日报;杂志;日志

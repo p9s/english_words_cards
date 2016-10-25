@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mortality [mɔrˈtæləti]
+必死的命运;死亡数目;死亡率

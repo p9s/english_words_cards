@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* haul [hɔl]
+拖曳;拖运

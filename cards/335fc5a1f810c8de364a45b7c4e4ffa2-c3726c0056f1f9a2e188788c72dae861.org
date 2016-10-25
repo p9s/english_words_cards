@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* terribly [ˈtɛrəbli]
+可怕地;极坏地;厉害地;极

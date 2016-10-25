@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* existence [ɪɡˈzɪstəns]
+存在;实在;生存

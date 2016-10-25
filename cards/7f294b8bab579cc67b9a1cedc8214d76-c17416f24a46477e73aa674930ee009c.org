@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* into [ˈɪntu]
+进;入;进入到

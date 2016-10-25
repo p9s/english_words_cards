@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* discourage [dɪsˈkɜrɪdʒ]
+使泄气

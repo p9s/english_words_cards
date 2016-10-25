@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* recipient [rɪˈsɪpiənt]
+领受的;容易接受的;感受性强的

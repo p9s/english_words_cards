@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* remarkable [rɪˈmɑrkəbl]
+异常的;非凡的

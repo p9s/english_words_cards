@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* immigration [ˌɪmɪˈɡreɪʃn]
+外来的移民;移居入境

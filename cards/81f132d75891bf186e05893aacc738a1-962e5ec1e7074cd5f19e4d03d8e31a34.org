@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* promote [prəˈmoʊt]
+促进;发扬;提升

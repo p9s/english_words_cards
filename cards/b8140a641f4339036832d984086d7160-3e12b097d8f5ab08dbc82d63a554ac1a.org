@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* distant [ˈdɪstənt]
+在远处的;疏远的

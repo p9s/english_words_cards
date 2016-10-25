@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* risk [rɪsk]
+风险;危险;冒险

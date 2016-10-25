@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Bible [ˈbaɪbəl]
+基督教《圣经》

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* try [traɪ]
+审问;审判

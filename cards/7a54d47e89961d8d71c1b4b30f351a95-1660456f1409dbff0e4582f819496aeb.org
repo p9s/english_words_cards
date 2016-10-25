@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* invite [ɪnˈvaɪt]
+邀请;聘请;招待

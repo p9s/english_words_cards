@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* variety [vəˈraɪɪti]
+多样化;种类;变种

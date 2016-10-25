@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bone [boʊn]
+骨;骨骼

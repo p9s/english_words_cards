@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gift [ɡɪft]
+礼物;赠品;天赋

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mood [mud]
+心情;情绪;语气

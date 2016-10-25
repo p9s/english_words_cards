@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pregnancy [ˈprɛɡnənsi]
+怀孕;丰富

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* document [ˈdɑkjumənt]
+公文;文件;证件

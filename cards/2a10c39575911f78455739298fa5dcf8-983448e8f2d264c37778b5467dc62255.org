@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* salt [sɔlt]
+盐

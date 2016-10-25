@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rebel [ɪˈɛ]
+造反造反者

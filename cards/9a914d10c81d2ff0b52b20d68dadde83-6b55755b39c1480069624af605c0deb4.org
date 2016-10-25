@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dedicate [ˈdɛdɪˌket]
+奉献;献身

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* originally [əˈrɪdʒənəli]
+原来;当初;最初;本来;独创地

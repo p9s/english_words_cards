@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* integrate [ˈɪntɪˌɡret]
+使结合;使并入

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* weak [wik]
+弱的;软弱的

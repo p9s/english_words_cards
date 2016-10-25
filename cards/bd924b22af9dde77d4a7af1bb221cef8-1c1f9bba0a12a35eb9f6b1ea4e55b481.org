@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* theater [ˈθiətər]
+戏院;电影院;剧场;全体观众;

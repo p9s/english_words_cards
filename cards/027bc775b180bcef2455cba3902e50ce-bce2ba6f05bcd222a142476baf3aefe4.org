@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* friendly [ˈfrɛndli]
+友好的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* select [sɪˈlɛkt]
+选择;挑选

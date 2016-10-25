@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* politics [ˈpɑlətɪks]
+政纲;政见;策略

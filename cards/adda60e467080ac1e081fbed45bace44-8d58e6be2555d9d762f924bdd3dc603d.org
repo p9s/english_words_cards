@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dig [dɪɡ]
+掘;挖;采掘

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* useful [ˈjusfəl]
+有用的;有益的

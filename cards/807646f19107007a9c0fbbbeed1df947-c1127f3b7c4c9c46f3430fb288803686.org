@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* loud [laʊd]
+响亮的;吵闹的

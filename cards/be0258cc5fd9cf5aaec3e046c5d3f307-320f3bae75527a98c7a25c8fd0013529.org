@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* steak [stek]
+大块牛肉;牛排

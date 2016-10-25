@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* relate [rɪˈlet]
+叙述;使联系

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* continuous [kənˈtɪnjuəs]
+连续的;持续的;连续不断的;不断的;延长的;不间断的

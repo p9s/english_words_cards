@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* helmet [ˈhɛlmɪt]
+头盔;钢盔

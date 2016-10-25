@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* door [dɔr;dor]
+门

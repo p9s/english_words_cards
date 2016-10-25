@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* point [pɔɪnt]
+观点;论点;要点

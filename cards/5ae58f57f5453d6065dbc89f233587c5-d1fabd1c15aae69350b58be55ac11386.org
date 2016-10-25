@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* demand [dɪˈmænd]
+要求;需要;询问;查问;请求;查问;需要;需要;请求;需求

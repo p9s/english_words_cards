@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* compelling [kəmˈpɛlɪŋ]
+引起兴趣的

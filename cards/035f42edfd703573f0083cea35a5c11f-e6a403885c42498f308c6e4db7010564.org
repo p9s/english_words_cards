@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gene [dʒin]
+基因;遗传因了

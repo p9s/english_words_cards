@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* climb [klaɪm]
+爬;攀登

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* steer [stɪr]
+驾驶

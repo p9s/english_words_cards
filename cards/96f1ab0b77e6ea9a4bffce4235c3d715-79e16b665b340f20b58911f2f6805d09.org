@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* scale [skel]
+天平;磅秤;秤

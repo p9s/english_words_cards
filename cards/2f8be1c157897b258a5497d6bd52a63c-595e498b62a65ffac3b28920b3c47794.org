@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* protective [prəˈtɛktɪv]
+保护的;防护的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* basement [ˈbesmənt]
+地下室;地窖;底层

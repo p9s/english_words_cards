@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* leadership [ˈlidərʃɪp]
+领导

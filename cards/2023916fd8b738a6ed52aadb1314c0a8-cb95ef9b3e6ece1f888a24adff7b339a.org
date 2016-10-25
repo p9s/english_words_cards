@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* announce [əˈnaʊns]
+宣布;宣告;发表

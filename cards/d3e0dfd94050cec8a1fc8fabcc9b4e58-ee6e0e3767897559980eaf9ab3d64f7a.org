@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* general [ˈdʒɛnərəl]
+总的;一般的将军

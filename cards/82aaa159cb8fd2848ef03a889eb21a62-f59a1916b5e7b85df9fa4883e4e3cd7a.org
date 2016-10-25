@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* aggression [əˈɡrɛʃən]
+进攻;侵略

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* psychology [saɪˈkɑlədʒi]
+心理学;心理

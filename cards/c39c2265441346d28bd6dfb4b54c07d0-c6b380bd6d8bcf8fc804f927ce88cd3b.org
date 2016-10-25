@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* emotion [ɪˈmoʊʃn]
+感情;情绪;激动

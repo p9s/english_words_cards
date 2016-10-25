@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* destroy [dɪˈstrɔɪ]
+破坏;消灭;打破

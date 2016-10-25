@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* depend [dɪˈpɛnd]
+依靠

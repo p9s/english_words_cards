@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* nearby [ˌnɪrˈbaɪ]
+附近的附近

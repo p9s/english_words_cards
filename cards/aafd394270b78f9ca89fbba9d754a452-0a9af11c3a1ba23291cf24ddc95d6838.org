@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* legislator [ˈlɛdʒɪˌsletɚ]
+立法者;立法官;立法委员

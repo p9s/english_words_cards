@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* focus [ˈfoʊkəs]
+聚焦;注视焦点

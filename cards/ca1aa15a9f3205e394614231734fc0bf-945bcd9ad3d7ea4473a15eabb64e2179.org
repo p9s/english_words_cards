@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* furthermore [ˌfɜrðərˈmɔr]
+而且;此外

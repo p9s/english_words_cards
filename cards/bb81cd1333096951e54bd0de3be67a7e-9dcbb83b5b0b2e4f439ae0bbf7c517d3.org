@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* crawl [krɔl]
+爬;爬行

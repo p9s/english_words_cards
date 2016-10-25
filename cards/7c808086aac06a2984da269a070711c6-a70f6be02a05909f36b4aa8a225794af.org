@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* distribute [dɪˈstrɪbjut]
+分发;分送;分布

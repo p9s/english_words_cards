@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* undergraduate [ˌʌndərˈgrædʒuət]
+大学肆业生

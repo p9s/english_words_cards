@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gray [ɡre]
+灰色的灰色

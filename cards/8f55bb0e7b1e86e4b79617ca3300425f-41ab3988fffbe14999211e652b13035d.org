@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* immediate [ɪˈmidiɪt]
+立即的;直接的

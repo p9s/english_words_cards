@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* represent [ˌrɛprɪˈzɛnt]
+描绘;代表;象征

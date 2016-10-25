@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* vegetable [ˈvɛdʒtəbəl;ˈɛʒɪə-]
+植物;蔬菜

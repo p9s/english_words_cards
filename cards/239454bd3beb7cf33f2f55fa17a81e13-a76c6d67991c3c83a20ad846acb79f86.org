@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* nasty [ˈnæsti]
+龌龊的;淫猥的

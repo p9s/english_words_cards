@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* absolute [ˈæbsəˌlut]
+绝对的;纯粹的

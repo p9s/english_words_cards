@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* communication [kəˌmjunɪˈkeʃən]
+通讯;传达;交通

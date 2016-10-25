@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* skilled [skɪld]
+有技能的;熟练的

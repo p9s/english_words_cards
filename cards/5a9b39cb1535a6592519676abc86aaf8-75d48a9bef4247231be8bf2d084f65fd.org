@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lesson [ˈlɛsən]
+功课;课;课程

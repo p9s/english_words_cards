@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* receiver [rɪˈsivɚ]
+收受者;收件人

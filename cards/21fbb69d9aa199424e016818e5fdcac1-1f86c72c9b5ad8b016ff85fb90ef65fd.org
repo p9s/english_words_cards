@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* irony [ˈaɪrəni;ˈɪə-]
+反话;出人意料的事情或情况

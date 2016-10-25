@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* academic [ˌækəˈdɛmɪk]
+学院的;学术的

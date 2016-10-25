@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* full-time [ˈfʊlˈtaɪm]
+专职的;全部工作时间的

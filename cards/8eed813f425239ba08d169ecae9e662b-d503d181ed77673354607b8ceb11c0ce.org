@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* facilitate [fəˈsɪlɪˌtet]
+促进;使容易;助长;使便利;有助于使便利;使容易;帮助

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* traditional [trəˈdɪʃənəl]
+传统的;惯例的

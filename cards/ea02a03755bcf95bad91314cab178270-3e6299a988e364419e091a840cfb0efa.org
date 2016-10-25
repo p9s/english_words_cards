@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tolerance [ˈtɑlərəns]
+忍受;容忍;公差

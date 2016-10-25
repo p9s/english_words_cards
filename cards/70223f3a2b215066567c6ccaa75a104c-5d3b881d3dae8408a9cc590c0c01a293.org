@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* safely [ˈseflɪ]
+安全地;平安地;可靠地;平安地;确实地

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rival ['raɪvl]
+竞争者竞争的

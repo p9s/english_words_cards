@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fish [fɪʃ]
+鱼肉;鱼

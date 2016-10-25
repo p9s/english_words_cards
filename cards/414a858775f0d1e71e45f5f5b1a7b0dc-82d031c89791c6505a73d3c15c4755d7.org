@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bank [bæŋk]
+银行;库;岩;堤

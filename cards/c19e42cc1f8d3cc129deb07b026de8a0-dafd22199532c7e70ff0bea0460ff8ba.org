@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* frown [fraʊn]
+皱眉;蹙额

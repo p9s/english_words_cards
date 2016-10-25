@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tourism [ˈtʊrɪzəm]
+旅游业;旅游;观光

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* touch [tʌtʃ]
+触摸;接触

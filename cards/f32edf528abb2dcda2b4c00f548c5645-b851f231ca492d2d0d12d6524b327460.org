@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* interpretation [ɪnˌtɜrprɪˈteɪʃn]
+解释;口译

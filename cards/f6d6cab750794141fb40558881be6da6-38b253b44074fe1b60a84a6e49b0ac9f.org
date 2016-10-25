@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* generation [ˌdʒɛnəˈreʃən]
+一代;一代人;产生

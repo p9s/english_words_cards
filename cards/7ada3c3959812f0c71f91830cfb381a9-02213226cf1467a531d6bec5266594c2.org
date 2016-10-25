@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* juice [dʒus]
+汁;液

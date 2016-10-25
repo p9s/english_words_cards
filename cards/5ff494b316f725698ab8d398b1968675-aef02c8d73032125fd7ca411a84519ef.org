@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* color [ˈkʌlɚ]
+颜色;彩色;颜料

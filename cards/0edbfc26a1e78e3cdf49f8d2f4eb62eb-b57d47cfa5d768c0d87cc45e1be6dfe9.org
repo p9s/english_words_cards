@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* determine [dɪˈtɜrmɪn]
+决定;查明;决心

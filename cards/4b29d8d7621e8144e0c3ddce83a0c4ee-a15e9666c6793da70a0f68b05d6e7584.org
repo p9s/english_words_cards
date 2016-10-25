@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* list [lɪst]
+表;名单

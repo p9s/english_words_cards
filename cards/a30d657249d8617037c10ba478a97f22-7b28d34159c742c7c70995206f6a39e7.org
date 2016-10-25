@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hunger [ˈhʌŋɡɚ]
+饿;饥饿;渴望

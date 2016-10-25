@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* easily [ˈizəli]
+容易地;舒适的

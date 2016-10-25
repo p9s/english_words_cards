@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* desire [ɪˈɪ]
+相望;要求愿望

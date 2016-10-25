@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* foot [fʊt]
+足;脚;英尺;最下部;底部

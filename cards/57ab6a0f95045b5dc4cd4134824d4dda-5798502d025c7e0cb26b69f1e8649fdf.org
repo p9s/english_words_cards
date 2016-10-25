@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* supposedly [səˈpoʊzɪdli]
+想象上;恐怕

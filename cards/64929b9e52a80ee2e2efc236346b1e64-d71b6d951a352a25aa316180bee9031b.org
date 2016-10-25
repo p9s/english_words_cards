@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* propose [prəˈpoʊz]
+提议求婚

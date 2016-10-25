@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* advice [əd'vaɪs]
+劝告;忠告;意见

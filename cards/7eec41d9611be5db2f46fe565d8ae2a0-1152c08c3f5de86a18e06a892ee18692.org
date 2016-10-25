@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hour [aʊr]
+小时;时间;时刻

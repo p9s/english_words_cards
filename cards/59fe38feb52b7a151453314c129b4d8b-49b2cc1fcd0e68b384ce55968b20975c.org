@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* nonprofit [nɑnˈprɑfɪt]
+非赢利的

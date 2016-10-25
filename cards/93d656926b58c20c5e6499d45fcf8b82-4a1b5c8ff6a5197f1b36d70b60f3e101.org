@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* weird [wɪrd]
+古怪的;荒唐的

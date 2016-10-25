@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* oxygen [ˈɑksɪdʒən]
+氧;氧气

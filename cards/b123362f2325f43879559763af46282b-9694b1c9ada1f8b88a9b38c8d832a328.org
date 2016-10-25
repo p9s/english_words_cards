@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* frustrate [ˈfrʌstreɪt]
+挫败;使无效

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* local [ˈloʊkl]
+地方的;局部的

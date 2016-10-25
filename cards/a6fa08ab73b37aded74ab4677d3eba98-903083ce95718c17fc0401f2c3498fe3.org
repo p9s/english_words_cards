@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* effectiveness [əˈfɛktɪvnɪs]
+成效;有效;效力;生效

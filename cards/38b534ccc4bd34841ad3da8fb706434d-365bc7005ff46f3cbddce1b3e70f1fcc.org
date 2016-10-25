@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* exposure [ɪkˈspoʊʒə]
+暴露;揭露;曝光

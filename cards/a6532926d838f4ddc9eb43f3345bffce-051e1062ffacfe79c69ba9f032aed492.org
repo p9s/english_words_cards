@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sort [sɔrt]
+种类;类别整理

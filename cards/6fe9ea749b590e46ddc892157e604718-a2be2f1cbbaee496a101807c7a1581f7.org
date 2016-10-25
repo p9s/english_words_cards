@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bold [boʊld]
+大胆的;冒失的

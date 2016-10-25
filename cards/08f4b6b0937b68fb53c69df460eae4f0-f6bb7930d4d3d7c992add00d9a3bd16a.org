@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* attribute [əˈtrɪbjut]
+把…归因于属性

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* jazz [dʒæz]
+爵士音乐;爵士舞曲

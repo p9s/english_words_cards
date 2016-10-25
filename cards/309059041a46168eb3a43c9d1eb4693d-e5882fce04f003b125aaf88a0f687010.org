@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* silver [ˈsɪlvɚ]
+银;银子;银器

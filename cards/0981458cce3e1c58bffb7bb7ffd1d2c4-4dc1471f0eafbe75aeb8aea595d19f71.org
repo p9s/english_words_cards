@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* overlook [ˌoʊvərˈlʊk]
+眺望;看漏;宽容

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* warehouse [ˈwerhaʊs]
+仓库;货栈

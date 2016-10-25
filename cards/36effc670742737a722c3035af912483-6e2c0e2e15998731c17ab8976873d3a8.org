@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* interest [ˈɪntrɪst;-əɪ;-ˌɛ]
+使发生兴趣兴趣

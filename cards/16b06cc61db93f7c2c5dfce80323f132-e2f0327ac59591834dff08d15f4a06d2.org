@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* inquiry [ɪnˈkwaɪri;ˈɪˌɪ;ˈɪə;ˈɪŋ-]
+询问;打听;调查

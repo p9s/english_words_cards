@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* vary [ˈveri]
+改变;使多样化

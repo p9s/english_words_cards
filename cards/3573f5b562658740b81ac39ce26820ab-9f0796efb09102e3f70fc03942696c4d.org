@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* powerful [ˈpaʊərfl]
+强有力的;有权威的

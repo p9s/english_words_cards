@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* scramble [ˈskræmbəl]
+爬行;攀登

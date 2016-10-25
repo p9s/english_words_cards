@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gun [ɡʌn]
+枪;炮;手枪

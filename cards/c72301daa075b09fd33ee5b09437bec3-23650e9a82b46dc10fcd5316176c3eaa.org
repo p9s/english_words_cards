@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cooperation [koˌɑpəˈreʃən]
+合作;协作

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* calculation [ˌkælkjəˈleʃən]
+计算;计算结果

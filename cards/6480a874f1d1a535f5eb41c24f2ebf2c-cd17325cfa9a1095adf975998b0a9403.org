@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* addition [əˈdɪʃən]
+加;加法;附加物

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stare [ster]
+盯;凝视

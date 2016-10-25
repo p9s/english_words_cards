@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* neighboring ['neɪbərɪŋ]
+邻近的;相邻的;接壤的

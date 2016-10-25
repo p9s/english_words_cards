@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* engineering [ˌendʒɪˈnɪrɪŋ]
+工程;工程学

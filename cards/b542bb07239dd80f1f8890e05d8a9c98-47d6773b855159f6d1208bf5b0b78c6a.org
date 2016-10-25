@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* energy [ˈenərdʒi]
+活力;精力;能

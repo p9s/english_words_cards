@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* disturb [dɪˈstɜrb]
+打扰;扰乱;弄乱

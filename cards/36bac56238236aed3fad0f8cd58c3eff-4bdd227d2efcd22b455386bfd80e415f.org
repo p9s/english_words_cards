@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rank [ræŋk]
+排;横行;社会阶层

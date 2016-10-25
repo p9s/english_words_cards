@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* promise [ˈprɑmɪs]
+诺言答应

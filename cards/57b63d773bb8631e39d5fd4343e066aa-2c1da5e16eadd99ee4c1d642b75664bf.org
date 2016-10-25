@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* concern [kənˈsɜrn]
+关心;挂念;关系

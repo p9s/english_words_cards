@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* explicit [ɪkˈsplɪsɪt]
+明晰的;直率的

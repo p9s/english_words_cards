@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gross [groʊs]
+粗俗的

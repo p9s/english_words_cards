@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* verbal [ˈvɜrbl]
+词语的;言语的;动词的;逐字的;

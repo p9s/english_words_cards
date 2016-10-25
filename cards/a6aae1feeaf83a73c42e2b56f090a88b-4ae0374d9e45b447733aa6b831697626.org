@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* circuit [ˈsɜrkɪt]
+电路;环行;巡行

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* integration [ˌɪntɪˈɡreʃən]
+综合;完成;集成

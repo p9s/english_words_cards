@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* quantity [ˈkwɑntəti]
+数量

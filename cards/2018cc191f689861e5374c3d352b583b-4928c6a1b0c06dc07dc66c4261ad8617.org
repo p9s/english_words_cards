@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* soak [soʊk]
+浸;泡浸泡

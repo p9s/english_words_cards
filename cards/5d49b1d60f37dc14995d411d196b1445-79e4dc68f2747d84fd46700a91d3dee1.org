@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* planet [ˈplænɪt]
+行星

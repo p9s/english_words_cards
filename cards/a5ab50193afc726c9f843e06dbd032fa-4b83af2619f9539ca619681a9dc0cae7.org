@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sidewalk [ˈsaɪdˌwɔk]
+人行道

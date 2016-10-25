@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* next [nɛkst]
+紧接的;贴近的

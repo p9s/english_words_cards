@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* champion ['tʃæmpɪən]
+斗士;提倡者

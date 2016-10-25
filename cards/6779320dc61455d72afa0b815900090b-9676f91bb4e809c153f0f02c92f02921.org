@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* athletic [æθˈlɛtɪk]
+运动的

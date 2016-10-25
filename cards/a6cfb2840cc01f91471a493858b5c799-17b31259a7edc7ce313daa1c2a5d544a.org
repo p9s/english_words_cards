@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* jungle [ˈdʒʌŋɡəl]
+丛林;密林

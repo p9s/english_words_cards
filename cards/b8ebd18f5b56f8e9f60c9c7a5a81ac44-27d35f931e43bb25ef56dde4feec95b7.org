@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* agreement [əˈɡrimənt]
+协定;协议;同意

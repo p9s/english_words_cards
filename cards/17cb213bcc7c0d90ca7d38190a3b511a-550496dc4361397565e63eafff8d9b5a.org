@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* toward [tɔrd;;əˈɔ]
+向;对于;为了

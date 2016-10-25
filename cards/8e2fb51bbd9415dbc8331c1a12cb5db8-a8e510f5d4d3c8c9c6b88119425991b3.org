@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* exploration [ˌɛkspləˈreʃən]
+考察;勘探;探查

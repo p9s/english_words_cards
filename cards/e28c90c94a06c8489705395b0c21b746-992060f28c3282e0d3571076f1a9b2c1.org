@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* grant [grænt]
+授予物;拨款

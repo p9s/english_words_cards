@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* correctly [kəˈrɛktlɪ]
+正确地;恰当地;正确地;恰当地

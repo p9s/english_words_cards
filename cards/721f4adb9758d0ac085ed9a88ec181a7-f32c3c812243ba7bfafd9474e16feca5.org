@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mask [mæsk]
+面具;伪装掩饰

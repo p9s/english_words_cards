@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sequence [ˈsikwəns;-ˌɛ]
+连续;继续;次序

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* thirty [ˈθɜrti]
+三十

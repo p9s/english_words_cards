@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* troubled [ˈtrʌbld]
+不安的;困惑的;麻烦;使烦恼

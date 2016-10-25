@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* extend [ɪkˈstɛnd]
+延长;扩大;致

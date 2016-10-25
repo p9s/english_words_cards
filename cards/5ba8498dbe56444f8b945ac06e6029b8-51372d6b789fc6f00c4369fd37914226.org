@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pure [pjʊr]
+纯粹的;纯洁的

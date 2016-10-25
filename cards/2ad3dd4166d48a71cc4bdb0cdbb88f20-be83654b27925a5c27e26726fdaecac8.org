@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* insert [ɪnˈsɜrt]
+插入;嵌入;登载

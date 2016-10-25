@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* plate [plet]
+盘子;碟子

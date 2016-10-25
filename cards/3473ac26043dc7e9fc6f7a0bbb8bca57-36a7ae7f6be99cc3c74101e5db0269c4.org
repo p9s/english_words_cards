@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* barely [ˈberli]
+仅仅;勉强

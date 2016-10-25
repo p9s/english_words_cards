@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gym [dʒɪm]
+体育馆;健身房

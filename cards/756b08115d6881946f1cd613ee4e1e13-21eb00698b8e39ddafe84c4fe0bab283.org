@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pleasure [ˈplɛʒɚ]
+愉快;快乐;乐事

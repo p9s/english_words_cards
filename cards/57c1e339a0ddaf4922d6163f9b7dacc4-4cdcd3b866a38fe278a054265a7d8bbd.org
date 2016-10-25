@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* concentrate [ˈkɑnsntreɪt]
+浓缩;提浓

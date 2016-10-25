@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* forehead [ˈfɔrhed]
+额头;前部

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hike [haɪk]
+作长途徒步旅行

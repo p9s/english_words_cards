@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* defend [dɪˈfɛnd]
+保卫;防守

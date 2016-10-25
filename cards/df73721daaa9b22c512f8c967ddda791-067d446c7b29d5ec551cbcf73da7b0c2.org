@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* value [ˈvælju]
+尊重;重视;评价

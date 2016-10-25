@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* colleague [ˈkɑlig]
+同事;同僚

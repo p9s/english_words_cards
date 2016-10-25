@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sword [sɔrd]
+剑;刀

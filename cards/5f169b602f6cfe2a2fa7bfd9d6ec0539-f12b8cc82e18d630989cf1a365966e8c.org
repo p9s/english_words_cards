@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* nurse [nɜrs]
+护士

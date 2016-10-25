@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* permit [pərˈmɪt]
+允许执照

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* committee [kəˈmɪti]
+委员会;全体委员

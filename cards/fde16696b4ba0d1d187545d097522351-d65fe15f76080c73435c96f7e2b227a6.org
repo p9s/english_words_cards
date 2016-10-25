@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* attack [əˈtæk]
+攻击;进攻

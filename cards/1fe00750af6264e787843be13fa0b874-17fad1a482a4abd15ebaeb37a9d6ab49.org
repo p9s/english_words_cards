@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* successfully [səkˈsɛsfəlɪ]
+成功地;有成绩地;出色地;结果良好地

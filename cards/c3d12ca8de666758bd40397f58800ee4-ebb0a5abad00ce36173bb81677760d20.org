@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rack [ræk]
+搁物架;行李架

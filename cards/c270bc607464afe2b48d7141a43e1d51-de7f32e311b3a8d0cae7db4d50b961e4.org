@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* victim [ˈvɪktɪm]
+牺牲者;受害者

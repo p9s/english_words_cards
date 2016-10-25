@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* statute [ˈstætʃut]
+法规;法令

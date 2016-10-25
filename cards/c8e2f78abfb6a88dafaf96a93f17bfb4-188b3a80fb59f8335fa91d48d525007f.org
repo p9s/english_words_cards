@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ballot [ˈbælət]
+投票;投票用纸;抽签

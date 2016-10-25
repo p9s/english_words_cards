@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* accent [ˈækˌsɛnt]
+口音;腔调;重音

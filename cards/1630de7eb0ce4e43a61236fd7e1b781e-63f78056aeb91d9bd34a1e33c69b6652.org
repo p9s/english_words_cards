@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* liquid [ˈlɪkwɪd]
+液体液体的

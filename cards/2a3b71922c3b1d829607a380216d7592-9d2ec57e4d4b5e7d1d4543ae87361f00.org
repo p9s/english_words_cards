@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* corporation [ˌkɔrpəˈreɪʃn]
+公司;企业;社团

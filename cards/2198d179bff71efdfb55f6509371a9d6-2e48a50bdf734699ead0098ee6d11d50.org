@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* exception [ɪkˈsɛpʃən]
+例外;除外

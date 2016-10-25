@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cooperate [koˈɑpəˌret]
+合作;协作;配合

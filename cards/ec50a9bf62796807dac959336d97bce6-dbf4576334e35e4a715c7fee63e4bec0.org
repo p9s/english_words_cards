@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* talented [ˈtæləntəd]
+有才能的;天才的;能干的;有天份的;有才干的

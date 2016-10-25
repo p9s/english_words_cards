@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* conscience [ˈkɑnʃəns]
+良心;道德心

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* spell [spɛl]
+拼写拼字

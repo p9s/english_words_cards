@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bury [ˈbɛri]
+埋葬;葬;埋藏

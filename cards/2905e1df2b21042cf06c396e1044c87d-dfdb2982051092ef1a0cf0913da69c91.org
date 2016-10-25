@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* anxiety [æŋˈzaɪɪti]
+焦虑;忧虑;渴望

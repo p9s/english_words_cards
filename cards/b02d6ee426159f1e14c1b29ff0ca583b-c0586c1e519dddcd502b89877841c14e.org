@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* legitimate [ləˈdʒɪtəmɪt]
+合法的;正当的

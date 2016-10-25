@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* speed [spid]
+速度

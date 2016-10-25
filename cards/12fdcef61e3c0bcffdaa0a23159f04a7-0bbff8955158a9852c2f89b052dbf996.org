@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wealthy [ˈwɛlθi]
+富的;富裕的

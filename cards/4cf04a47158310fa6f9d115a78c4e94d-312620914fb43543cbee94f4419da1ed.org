@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sympathy [ˈsɪmpəθi]
+同情;同感;慰问

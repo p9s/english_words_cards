@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* outsider [aʊtˈsaɪdɚ]
+门外汉;局外人

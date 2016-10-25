@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* threat [θrɛt]
+威胁;恐吓;凶兆

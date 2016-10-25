@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* commonly [ˈkɑmənli]
+普通地;一般地

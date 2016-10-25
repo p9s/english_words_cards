@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* remember [rɪˈmɛmbɚ]
+记得;想起;记住

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reduce [rɪˈdus]
+缩减;减少

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* midst [mɪdst;ɪ]
+中部;中间;当中

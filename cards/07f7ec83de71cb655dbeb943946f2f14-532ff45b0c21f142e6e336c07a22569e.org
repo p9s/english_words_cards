@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* concrete [ˈkɑŋkrit]
+混凝土;具体物

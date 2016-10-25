@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stability [stəˈbɪlɪti]
+稳定;稳定性;巩固

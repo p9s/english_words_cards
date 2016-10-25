@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* confrontation [ˌkɑnfrənˈteɪʃn]
+面对;对峙;对抗

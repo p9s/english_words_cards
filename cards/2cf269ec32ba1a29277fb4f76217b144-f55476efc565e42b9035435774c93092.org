@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* debris [dəˈbri]
+废墟;残骸

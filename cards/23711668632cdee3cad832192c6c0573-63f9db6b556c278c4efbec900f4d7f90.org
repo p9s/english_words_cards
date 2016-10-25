@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* prepare [prɪˈper]
+准备;预备

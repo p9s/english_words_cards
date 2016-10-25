@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tale [tel]
+传说;故事

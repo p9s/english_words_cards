@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* replacement [rɪˈplesmənt]
+归还;取代;置换

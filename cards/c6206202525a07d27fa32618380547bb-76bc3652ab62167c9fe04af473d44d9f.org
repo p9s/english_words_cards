@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* towel [ˈtaʊəl]
+毛巾;手巾

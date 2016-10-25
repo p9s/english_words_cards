@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* inspiration [ˌɪnspəˈreʃən]
+鼓舞;激动人心的人

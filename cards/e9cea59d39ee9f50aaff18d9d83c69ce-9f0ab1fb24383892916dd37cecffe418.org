@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* imply [ɪmˈplaɪ]
+暗示;意指

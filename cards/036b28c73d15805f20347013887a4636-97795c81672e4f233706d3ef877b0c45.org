@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wife [waɪf]
+妻子

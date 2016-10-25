@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* encounter [ɛnˈkaʊntɚ]
+遭遇;遇到遭遇

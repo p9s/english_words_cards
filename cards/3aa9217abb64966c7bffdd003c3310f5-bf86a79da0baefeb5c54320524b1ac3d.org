@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sentiment [ˈsɛntəmənt]
+感情;情操;情绪

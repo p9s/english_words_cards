@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* storm [stɔrm]
+风暴;暴雨

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* aggressive [əˈɡrɛsɪv]
+侵略的;好斗的

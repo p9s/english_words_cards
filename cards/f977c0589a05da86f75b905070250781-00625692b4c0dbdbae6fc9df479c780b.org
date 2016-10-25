@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* unlike [ʌnˈlaɪk]
+不同的不象…

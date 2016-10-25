@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* council [ˈkaʊnsəl]
+理事会;委员会

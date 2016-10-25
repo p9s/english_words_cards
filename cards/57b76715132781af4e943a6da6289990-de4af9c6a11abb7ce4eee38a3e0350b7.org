@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* particle [ˈpɑrtɪkl]
+粒子;微粒

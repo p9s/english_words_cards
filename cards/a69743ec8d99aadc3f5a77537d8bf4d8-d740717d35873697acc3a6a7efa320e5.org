@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* disappear [ˌdɪsəˈpɪr]
+消失;消散

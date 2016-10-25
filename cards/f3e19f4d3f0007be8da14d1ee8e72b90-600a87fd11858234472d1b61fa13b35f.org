@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* luck [lʌk]
+运气

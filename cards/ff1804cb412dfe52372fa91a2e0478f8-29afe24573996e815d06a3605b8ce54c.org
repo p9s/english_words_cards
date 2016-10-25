@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* imagination [ɪˌmædʒəˈneʃən]
+想象;想象力;空想

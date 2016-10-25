@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* teaspoon [ˈtiˌspun]
+茶匙

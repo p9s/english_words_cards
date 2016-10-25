@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* resume [rɪ'zjum]
+个人简历

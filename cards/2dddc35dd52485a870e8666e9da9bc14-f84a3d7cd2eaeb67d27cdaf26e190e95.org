@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* conference [ˈkɑnfərəns]
+会议;讨论会

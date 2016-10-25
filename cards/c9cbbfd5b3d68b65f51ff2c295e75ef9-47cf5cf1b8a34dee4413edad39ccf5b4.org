@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* chairman [ˈtʃermən]
+主席;议长;会长

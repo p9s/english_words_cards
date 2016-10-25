@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* speaker [ˈspikɚ]
+场声器

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* expertise [ˌekspɜrˈtiz]
+专家队伍;专技;专业知识;专门;知识;专长

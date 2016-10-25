@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* special [ˈspɛʃəl]
+特别的;特殊的

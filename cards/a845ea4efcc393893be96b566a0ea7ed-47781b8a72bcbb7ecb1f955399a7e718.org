@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* welcome [ˈwɛlkəm]
+欢迎

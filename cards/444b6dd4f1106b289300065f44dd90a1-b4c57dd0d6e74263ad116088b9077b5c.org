@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* grocery [ˈgroʊsəri]
+食品杂货店

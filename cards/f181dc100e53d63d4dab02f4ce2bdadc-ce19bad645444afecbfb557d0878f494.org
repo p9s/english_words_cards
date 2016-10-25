@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* finance [fəˈnæns;ɪ-;ˈɪˌæ]
+提供资金

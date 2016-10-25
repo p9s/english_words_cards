@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* impossible [ɪmˈpɑsəbl]
+不可能的;办不到的

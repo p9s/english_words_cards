@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* resistance [rɪˈzɪstəns]
+抵抗;抵制;抵抗力

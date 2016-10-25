@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ocean [ˈoʊʃn]
+海洋;洋

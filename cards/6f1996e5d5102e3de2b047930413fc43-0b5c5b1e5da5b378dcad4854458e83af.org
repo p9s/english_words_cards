@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* boil [bɔɪl]
+沸腾;汽化煮沸

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hostile [ˈhɑstl]
+敌方的;不友善的

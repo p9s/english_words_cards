@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cigarette [ˈsɪgəret]
+香烟;纸烟

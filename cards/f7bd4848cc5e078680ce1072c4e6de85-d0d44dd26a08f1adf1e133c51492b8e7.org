@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mechanism [ˈmɛkəˌnɪzəm]
+机械装置;机制

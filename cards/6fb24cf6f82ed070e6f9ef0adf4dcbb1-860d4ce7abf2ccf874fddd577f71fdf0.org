@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* soon [sun]
+不久;很快

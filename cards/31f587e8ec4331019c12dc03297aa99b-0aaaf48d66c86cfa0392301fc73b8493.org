@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* midnight [ˈmɪdˌnaɪt]
+午夜

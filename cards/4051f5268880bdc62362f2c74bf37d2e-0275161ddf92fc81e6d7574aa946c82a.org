@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* puzzle [ˈpʌzəl]
+使迷惑;使为难

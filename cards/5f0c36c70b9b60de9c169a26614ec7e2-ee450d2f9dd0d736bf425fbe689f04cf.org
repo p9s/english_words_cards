@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cluster [ˈklʌstɚ]
+一串使成群

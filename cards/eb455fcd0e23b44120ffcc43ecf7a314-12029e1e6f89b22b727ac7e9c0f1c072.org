@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* symbolic [sɪmˈbɑlɪk]
+象征

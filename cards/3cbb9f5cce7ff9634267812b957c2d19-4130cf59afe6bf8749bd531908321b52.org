@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bell [bɛl]
+铃;钟

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* congressional [kənˈɡreʃənl]
+会议的;议会的;国会的

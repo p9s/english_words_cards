@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* array [ə'reɪ]
+装扮队列;排列

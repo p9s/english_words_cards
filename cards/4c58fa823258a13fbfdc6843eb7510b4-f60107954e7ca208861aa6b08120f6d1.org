@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* absence [ˈæbsəns]
+缺席;不在场;缺乏

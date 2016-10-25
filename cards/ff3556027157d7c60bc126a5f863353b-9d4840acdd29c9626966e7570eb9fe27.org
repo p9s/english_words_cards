@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* German [ˈdʒɜrmən]
+德国的德国人

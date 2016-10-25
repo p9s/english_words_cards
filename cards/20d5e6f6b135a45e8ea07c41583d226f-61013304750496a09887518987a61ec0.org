@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* commodity [kəˈmɑdəti]
+日用品;商品;物品

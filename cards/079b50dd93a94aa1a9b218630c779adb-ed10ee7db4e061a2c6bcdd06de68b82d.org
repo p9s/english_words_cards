@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* apparently [əˈpærəntli]
+明显地;外表地;显然;表面上地;显然;似乎

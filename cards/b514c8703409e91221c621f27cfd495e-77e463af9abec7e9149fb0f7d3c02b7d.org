@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* switch [swɪtʃ]
+开关;转换转换

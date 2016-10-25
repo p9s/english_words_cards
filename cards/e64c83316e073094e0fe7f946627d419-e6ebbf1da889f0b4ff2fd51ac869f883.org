@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* container [kənˈtenɚ]
+容器;集装箱

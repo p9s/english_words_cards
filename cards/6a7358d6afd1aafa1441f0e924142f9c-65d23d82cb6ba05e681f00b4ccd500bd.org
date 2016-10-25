@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bolt [boʊlt]
+螺栓;插销闩门

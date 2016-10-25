@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* whisper [ˈhwɪspɚ;ˈwɪs-]
+低声地讲;私下说

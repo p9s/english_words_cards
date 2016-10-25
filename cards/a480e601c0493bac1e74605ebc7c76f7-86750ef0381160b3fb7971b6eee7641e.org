@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pillow [ˈpɪloʊ]
+枕头

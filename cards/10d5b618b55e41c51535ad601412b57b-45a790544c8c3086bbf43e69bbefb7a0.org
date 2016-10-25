@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* beginning [bɪˈɡɪnɪŋ]
+开始;开端;起源

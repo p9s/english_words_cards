@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* develop [dɪˈvɛləp]
+使显现

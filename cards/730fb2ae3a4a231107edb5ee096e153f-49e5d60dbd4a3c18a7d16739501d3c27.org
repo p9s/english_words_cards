@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* manual [ˈmænjuəl]
+体力的手册

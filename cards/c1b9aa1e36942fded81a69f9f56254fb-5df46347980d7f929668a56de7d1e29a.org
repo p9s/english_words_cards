@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* drop [drɑp]
+使落下;降低

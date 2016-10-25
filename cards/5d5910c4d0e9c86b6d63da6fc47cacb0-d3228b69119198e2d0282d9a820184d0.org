@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* assistant [əˈsɪstənt]
+助手;助理;助教

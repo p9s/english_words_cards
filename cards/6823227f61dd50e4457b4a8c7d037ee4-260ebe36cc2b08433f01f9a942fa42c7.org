@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* officially [əˈfɪʃəlɪ]
+作为公务员;职务上;官方地

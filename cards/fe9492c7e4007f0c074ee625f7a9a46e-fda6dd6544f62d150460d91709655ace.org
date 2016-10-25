@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* war [wɔr]
+战争;冲突;斗争

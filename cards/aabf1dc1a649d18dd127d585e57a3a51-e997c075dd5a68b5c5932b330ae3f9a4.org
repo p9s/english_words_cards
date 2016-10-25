@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* throat [θroʊt]
+喉咙

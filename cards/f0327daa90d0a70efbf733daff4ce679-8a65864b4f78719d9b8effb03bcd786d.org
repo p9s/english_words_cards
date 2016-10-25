@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* just [dʒʌst]
+正好;恰好

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* press [prɛs]
+印刷机;印刷所

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* band [bænd]
+乐队;带;波段

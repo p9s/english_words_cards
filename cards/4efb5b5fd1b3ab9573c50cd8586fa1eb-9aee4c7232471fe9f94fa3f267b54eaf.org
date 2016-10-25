@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* offer [ˈɔfə]
+提供;提出提供

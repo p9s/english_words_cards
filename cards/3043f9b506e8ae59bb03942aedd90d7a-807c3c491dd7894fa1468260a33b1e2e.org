@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* colorful ['kʌləfəl]
+颜色丰富的;色彩丰富的

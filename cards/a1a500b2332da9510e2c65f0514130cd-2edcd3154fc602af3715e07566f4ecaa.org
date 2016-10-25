@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* total [ˈtoʊtl]
+总的合计

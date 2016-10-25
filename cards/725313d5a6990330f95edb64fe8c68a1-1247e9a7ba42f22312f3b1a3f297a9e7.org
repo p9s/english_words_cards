@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* girlfriend [ˈgɜrlfrend]
+女朋友

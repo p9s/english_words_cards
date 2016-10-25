@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reputation [ˌrɛpjəˈteʃən]
+名誉;名声;好名声

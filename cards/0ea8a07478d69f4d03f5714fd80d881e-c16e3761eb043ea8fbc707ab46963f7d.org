@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* history [ˈhɪstəri]
+历史;历史学

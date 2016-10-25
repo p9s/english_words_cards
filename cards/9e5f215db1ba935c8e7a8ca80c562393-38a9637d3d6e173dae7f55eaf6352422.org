@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* automobile [ˌɔtəmoˈbil;-ˈˌ]
+汽车;机动车

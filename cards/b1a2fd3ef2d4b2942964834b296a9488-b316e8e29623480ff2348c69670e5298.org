@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* manner [ˈmænɚ]
+方式;态度;礼貌

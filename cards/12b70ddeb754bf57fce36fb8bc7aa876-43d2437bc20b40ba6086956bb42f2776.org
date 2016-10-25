@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* battery [ˈbætəri]
+炮兵连;兵器群

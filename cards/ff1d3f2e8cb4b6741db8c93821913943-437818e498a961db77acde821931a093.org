@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stance [stæns]
+站姿;立场;态度;姿势

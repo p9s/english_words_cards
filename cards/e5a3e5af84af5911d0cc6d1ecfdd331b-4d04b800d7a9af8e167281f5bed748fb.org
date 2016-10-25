@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* loose [lus]
+松的;宽松的

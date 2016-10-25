@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* carpet [ˈkɑrpɪt]
+毛毯;地毯

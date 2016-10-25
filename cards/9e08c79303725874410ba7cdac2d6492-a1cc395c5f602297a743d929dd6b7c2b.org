@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* limitation [ˌlɪmɪˈteʃən]
+限制;限度;局限

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* autonomy [ɔˈtɑnəmi]
+自治;自主

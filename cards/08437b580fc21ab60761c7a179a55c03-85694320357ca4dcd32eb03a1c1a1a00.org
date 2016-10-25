@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* recession [rɪˈsɛʃən]
+衰退时期;萧条时期

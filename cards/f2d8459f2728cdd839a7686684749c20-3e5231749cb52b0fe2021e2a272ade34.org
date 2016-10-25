@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* future [ˈfjutʃɚ]
+将来;未来

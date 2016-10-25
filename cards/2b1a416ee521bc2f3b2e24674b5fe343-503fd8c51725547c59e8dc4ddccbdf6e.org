@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* somewhat [ˈsʌmwʌt]
+一点儿有点

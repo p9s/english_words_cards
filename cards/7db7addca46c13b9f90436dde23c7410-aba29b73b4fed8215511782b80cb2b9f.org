@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* practically [ˈpræktɪkli]
+实际上;几乎

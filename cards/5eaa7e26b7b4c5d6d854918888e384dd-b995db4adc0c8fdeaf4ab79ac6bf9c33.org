@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* repeatedly [rɪ'pitɪdlɪ]
+重复地;一再

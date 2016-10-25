@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* breast [brɛst]
+胸膛;胸部

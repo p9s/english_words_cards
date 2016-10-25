@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* acquire [əˈkwaɪr]
+取得;获得;学到

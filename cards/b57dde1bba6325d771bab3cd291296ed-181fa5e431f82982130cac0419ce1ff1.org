@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* perfect [ˈpɜrfɪkt]
+极好的;完美的

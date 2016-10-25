@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hungry [ˈhʌŋɡri]
+饥饿的;渴望的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reflect [rɪˈflɛkt]
+反射;反映;思考

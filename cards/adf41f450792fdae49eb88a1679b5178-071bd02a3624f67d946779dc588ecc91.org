@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hospital [ˈhɑspɪtl]
+医院

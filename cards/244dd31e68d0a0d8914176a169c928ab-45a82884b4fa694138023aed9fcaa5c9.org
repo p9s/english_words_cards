@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* relax [rɪˈlæks]
+松驰;放松

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* physically [ˈfɪzɪkəlɪ]
+物质上;身体上;按照自然规律;物理上;实际上

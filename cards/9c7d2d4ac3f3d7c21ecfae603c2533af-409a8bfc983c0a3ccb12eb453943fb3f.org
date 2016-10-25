@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* freely [ˈfrili]
+自由地;直率地

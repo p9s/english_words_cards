@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* technological [ˌtɛknəˈlɑdʒɪkəl]
+技术的;工艺的

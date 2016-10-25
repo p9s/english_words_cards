@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* extraordinary [ɪkˈstrɔrdəneri]
+非同寻常的;特别的

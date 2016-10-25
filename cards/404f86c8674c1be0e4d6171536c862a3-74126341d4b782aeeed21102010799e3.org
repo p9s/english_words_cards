@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* demonstrate [ˈdɛmənˌstret]
+说明;论证;表露

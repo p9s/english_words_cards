@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* run [rʌn]
+跑

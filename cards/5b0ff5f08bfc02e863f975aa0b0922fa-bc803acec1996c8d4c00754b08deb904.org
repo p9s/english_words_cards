@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* frankly [ˈfræŋkli]
+坦率地说;坦率地;直率地;慷慨地

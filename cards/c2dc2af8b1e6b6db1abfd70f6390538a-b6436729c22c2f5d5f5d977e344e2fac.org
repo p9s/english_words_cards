@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* everybody [ˈevribɑdi]
+每人;人人

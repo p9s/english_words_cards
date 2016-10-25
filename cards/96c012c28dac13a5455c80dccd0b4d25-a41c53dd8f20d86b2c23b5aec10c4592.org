@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* classical [ˈklæsɪkəl]
+古典的;经典的

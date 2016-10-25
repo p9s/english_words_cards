@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* narrative [ˈnærətɪv]
+叙述;故事

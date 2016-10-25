@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* afford [əˈfɔrd]
+担负得起…;提供

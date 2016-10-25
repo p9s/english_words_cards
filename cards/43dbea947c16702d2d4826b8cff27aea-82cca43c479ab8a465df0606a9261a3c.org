@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stomach [ˈstʌmək]
+胃;肚子;食欲

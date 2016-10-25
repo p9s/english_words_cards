@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* collection [kəˈlɛkʃən]
+搜集;收集;收藏品

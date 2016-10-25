@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* smell [smɛl]
+嗅觉;气味嗅

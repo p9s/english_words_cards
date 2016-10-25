@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* change [tʃendʒ]
+零钱;找头兑换

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* nightmare [ˈnaɪtmer]
+恶梦;经常的恐惧

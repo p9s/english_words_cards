@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* slavery [ˈslevəri;ˈ]
+奴隶制度;苦役

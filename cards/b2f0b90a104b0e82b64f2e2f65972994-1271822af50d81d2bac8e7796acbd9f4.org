@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* found [faʊnd]
+创立;创办;建立

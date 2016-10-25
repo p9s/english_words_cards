@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* illness [ˈɪlnɪs]
+病;疾病

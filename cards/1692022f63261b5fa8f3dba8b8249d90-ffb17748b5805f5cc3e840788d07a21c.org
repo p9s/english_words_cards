@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* historical [hɪˈstɔrɪkl]
+有关历史的;历史的;根据历史上的发展叙述的

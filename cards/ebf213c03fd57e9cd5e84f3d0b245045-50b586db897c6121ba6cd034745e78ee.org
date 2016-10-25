@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* flexible [ˈflɛksəbəl]
+易弯曲的;灵活的

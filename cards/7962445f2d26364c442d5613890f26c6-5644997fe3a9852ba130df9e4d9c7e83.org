@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fashion [ˈfæʃən]
+样子;方式;风尚

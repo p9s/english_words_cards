@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* spokesman [ˈspoʊksmən]
+发言人;代言人

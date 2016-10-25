@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hang [hæŋ]
+挂;悬;吊死

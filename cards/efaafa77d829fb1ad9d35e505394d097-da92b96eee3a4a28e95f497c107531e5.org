@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* finally [ˈfaɪnəli]
+最后;不可更改的

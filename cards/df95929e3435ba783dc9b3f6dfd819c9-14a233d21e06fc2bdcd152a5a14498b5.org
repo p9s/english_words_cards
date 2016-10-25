@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* district [ˈdɪstrɪkt]
+区;行政区;地区

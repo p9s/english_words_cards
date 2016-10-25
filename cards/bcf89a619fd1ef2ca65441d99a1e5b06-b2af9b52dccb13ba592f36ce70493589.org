@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* storage [ˈstɔrɪdʒ;ˈ-]
+贮藏;贮藏量

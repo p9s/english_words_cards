@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lecture [ˈlɛktʃɚ]
+演讲;讲课

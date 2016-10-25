@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* product [ˈprɑdʌkt]
+产品;产物;积

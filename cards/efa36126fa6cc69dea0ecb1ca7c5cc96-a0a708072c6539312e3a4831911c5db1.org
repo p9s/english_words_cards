@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* take [tek]
+拿;取;就座

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* partial [ˈpɑrʃl]
+部分的;不公平的

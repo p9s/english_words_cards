@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* experiment [ɪkˈspɛrəmənt]
+实验;试验

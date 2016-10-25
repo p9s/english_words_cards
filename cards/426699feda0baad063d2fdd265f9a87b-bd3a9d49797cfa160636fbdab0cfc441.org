@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* foreigner [ˈfɔrənə]
+外国人

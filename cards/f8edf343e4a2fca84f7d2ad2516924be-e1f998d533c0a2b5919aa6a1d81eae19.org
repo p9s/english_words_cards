@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* weekly [ˈwikli]
+每周的每周

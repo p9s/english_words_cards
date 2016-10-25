@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* civic [ˈsɪvɪk]
+城市的;公民的

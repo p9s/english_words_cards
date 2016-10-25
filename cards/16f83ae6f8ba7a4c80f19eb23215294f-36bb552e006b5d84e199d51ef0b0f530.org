@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* learning [ˈlɜrnɪŋ]
+学习;学问;知识

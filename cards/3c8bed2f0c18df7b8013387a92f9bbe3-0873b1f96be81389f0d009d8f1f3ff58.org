@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* welfare [ˈwelfer]
+幸福;福利

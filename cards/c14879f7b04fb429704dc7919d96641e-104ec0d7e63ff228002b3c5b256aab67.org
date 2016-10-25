@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* media [ˈmidiə]
+媒体

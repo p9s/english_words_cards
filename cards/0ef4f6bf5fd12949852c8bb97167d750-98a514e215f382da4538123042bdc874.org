@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* scandal [ˈskændl]
+丑事;丑闻;耻辱

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* slap [slæp]
+掴;拍巴掌;拍

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* debate [ɪˈ]
+;争论;辩论

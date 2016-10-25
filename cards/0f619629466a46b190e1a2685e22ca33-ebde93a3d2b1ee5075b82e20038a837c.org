@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tour [tʊr]
+旅行;游历

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wage [wedʒ]
+工资;报酬

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* voting [ˈvoʊtɪŋ]
+投票;有投票权的

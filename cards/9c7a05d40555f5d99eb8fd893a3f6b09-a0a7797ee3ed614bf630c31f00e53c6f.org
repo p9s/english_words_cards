@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* suggestion [səɡˈdʒɛstʃən;əˈʒɛ-]
+建议;意见;暗示

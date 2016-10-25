@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mess [mɛs]
+混乱;混杂;肮脏

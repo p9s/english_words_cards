@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* along [əˈlɔŋ]
+沿着向前

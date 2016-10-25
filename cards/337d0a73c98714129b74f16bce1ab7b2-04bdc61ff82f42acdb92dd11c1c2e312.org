@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mere [mɪr]
+仅仅的;纯粹的

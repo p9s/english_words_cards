@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* feed [fid]
+喂吃饲料

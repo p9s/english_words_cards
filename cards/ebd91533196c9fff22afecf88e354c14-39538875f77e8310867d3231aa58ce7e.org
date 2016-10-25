@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shark [ʃɑrk]
+鲨鱼;贪婪狡猾的人

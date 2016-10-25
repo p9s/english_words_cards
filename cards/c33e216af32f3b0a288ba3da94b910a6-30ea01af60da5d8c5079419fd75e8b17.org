@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* vanish [ˈvænɪʃ]
+突然不见;消失

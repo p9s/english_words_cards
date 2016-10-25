@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* belt [bɛlt]
+带;腰带;皮带;区

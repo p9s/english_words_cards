@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gas [ɡæs]
+煤气;气体;汽油

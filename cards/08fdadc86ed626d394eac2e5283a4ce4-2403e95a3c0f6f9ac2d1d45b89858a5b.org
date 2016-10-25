@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* visual [ˈvɪʒuəl]
+看的;看得见的

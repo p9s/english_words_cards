@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cheese [tʃiz]
+乳酪;干酪

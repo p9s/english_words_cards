@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* invasion [ɪnˈveʒən]
+入侵;侵略;侵犯

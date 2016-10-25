@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* jurisdiction [ˌdʒʊrɪsˈdɪkʃn]
+司法权;审判权;管辖权

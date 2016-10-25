@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cousin ['kʌzn]
+堂

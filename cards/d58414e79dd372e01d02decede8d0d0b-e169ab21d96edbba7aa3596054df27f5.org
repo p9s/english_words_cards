@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* offensive [əˈfɛnsɪv]
+冒犯的;进攻的

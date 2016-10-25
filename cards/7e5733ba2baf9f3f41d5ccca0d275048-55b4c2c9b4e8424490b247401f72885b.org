@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* transaction [trænˈsækʃən;-ˈæ-]
+处理;交易;和解

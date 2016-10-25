@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* insist [ɪnˈsɪst]
+坚持;坚持要求

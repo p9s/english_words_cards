@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* present [ˈprɛznt]
+现在的目前

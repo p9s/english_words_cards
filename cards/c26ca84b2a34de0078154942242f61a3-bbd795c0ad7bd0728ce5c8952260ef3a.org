@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* justify [ˈdʒʌstəˌfaɪ]
+证明…是正当的

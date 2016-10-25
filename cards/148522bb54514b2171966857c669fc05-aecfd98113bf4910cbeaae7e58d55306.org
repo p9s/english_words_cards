@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* necessary [ˈnesəseri]
+必需的;必要的

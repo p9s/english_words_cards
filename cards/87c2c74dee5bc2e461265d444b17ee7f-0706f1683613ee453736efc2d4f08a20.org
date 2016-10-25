@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hurt [hɜrt]
+使受伤;使痛心

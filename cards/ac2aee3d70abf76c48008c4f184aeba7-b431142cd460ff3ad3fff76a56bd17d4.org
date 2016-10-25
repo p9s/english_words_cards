@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* support [səˈpɔrt]
+支撑;支持;维持

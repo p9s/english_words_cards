@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pour [pɔr;]
+灌;倒倾泻

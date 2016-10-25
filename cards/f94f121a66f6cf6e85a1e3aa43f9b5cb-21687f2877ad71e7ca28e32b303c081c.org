@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* racial [ˈreʃəl]
+种族的;人种的

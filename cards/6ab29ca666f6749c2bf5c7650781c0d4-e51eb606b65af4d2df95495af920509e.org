@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reason [ˈrizən]
+理由;理性推理

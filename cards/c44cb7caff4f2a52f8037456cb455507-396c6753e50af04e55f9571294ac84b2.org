@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* entity [ˈɛntɪti]
+实体;统一体

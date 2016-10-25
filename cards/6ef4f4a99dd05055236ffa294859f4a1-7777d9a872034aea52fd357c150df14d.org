@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mansion [ˈmænʃən]
+大厦;大楼;宅第

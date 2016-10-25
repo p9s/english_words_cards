@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* costly [ˈkɔstli]
+昂贵的;价值高的

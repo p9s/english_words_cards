@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* chin [tʃɪn]
+颏;下巴

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* adopt [əˈdɑpt]
+收养;采用;采取

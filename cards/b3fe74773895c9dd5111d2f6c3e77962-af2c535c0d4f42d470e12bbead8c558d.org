@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* guide [ɡaɪd]
+向导;导游者

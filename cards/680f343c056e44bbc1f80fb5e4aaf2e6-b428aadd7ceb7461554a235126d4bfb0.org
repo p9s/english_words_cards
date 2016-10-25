@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* syndrome [ˈsɪndroʊm]
+综合症

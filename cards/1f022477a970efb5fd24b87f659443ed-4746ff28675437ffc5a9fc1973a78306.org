@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* accurately ['ækjərətlɪ]
+准确地;准确地;精密地

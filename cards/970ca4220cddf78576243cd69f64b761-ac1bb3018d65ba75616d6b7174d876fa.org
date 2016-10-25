@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* also [ˈɔlsoʊ]
+亦;也;而且;还

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gaze [ɡez]
+凝视;盯;注视

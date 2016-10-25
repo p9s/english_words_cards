@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* vital ['vaɪtl]
+生命的;生机的

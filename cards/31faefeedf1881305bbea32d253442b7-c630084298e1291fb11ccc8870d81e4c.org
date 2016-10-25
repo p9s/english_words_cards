@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rear [rɪr]
+后部;后面;背面

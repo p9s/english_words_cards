@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* across [əˈkrɔs]
+横过;穿过

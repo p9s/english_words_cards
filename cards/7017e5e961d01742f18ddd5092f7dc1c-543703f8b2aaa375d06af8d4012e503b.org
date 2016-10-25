@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* corner [ˈkɔrnə]
+角;拐角

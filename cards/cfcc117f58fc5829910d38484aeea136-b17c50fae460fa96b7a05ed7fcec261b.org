@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reservation [ˌrezərˈveɪʃn]
+保留;预定;预订

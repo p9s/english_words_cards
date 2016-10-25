@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* impression [ɪmˈprɛʃən]
+印;印象;印记

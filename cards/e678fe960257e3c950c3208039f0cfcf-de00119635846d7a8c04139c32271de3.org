@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* evolve [iˈvɑlv]
+使进化;使发展

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* prescription [prɪˈskrɪpʃən]
+药方;处方的药

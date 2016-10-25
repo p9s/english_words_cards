@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gentle [ˈdʒɛntl]
+柔和的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Asian [ˈeʒən; ˈʃə]
+亚洲的亚洲人

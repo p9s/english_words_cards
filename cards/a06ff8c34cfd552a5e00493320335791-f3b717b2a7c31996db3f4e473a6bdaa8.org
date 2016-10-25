@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* agree [əˈɡri]
+同意;赞成

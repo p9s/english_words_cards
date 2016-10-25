@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* interaction [ˌɪntɚˈækʃən]
+相互作用;干扰

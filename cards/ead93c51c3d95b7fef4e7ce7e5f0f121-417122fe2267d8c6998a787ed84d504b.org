@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fully [ˈfʊli]
+十分地;完全地

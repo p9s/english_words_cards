@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* deer [dɪr]
+鹿

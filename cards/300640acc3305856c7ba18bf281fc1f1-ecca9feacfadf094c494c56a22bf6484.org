@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* role [roʊl]
+角色;作用;任务

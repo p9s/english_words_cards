@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* clay [kle]
+粘土;泥土

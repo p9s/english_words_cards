@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* chill [tʃɪl]
+使变冷寒冷

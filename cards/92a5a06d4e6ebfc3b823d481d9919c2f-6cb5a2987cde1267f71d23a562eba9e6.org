@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* removal [rɪˈmuvəl]
+移动;迁移;除掉

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* humor [ˈhjumɚ]
+幽默;诙谐;心情

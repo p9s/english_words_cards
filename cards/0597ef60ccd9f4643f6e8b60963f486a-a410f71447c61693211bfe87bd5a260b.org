@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hug [hʌɡ]
+搂紧紧拥抱

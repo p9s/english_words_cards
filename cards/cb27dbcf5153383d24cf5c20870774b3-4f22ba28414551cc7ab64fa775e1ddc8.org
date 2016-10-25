@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* towards [tɔrdz]
+向;朝;对于;朝着;走向;近…;为了;有助于

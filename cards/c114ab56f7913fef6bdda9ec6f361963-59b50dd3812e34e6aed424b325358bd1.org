@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bathroom [ˈbæθrum]
+浴室;盥洗室

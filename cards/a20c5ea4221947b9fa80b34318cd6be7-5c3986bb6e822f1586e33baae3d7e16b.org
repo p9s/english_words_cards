@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* capable [ˈkepəbəl]
+有能力的;有才能的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* intact [ɪn'tækt]
+完整的;未动过的

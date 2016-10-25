@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* solar [ˈsoʊlə]
+太阳的;日光的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* manager [ˈmænɪdʒɚ]
+经理;管理人

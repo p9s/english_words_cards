@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wash [wɑʃ]
+洗;冲出洗涤

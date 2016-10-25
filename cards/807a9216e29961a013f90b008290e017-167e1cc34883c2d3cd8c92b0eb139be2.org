@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* missionary [ˈmɪʃəneri]
+传教士

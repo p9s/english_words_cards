@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* relative [ˈrɛlətɪv]
+有关系的;相对的

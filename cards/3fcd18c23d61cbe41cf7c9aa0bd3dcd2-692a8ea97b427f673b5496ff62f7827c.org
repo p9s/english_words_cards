@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* various [ˈveriəs]
+各种各样的;不同的

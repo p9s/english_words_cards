@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* contact [ˈkɑntækt]
+使接触;与…联系

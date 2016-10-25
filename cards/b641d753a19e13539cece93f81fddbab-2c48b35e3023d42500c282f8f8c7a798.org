@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* card [kɑrd]
+卡片;名片

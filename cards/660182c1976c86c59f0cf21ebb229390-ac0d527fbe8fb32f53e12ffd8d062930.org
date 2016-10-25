@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* achieve [əˈtʃiv]
+完成;实现;达到

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* few [fju]
+很少的;少数的

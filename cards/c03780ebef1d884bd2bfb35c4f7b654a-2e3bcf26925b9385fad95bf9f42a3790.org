@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* attach [əˈtætʃ]
+缚;系;贴;附加

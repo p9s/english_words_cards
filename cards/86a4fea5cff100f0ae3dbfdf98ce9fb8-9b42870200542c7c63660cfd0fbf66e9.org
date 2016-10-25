@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* desk [dɛsk]
+书桌;办公桌

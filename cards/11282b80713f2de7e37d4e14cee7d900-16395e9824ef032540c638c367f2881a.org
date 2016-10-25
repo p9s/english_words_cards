@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* once [wʌns]
+一次;曾经一次

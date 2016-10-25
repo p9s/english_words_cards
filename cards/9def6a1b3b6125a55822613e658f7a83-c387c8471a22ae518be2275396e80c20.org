@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* someday ['sʌmˌdeɪ]
+有一天;改天

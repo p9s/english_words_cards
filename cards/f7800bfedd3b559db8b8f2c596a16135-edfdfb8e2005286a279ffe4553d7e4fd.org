@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Olympic [oˈlɪmpɪk]
+奥林匹克的

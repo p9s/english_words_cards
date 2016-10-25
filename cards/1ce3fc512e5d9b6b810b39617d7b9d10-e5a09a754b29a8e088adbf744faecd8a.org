@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Japanese [ˌdʒæpəˈniz;-ˈ]
+日本的日本人

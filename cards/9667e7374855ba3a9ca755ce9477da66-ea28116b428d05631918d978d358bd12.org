@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* landing [ˈlændɪŋ]
+上岸;登陆;着陆

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tribe [traɪb]
+部落;宗族

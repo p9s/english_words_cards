@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* emphasize [ˈɛmfəˌsaɪz]
+强调;着重

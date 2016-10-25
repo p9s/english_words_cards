@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* match [mætʃ]
+比赛;竞赛

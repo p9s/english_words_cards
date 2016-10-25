@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* discourse [ˈdɪskɔrs]
+讲话;演说;讲道

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* investigator [ɪnˈvɛstɪˌɡetɚ]
+研究者;调查者;审查者

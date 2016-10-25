@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* opt [ɑpt]
+抉择;选择

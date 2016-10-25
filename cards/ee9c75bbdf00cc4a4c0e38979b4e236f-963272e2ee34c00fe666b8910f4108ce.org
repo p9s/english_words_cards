@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* succeed [səkˈsid]
+继…之后成功

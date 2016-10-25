@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* repeat [rɪˈpit]
+重说;重做重复

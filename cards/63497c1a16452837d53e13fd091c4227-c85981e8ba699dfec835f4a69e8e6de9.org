@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dried [draɪd]
+弄干了的

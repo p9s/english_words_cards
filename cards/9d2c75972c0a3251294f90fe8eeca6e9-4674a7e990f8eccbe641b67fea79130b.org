@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* terrible [ˈtɛrəbəl]
+可怕的;极度的

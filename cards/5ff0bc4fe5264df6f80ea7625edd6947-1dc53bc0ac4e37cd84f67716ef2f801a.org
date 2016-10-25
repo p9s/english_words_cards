@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* diplomat [ˈdɪpləˌmæt]
+外交官;有外交手腕的人

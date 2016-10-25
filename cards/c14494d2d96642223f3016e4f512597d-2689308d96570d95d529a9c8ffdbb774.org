@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* guilt [ɡɪlt]
+有罪;犯罪;内疚

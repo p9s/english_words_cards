@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* decline [dɪˈklaɪn]
+下倾;偏斜;衰退

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* globe [gloʊb]
+球;球状物;地球

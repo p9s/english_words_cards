@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* well-being [ˈwɛlˈbiɪŋ]
+幸福;健康;福利

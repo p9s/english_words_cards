@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* provoke [prəˈvoʊk]
+对…挑衅;激发

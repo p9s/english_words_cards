@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* positive [ˈpɑzətɪv]
+正的;阳性的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* evident [ˈɛvɪdənt]
+明显的;明白的

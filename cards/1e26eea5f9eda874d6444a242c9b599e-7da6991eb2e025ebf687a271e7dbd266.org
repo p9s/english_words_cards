@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* assign [əˈsaɪn]
+指派;分配;指定

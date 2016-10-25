@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hostage [ˈhɑstɪdʒ]
+人质;抵押品

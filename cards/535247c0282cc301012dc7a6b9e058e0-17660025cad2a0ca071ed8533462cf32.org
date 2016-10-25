@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* board [bɔrd]
+木板;板

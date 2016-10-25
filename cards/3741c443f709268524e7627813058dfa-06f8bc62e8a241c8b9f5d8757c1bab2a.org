@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* industrial [ɪnˈdʌstriəl]
+工业的;产业的

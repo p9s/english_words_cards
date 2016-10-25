@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* carve [kɑrv]
+刻;雕刻;切开

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* how [haʊ]
+怎么;怎样;多少

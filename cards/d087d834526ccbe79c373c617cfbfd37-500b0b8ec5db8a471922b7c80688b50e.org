@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* create [kriˈet]
+创造;引起;产生

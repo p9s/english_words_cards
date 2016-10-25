@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* brilliant [ˈbrɪljənt]
+光辉的;卓越的

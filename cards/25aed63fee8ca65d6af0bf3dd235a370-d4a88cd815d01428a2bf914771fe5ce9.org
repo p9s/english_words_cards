@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tomato [təˈmeɪtoʊ]
+番茄;西红柿

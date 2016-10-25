@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* accounting [əˈkaʊntɪŋ]
+会计学;清算帐目

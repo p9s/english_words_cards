@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* willing [ˈwɪlɪŋ]
+甘心情愿的

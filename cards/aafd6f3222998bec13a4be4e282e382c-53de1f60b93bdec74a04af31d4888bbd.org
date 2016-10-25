@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hall [hɔl]
+会堂;大厅;礼堂

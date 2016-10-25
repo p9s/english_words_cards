@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* text [tɛkst]
+课文;课本

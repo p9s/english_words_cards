@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* angry [ˈæŋɡri]
+发怒的;生气的

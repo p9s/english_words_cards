@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* husband [ˈhʌzbənd]
+丈夫

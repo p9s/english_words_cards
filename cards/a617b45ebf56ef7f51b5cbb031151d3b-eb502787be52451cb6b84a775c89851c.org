@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* climate [ˈklaɪmɪt]
+气候;风土;地带

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* abortion [əˈbɔrʃn]
+流产;堕胎;失败;夭折

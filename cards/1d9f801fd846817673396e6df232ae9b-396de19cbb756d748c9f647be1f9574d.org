@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* critic [ˈkrɪtɪk]
+批评家;爱挑剔的人

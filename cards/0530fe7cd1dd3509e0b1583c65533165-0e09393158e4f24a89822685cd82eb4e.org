@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ha [hɑ]
+哈;嘿

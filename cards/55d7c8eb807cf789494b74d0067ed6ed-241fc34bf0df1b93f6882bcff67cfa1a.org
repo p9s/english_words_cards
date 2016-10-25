@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* both [boʊθ]
+两者

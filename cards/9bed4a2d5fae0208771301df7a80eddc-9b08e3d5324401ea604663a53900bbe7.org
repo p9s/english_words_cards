@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dominant [ˈdɑmɪnənt]
+统治的主因

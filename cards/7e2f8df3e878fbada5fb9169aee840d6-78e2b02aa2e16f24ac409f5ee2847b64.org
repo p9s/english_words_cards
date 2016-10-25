@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* anticipate [ænˈtɪsəˌpet]
+预料;预期;期望

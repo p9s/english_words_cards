@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* uniform [ˈjunɪfɔrm]
+一样的制服

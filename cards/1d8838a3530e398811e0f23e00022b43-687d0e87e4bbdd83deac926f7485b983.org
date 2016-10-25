@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* club [klʌb]
+俱乐部;社团

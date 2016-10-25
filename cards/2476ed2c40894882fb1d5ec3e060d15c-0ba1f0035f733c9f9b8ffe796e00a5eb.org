@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* philosophy [fəˈlɑsəfi]
+哲学;哲理;人生观

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* current [ˈkɜrənt]
+当前的;通用的

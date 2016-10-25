@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* punish [ˈpʌnɪʃ]
+惩罚;处罚

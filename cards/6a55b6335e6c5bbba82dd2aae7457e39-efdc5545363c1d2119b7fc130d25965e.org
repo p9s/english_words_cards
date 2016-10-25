@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bubble [ˈbʌbəl]
+泡冒泡;沸腾

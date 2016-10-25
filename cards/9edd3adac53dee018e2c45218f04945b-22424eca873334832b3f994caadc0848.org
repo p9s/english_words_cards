@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* vision [ˈvɪʒən]
+视力;眼光;想象力

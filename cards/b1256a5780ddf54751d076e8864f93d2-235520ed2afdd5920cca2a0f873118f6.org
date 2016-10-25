@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* administer [ædˈmɪnɪstɚ]
+实施;掌管

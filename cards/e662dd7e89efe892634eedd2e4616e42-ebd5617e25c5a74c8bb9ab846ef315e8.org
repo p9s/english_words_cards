@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* oh [o]
+嗬;哦;唉呀

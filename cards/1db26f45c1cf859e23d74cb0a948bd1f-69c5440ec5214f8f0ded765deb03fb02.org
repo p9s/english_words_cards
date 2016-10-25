@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fire [faɪr]
+火;火灾开火

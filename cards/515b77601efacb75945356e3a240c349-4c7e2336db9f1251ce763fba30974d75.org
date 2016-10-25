@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pine [paɪn]
+松树;松木

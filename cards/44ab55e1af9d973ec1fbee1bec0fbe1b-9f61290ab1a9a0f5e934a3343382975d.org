@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* price [praɪs]
+价格;代价

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* significance [sɪɡˈnɪfɪkəns]
+意义;意味;重要性

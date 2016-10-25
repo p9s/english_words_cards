@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pot [pɑt]
+罐;锅;壶

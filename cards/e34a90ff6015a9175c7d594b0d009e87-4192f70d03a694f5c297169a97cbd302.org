@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bright [braɪt]
+明亮的;聪明的

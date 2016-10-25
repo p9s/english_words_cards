@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mandate [ˈmænˌdet]
+命令;指令;批准

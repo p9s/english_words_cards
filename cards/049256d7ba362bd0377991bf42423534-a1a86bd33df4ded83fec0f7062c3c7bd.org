@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sphere [sfɪr]
+球;圆体;范围

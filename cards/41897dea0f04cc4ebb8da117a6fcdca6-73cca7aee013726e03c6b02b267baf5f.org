@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* spot [spɑt]
+点;班点;地点

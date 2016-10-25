@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* measure [ˈmɛʒɚ]
+量;测量分量

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* slight [slaɪt]
+细长的;轻微的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* comprehensive [ˌkɑmprɪˈhensɪv]
+广泛的;理解的

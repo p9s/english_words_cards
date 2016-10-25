@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* combat [ˈkɑmbæt]
+跟…战斗格斗

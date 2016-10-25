@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* valuable [ˈvæljuəbəl;ˈæə-]
+贵重物品;财宝

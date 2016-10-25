@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lonely [ˈloʊnli]
+孤独的;荒凉的

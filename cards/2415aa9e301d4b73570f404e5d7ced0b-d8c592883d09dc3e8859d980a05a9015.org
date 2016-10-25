@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* awake [əˈwek]
+唤醒醒

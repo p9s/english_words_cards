@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* distinct [dɪˈstɪŋkt]
+独特的

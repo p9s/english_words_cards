@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* superior [suˈpɪriə]
+较高的;优越的

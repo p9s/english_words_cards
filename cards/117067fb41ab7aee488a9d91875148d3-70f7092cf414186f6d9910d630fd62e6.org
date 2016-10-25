@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* progressive [prəˈɡrɛsɪv]
+进步的;向前进的

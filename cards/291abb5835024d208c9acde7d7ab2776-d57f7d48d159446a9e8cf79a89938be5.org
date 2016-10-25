@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* carbohydrate [ˌkɑrboʊˈhaɪdreɪt]
+碳水化合物

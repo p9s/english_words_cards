@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sense [sɛns]
+感官;感觉;见识

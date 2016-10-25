@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dare [der]
+敢;敢于

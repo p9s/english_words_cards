@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* preparation [ˌprɛpəˈreʃən]
+准备;预备;制备;预习;配制;安排;筹备;制剂

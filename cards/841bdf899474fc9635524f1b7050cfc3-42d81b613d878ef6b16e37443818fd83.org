@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* poor [pɔr]
+可怜的;贫穷的

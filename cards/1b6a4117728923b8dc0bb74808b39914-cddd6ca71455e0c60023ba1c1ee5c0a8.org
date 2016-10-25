@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* marker [ˈmɑrkə]
+作记号的人;记分员;书签;纪念碑;

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* block [blɑk]
+阻塞;障碍物;炮闩

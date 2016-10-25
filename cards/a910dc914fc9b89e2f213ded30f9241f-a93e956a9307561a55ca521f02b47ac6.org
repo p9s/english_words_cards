@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* parent [ˈperənt]
+父亲

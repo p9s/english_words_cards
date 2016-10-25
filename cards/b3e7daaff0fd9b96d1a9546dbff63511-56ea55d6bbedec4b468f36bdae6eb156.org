@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* court [kɔrt]
+法院;法庭;庭院

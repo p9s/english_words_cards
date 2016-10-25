@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* oversee [ˌoʊvərˈsi]
+向下看;了望;监督

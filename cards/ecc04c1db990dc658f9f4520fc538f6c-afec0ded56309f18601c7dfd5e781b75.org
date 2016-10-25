@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* specific [spɪˈsɪfɪk]
+特有的;具体的

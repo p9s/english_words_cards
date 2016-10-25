@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* merely [ˈmɪrli]
+仅仅;只不过

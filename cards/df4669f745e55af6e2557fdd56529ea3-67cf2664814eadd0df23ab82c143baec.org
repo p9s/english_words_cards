@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* formal [ˈfɔrml]
+正式的;礼仪上的

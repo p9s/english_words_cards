@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ceiling [ˈsilɪŋ]
+天花板;顶逢

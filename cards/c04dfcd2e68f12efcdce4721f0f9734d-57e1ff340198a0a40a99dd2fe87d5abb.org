@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* entrepreneur [ˌɑntrəprəˈnɜ]
+企业家;创业人

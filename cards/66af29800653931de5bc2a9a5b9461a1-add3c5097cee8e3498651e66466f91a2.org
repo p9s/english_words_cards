@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* vehicle [ˈvihɪkl]
+车辆;机动车

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* whip n.鞭子
+鞭笞;抽打

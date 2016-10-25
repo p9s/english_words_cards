@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* slice [slaɪs]
+薄片;切片;部分

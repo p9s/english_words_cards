@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* elderly [ˈeldərli]
+过了中年的;稍老的

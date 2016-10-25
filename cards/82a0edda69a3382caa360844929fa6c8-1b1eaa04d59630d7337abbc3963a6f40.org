@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* any [ˈɛni]
+什么;一些;任何的

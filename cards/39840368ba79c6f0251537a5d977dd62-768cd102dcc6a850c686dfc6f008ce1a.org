@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dignity [ˈdɪgnəti]
+尊贵;庄严

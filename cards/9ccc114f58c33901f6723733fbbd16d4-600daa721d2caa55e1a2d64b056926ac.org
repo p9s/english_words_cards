@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* enforce [ɪnˈfɔrs]
+实施;执行;强制

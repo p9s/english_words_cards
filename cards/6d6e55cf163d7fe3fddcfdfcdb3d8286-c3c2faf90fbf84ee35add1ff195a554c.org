@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* generous [ˈdʒɛnərəs]
+慷慨的;宽厚的

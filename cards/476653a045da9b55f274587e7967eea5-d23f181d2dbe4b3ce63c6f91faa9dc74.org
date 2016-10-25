@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* guard [gɑrd]
+哨兵;警卫员

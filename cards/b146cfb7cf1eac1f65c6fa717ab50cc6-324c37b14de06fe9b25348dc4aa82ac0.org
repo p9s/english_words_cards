@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* exceed [ɪkˈsid]
+超过;胜过;超出

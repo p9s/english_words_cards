@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* temple [ˈtɛmpəl]
+庙宇;寺院

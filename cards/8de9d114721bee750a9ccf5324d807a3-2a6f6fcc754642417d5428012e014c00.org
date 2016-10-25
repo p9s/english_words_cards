@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ingredient [ɪnˈgridiənt]
+配料;成分

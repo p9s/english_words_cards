@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* amazing [ə'meɪzɪŋ]
+惊人的;惊奇的;令人惊异的

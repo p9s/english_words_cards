@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* strong [strɔŋ]
+坚固的;强有力的

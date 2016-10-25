@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* enthusiasm [ɪnˈθuziæzəm]
+热情;热心;热忱

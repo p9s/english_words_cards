@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* regulate [ˈrɛɡjəˌlet]
+管理;控制;调整

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fresh [frɛʃ]
+新鲜的

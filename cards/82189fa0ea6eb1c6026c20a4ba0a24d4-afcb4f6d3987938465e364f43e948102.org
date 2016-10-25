@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* significant [sɪɡˈnɪfɪkənt]
+有意义的;重要的

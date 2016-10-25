@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ribbon [ˈrɪbən]
+缎带;丝带;带

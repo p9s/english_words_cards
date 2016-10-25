@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* football [ˈfʊtˌbɔl]
+足球比赛;足球

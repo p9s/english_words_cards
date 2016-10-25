@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shower [ˈʃaʊɚ]
+下阵雨使湿透

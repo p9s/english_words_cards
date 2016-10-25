@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* seat [sit]
+座;座部;座位;中心;席位;所在地;场所;就座;容纳

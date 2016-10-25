@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* calm [kɑm]
+平静的;沉着的

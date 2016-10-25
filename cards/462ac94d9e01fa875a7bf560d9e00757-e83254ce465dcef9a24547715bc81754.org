@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* exhibit [ɪɡˈzɪbɪt;ɛɡ-]
+显示;陈列;展览

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* determination [dɪˌtɜrmɪˈneɪʃn]
+决心;决定;确定

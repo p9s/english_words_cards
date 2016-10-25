@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ladder [ˈlædɚ]
+梯子;梯状物

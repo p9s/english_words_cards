@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* headquarters [ˈhedkwɔrtərz]
+司令部;总部

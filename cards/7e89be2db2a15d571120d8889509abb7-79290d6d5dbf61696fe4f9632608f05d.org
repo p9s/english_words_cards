@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* native [ˈnetɪv]
+本国的;本土的

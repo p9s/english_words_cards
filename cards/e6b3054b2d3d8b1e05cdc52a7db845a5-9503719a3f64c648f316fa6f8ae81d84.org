@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rent [rɛnt]
+租金;租出租

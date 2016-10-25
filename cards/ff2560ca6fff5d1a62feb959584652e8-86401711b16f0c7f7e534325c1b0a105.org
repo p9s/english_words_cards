@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* counsel [ˈkaʊnsəl]
+商议;忠告;律师

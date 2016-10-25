@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* smoke [smoʊk]
+烟;抽烟冒烟

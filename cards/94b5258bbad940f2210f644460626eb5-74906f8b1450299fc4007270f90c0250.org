@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* brain [bren]
+脑;脑力;智能

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* outfit [ˈaʊtˌfɪt]
+用具;配备;机构

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* inner [ˈɪnɚ]
+内部的;内心的

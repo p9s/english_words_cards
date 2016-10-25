@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* survivor [sərˈvaɪvə]
+幸存者

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ability [əˈbɪlɪti]
+能力;能耐;本领

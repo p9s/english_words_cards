@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* standard [ˈstændərd]
+标准标准的

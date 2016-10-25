@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* representative [ˌrɛprɪˈzɛntətɪv]
+代表性的代表

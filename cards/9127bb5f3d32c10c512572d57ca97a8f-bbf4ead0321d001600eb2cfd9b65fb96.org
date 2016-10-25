@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sneak [snik]
+鬼鬼祟祟而行;偷窃

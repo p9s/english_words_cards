@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* necessarily [ˌnɛsɪˈsɛrəli;-ˈɛ-]
+当然;必定;必然地

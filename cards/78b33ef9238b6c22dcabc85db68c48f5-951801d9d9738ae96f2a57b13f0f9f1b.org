@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* strictly [ˈstrɪktli]
+全然;严格地;严谨地;绝对;明确地;严厉地;严格地

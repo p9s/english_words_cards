@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ally ['ælaɪ]
+同盟国;同盟者

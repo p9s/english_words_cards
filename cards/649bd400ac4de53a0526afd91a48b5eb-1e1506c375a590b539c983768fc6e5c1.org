@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* negative [ˈnɛɡətɪv]
+负的;阴性的

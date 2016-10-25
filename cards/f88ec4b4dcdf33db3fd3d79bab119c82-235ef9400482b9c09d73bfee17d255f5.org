@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* deploy [dɪˈplɔɪ]
+展开;配置

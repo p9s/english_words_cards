@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* adviser [ædˈvaɪzɚ]
+顾问;指导教授;劝告者

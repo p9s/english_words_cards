@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* terror [ˈtɛrɚ]
+恐怖;惊骇

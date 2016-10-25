@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* harsh [hɑrʃ]
+粗糙的;严厉的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* counterpart [ˈkaʊntərpɑrt]
+对应的人

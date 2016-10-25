@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pack [pæk]
+捆扎;挤满包

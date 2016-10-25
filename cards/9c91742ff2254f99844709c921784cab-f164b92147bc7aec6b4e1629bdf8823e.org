@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* assumption [əˈsʌmpʃən]
+假设

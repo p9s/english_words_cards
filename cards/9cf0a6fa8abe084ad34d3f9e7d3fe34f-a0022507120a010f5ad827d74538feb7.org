@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* facility [fəˈsɪləti]
+设备;容易;便利

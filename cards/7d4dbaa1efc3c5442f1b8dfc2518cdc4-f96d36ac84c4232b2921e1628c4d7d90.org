@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bag [bæɡ]
+提包;口袋;书包

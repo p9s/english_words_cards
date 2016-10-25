@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* drum [drʌm]
+鼓;鼓状物;圆桶

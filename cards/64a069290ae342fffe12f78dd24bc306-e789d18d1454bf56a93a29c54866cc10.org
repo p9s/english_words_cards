@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* surgeon [ˈsɜrdʒən]
+外科医师;军医

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mad [mæd]
+发疯的;疯狂的

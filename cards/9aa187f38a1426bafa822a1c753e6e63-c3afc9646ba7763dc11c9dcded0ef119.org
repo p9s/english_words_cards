@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stem [stɛm]
+词干;转柄

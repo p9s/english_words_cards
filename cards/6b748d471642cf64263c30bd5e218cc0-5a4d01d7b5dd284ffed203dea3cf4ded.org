@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* soil [sɔɪl]
+土壤;土地

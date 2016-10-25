@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* engagement [ɛnˈɡedʒmənt]
+婚约;约会;债务

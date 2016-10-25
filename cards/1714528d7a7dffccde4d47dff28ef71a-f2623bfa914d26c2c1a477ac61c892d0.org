@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* desperate [ˈdɛspərɪt]
+什么也不顾的;拼死的;绝望的;不顾一切的;危急的;令人绝望的

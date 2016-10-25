@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rub [rʌb]
+摩擦

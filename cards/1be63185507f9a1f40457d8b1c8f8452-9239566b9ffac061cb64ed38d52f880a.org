@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* biological [ˌbaɪəˈlɑdʒɪkl]
+生物的

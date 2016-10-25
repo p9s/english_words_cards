@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* disk [dɪsk]
+圆盘;唱片;磁盘

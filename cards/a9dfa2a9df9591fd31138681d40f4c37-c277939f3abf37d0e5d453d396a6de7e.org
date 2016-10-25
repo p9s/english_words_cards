@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* newly [ˈnuli]
+新近;最近

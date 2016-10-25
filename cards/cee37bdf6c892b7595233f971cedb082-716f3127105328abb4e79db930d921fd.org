@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* clean [klin]
+清洁的;纯洁的

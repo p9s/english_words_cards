@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* twist [twɪst]
+捻;拧扭弯

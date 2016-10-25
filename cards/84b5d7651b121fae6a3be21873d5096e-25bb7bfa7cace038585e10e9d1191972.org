@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* duty [ˈduti]
+义务;责任

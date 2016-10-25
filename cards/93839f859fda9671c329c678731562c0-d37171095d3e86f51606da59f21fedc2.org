@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* straw [strɔ]
+稻草;麦杆吸管

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* thus [ðʌs]
+如此;这样;因而

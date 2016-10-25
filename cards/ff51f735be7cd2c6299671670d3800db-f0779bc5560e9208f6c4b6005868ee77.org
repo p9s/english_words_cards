@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* great [ɡret]
+伟大的;重大的

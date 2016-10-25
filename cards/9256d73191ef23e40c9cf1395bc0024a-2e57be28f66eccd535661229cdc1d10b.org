@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* minimum [ˈmɪnəməm]
+最小量最小的

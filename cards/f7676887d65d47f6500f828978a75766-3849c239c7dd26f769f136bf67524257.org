@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lake [lek]
+湖

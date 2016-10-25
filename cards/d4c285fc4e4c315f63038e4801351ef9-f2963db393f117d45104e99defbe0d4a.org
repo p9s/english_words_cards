@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tendency [ˈtɛndənsi]
+趋向;趋势;倾向

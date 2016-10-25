@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pleasant [ˈplɛzənt]
+令人愉快的

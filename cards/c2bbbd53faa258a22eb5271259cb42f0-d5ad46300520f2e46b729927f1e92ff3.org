@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* give [ɡɪv]
+做;作;送给

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* gentleman [ˈdʒɛntlmən]
+绅士;有教养的人

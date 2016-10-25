@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pin [pɪn]
+针;饰针别住

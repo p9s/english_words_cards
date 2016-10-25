@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pet [pɛt]
+爱畜;宠儿宠爱的

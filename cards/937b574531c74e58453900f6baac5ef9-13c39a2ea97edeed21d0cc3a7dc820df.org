@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rating [ˈretɪŋ]
+类别;分类

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* scatter [ˈskætɚ]
+使分散分散

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* painter [ˈpentɚ]
+漆工;画家;绘画者

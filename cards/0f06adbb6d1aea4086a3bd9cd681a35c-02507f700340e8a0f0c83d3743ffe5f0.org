@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* before [bɪˈfɔr;-ˈfor]
+在…以前;向…

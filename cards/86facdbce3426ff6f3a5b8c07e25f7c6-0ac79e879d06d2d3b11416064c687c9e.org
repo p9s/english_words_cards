@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fault [fɔlt]
+缺点;过失;故障

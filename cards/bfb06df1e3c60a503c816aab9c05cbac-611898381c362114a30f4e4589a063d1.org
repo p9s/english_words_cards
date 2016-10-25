@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* potentially [pəˈtɛnʃəlɪ]
+潜在地;可能地;大概地

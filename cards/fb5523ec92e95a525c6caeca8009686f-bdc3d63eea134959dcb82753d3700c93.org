@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* different [ˈdɪfrənt]
+不同的

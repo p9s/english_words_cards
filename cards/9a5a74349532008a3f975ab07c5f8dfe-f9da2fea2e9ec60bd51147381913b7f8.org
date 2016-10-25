@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* recovery [rɪˈkʌvəri]
+重获;痊愈;恢复

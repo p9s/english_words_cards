@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cognitive [ˈkɑgnətɪv]
+认识的

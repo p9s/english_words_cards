@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* attitude [ˈætɪtud]
+态度;看法;姿势

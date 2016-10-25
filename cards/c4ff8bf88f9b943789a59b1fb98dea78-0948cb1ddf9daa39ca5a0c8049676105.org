@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tragedy [ˈtrædʒɪdi]
+悲剧;惨事;惨案

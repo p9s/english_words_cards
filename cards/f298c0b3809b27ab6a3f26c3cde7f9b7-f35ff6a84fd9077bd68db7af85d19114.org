@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* carefully [ˈkɛrfəlɪ]
+小心地;仔细地;注意地

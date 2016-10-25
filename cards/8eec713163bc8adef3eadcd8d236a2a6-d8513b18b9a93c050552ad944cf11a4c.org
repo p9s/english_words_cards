@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* road [roʊd]
+路;道路;公路

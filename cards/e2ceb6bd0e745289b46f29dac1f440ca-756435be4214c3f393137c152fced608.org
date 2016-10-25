@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* integrated [ˈɪntɪɡretɪd]
+全面的;统一的;整合的;完整的

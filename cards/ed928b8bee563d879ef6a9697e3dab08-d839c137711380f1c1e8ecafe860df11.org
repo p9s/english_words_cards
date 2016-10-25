@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* universe [ˈjunɪvɜrs]
+宇宙;世界

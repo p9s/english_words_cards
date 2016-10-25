@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* burst [bɜrst]
+突然破裂;爆发

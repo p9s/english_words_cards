@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* born [bɔrn]
+天生的;出生的

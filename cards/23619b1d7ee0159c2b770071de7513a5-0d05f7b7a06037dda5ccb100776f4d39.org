@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* spectrum [ˈspɛktrəm]
+系列;范围;波谱

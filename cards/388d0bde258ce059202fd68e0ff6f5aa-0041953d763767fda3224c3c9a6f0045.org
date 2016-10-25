@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* thanks [θæŋks]
+谢谢;谢意;感谢;谢谢

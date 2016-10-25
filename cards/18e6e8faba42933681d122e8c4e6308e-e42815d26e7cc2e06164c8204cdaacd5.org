@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* trash [træʃ]
+废物;垃圾

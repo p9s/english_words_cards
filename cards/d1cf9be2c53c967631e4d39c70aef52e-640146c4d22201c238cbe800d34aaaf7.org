@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* farmer [ˈfɑrmə]
+农民;农夫;农场主

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* joke [dʒoʊk]
+笑话说笑话

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shoulder [ˈʃoʊldə]
+承担;挑起;肩负

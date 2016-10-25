@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fact [fækt]
+事实;实际

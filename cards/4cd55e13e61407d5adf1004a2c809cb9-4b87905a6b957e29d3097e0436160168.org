@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* funeral [ˈfjunərəl]
+葬礼;丧礼;丧葬

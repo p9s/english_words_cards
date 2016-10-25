@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* disabled [dɪsˈebəld]
+残废的;禁止的;报废的;残疾人

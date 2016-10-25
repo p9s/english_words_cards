@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* domestic [dəˈmɛstɪk]
+本国的;家庭的

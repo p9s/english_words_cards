@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* softly [ˈsɔftli]
+柔软地;轻轻地;温柔地;温和地;软化地;柔和地

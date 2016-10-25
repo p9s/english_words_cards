@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* deny [dɪˈnaɪ]
+否定;拒绝相信

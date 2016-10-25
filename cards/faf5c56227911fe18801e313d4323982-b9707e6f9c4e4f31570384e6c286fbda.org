@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* seal [sil]
+封蜡;印记封

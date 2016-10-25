@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ridiculous [rɪˈdɪkjələs]
+荒谬的;可笑的

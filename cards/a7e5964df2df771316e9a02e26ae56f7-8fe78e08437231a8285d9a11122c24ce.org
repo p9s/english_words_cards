@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tip [tɪp]
+梢;末端;尖;尖端

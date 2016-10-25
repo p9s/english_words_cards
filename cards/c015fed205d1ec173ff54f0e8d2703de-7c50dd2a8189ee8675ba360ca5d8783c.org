@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* profound [prəˈfaʊnd;-]
+深刻的;渊博的

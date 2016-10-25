@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* delay [dɪˈle]
+推迟;耽搁;延误

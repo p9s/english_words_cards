@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* regret [rɪˈɡrɛt]
+遗憾;抱歉

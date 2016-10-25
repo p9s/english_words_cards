@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* injury [ˈɪndʒəri]
+损害;伤害;受伤处

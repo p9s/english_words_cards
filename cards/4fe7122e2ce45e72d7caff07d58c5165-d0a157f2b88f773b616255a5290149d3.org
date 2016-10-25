@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* pose [poʊz]
+摆好姿势

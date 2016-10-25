@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lady [ˈledi]
+女士;有教养的妇女

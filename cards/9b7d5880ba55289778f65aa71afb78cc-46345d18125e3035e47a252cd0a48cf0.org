@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* expansion [ɪkˈspænʃən]
+扩大;扩充;扩张

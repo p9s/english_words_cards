@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* clearly [ˈklɪrli]
+清楚地;无疑地;清澈地;明白地;清晰地;明亮地

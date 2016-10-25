@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* programming [ˈproʊgræmɪŋ]
+程序编排;程序设计;编程序

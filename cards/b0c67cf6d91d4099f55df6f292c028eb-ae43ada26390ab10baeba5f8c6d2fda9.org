@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* master [ˈmæstə]
+主人;能手;硕士

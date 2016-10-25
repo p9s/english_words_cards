@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dump [dʌmp]
+倾卸;倾倒;倾销

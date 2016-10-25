@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* toy [tɔɪ]
+玩具;玩物

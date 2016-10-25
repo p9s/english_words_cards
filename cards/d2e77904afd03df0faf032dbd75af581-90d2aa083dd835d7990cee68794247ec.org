@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* touchdown [ˈtʌtʃˌdaʊn]
+触地;触地得分;着地;降落

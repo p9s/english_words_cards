@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shrug [ʃrʌɡ]
+耸耸肩

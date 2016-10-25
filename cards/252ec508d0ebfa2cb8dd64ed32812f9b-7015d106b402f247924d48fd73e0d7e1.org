@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* makeup [ˈmekˌʌp]
+组织;性格;化装品;组成;构造

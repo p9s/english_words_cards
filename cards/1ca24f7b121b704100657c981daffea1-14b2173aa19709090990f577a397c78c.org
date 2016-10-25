@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* complete [kəmˈplit]
+完全的;彻底的

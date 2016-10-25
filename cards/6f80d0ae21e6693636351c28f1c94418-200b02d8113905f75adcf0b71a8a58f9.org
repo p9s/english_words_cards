@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* eligible [ˈɛlɪdʒəbəl]
+适合被选的;合格的

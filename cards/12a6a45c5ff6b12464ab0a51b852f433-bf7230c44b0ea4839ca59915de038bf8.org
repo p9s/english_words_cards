@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* victory [ˈvɪktəri]
+胜利

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* equity [ˈɛkwɪti]
+公平;公正

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* overwhelm [ˌoʊvərˈwelm]
+压倒;使不知所措

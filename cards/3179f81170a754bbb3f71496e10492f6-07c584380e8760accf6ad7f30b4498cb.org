@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tender [ˈtɛndɚ]
+嫩的;脆弱的

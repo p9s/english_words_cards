@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* information [ˌɪnfərˈmeɪʃn]
+消息;信息;通知

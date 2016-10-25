@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* difficult [ˈdɪfɪˌkʌlt;-ə]
+困难的;难对付的

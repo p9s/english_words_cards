@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cure [kjʊr]
+医治;消除治愈

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* imagine [ɪˈmædʒɪn]
+想象;设想

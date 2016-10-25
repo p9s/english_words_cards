@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* annually [ˈænjʊəlɪ]
+一年一次;每年

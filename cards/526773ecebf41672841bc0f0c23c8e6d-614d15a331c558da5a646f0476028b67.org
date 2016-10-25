@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* embarrassed [ɪmˈbærəst]
+窘迫;尴尬

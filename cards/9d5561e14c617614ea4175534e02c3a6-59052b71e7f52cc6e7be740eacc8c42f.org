@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* landmark [ˈlændmɑrk]
+风景点;里程碑

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* evaluation [ɪˌvæljʊˈeʃən]
+评估;估价;评价;赋值

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* punch [pʌntʃ]
+冲出冲压机

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sofa [ˈsoʊfə]
+长沙发;沙发

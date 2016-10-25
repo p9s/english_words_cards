@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* insect [ˈɪnˌsɛkt]
+昆虫;虫

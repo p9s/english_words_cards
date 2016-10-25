@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* quest [kwɛst]
+寻找追求

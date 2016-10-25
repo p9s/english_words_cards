@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dense [dɛns]
+稠密的;密集的;愚钝的;浓密的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* explode [ɪkˈsploʊd]
+使爆炸爆炸

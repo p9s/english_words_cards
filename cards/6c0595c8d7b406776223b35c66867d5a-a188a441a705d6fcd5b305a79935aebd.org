@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* wise [waɪz]
+有智慧的;聪明的

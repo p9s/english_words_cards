@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* only [ˈoʊnli]
+只;仅仅唯一的

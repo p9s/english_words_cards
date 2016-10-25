@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* able [ˈebəl]
+有能力的;能干的

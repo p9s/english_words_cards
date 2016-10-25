@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* root [rut;ʊ]
+根;根子生根

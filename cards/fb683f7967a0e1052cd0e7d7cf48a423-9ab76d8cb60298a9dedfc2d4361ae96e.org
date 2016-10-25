@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* save [sev]
+救;挽救

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* senior [ˈsinjɚ]
+年少的;地位较高的

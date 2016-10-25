@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* compliance [kəmˈplaɪəns]
+服从;听从

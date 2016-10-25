@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* chef [ʃɛf]
+厨师

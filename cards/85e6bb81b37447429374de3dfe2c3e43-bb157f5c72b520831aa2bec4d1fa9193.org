@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* store [stɔr;]
+存贮;储藏

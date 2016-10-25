@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stupid [ˈstupɪd]
+愚蠢的;感觉迟钝的

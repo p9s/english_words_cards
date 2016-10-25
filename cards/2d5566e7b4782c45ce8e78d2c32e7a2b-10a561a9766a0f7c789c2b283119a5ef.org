@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dawn [dɔn]
+黎明;开端破晓

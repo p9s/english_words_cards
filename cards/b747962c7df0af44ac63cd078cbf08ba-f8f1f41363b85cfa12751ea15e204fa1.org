@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* quick [kwɪk]
+快的;迅速的

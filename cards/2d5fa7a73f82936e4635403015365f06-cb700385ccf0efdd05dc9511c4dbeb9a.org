@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* care [ker]
+照料;保护;小心

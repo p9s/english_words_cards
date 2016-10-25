@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* additional [ə'dɪʃənl]
+附加的;追加的

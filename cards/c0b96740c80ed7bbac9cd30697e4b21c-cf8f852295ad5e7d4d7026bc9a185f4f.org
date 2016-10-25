@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* make [mek]
+造;制作;使

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* suddenly [ˈsʌdnlɪ]
+突然地;忽然;突然的

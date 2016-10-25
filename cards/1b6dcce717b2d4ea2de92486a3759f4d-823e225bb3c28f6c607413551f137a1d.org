@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* acknowledge [əkˈnɑlɪdʒ]
+承认;告知收到

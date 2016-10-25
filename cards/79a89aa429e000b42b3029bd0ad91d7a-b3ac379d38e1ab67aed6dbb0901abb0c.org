@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* exotic [ɪgˈzɑtɪk]
+珍奇的;来自异国的

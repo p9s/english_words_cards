@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* figure [ˈfɪgjər]
+数字;外形;人物

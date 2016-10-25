@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* explore [ɪkˈsplɔr]
+探险;探索

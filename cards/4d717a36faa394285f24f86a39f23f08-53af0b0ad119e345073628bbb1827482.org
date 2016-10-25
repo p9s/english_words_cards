@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* incredibly [ɪnˈkrɛdəblɪ]
+难以置信地;惊人地

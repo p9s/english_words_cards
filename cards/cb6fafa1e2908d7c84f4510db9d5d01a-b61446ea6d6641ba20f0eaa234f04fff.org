@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* swing [swɪŋ]
+摇摆;回转摇摆

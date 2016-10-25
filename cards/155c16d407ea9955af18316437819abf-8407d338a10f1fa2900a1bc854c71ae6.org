@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* release [rɪ'lis]
+释放;放松;发表

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* judicial [dʒuˈdɪʃəl]
+法庭的;法官的

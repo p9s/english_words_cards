@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* scared [skerd]
+怕;惊慌的;吓坏了的;害怕的;恐惧的

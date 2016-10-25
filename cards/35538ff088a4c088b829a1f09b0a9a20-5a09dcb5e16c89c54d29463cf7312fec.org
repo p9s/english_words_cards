@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* favorite [ˈfevərɪt;ˈɪ]
+最喜爱的

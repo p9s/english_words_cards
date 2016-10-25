@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* aspect [ˈæspɛkt]
+方面;样子;外表

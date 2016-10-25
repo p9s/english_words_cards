@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* fortunately [ˈfɔrtʃənətli]
+幸亏;幸运地;幸而;幸好

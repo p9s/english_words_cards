@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* merit [ˈmɛrɪt]
+长处;优点;功过

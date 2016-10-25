@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* spin [spɪn]
+纺;使旋转旋转

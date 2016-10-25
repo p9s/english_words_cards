@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* declare [dɪˈkler]
+断言;声明;表明

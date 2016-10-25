@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* comprise [kəmˈpraɪz]
+包含;包括;构成

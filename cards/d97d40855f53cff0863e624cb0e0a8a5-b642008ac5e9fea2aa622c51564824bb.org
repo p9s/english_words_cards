@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ultimate [ˈʌltəmɪt]
+最后的;最终的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* defensive [dɪˈfɛnsɪv]
+防卫的;防备用的;辩护的

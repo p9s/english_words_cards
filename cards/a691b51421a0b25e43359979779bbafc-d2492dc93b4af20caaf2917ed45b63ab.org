@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* purple [ˈpɜrpl]
+紫色紫的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* perception [pərˈsepʃn]
+感觉;概念;理解力

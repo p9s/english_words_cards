@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* firm [fɜrm]
+商行;商号;公司

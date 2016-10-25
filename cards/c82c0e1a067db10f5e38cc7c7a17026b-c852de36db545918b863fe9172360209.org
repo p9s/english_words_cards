@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* foundation [faʊnˈdeʃən]
+地基

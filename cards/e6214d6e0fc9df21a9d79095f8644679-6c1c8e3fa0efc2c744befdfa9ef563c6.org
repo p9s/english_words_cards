@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sum [sʌm]
+总数;金额共计

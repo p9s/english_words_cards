@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cake [keɪk]
+蛋糕;饼;糕

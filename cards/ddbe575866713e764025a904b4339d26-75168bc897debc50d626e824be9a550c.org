@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* investigate [ɪnˈvɛstɪˌɡet]
+调查

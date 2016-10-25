@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* milk [mɪlk]
+挤奶;出奶

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* emerge [iˈmɜrdʒ]
+出现;涌现;冒出

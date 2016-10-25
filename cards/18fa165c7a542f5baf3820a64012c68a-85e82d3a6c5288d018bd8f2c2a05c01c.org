@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* consume [kənˈsum]
+消耗;消费;消灭;耗尽;花费;毁灭;浪费;憔悴;使用;消费掉;枯萎

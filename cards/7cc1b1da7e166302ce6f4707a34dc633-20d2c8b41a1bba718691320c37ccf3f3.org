@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* nor [nɔr]
+也不;不

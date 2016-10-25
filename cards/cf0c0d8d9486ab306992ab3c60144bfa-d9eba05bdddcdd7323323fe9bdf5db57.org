@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* elder [ˈɛldɚ]
+年龄较大的长者

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* southwest [saʊθˈwɛst;ʊˈɛ]
+西南西南的

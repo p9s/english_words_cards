@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* free [fri]
+自由的;空闲的

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* singer [ˈsɪŋɚ]
+歌唱家;歌手

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* festival [ˈɛəə]
+节日;音乐节

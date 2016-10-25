@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* curriculum [kəˈrɪkjələm]
+课程

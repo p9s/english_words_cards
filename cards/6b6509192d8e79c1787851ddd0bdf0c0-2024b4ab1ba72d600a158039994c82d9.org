@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* survey [ˈsɜrveɪ]
+俯瞰;检查;测量

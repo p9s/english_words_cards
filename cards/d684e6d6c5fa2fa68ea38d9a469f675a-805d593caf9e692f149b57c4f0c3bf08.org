@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sensitivity [ˌsɛnsɪˈtɪvɪti]
+敏感性;灵敏性;灵敏度

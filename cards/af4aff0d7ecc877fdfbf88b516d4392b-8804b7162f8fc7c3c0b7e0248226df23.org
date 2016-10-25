@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rather [ˈræðər]
+宁可;宁愿;相当

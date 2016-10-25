@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* physician [fɪˈzɪʃən]
+医生;内科医生

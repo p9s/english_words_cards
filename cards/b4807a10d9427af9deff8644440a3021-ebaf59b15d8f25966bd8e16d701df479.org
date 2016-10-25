@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* opening [ˈoʊpnɪŋ]
+开始的开始

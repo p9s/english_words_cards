@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* surprising [sərˈpraɪzɪŋ]
+惊人的;出人意外的

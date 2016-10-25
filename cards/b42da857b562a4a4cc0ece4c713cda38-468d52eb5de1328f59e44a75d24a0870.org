@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* violation [ˌvaɪəˈleʃən]
+违犯;侵犯;妨碍

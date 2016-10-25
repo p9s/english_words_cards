@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* offering [ˈɔfərɪŋ]
+报盘;提供的货物;提供;礼物;捐献;实盘

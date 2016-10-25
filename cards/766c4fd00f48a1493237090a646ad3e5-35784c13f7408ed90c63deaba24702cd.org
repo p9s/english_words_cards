@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* conclude [kənˈklud]
+推断出;断定

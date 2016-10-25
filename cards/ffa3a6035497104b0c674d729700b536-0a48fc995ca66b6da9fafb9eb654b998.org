@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* retire [rɪˈtaɪr]
+退下;引退;就寝

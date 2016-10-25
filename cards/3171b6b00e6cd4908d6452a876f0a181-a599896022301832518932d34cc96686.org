@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sake [sek]
+缘故;理由

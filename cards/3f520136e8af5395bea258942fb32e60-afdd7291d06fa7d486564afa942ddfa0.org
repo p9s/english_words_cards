@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* collector [kəˈlɛktɚ]
+收集家;收税员

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* naked [ˈnekɪd]
+裸体的;无遮敝的

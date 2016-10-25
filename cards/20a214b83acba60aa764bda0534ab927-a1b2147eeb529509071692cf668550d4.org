@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shallow [ˈʃæloʊ]
+浅的;浅薄的

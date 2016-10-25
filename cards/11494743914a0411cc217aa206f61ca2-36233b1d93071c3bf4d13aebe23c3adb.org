@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* harvest [ˈhɑrvɪst]
+收获;收成收割

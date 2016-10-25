@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* frequent [ˈfrikwənt]
+时常发生的;经常的

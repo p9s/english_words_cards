@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ownership [ˈoʊnərʃɪp]
+所有;所有制

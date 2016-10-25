@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* prove [pruv]
+证明;证实

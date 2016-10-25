@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* prime [praɪm]
+首要的;基本的

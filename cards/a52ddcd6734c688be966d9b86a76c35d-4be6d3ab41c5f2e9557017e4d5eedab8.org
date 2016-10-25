@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* disturbing [dɪˈstɜrbɪŋ]
+令人不安的;令人担心的

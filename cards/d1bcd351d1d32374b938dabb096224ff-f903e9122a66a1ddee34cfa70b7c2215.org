@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* away [əˈwe]
+离开;远离;…去

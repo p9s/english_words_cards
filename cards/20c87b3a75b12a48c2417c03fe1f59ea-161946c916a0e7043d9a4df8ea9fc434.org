@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* differ [ˈdɪfɚ]
+不同;相异

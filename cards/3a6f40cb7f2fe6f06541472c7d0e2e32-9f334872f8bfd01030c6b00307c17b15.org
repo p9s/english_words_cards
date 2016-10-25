@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* emphasis [ˈɛmfəsɪs]
+强调;重点;重要性

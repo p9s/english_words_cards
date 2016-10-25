@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* each [itʃ]
+各;各自各

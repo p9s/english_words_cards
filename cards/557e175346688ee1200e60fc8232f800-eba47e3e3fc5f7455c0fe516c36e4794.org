@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bill [bɪl]
+账单;招贴;票据

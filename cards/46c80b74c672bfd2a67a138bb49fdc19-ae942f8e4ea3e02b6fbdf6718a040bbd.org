@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* medium [ˈmidiəm]
+媒质;中间中等的

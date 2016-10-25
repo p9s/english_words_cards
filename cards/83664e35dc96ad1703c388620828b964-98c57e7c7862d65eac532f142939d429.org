@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* shortage [ˈʃɔrtɪdʒ]
+短缺;不足额

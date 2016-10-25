@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* meeting [ˈmitɪŋ]
+聚集;会合;会见

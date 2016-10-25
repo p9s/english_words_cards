@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* contemplate [ˈkɑntəmpleɪt]
+深思;（严肃）注视

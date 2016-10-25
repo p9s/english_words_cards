@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* constitution [ˌkɑnstəˈtuʃn]
+体格;素质

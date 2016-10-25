@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* daily [ˈdeli]
+每日的日报

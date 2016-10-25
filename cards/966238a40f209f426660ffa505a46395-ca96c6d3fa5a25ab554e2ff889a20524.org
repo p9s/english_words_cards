@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* near [nɪr]
+近;接近近的

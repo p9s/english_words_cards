@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cute [kjut]
+逗人喜爱的;漂亮的;伶俐的

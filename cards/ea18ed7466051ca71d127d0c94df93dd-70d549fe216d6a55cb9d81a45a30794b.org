@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* minor [ˈmaɪnɚ]
+较小的;较次要的

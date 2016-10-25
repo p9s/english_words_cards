@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* praise [preɪz]
+赞扬;表扬

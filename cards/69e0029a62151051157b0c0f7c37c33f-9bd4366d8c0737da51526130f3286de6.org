@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* coming [ˈkʌmɪŋ]
+进来;即将到来的;有指望的;来到;就要来的

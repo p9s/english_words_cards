@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* photograph [ˈfoʊtəgræf]
+照片;相片

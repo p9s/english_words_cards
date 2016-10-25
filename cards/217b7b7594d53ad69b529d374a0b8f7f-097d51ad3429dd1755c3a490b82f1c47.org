@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* actor [ˈæktɚ]
+男演员;演剧的人

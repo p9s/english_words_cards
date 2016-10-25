@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* toe [toʊ]
+脚趾;足尖

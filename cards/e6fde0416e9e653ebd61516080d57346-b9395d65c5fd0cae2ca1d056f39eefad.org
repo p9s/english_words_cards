@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* outer [ˈaʊtɚ]
+外部的

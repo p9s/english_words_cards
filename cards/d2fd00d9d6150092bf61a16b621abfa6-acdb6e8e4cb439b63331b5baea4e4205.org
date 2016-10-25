@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* settlement [ˈsɛtlmənt]
+调停;住宅区

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* outdoor [ˈaʊtˌdɔr;-ˌ]
+户外的;室外的

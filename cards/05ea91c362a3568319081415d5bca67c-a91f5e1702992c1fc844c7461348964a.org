@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* girl [gɜrl]
+女孩;姑娘;女孩子;女儿;少女;女人;女职员

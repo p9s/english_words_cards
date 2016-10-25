@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* educational [ˌɛdʒəˈkeʃənəl]
+教育的;教育性的

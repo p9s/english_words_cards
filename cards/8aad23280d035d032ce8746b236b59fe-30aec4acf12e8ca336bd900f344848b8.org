@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* corn [kɔrn]
+谷物;玉米

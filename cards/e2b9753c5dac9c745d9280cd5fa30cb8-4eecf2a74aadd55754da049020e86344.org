@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sleep [slip]
+睡;睡眠

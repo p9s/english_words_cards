@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* initially [ɪˈnɪʃəli]
+最初;开始;开头

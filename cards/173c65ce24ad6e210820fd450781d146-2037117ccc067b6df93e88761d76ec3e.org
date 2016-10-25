@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* seize [siz]
+捉;抓;掠夺

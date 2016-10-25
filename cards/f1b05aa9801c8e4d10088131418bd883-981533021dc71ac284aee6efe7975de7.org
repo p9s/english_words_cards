@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* painting [ˈpentɪŋ]
+油画;绘画;着色

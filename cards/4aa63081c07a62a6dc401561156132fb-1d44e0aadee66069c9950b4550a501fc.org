@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* describe [dɪˈskraɪb]
+形容;描写;描绘

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* butter [ˈbʌtɚ]
+黄油;奶油

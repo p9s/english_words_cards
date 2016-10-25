@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* result [rɪˈzʌlt]
+结果;效果

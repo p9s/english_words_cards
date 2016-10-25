@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cage [kedʒ]
+畜养禽、兽的笼子

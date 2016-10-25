@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* mixture [ˈmɪkstʃɚ]
+混合;混合物

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cooking [ˈkʊkɪŋ]
+烹饪;烹调用的

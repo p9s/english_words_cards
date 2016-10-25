@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* entertainment [ˌentərˈteɪnmənt]
+招待;招待会

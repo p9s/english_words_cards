@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* allegation [ˌælɪˈɡeʃən]
+（无证据的）指控

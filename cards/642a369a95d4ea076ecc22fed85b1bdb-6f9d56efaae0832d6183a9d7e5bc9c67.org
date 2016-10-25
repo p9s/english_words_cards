@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Christian [ˈkrɪstʃən]
+基督教徒

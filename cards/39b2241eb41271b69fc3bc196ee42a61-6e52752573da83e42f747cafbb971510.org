@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* proud [praʊd]
+骄傲的;自豪的

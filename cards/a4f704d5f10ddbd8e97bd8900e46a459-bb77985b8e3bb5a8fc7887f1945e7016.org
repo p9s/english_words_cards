@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* bias [ˈbaɪəs]
+偏见;斜线

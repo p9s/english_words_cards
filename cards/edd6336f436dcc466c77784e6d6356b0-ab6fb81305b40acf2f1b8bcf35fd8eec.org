@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* entrance [ˈentrəns]
+入口;进入;入场

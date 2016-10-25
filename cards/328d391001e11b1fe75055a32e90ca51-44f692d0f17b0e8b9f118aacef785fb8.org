@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* association [əˌsoʊʃiˈeɪʃn]
+协会;团体;联合

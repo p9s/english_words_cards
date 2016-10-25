@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* instruction [ɪnˈstrʌkʃən]
+命令;教学;教训

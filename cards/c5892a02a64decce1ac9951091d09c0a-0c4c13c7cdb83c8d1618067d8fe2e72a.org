@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* village [ˈvɪlɪdʒ]
+乡村;村庄

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* drunk [drʌŋk]
+醉的;陶醉的

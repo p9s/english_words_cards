@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* crowd [kraʊd]
+群;大众;一伙人

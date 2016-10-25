@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* administrative [ədˈmɪnɪstreɪtɪv]
+管理的;行政的

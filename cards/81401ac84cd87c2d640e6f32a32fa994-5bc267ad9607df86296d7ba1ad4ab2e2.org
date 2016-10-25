@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* reaction [riˈækʃən]
+反应;反作用

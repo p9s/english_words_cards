@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* guest [ɡɛst]
+客人

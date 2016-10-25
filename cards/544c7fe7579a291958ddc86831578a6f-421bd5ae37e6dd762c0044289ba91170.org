@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* troop [trup]
+群集;集合

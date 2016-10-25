@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* grandfather [ˈɡrændˌfɑðɚ;ˈɡæ-]
+祖父;外祖父

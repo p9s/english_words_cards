@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* accuracy [ˈækjərəsi]
+准确;准确度

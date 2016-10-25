@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* texture [ˈtɛkstʃɚ]
+质地;结构

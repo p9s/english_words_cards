@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* simply [ˈsɪmpli]
+简单地;仅仅

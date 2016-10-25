@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* corruption [kəˈrʌpʃən]
+腐败;堕落;贪污

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* forward [ˈfɔrwərd]
+向前;前进

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* break [brek]
+休息时间

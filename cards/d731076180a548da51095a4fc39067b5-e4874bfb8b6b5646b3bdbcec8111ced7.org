@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* strongly [ˈstrɔŋlɪ]
+强有力地;强壮地;强烈地

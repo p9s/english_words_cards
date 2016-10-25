@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* deputy [ˈdɛpjəti]
+代理人副的

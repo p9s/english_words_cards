@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* refrigerator [rɪˈfrɪdʒəˌretɚ]
+冰箱;冷藏库

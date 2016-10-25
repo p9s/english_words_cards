@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* African [ˈæfrɪkən]
+非洲的非洲人

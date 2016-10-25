@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* baseball [ˈbesˌbɔl]
+棒球;棒球运动

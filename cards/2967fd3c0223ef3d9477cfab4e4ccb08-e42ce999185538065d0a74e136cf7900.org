@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* lawmaker [ˈlɔˌmekɚ]
+立法者

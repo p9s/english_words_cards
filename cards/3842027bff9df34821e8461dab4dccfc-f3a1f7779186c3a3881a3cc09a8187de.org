@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* homeland [ˈhoʊmlænd]
+祖国

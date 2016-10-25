@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* attorney [əˈtɜrni]
+代理人;辩护律师

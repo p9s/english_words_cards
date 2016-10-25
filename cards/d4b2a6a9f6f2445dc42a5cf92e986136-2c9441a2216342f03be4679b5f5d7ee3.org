@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* tumor ['tjumə]
+『医』肿瘤;瘤;赘瘤

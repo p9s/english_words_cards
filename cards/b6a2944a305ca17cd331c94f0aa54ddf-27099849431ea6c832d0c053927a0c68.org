@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* advanced [ədˈvænst]
+先进的;高级的

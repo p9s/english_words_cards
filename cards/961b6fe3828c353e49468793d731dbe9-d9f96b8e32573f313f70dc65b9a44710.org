@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* accelerate [ækˈsɛləˌret]
+加快;促进

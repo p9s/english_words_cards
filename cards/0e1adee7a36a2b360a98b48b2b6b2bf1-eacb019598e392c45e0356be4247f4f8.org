@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* anniversary [ˌænɪˈvɜrsəri]
+周年纪念日

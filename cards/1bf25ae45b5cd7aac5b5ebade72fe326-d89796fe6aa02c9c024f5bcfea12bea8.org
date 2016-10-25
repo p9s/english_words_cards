@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* warrior [ˈwɔriə]
+武士;斗士

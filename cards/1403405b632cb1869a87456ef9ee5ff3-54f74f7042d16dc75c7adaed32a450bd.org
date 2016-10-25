@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* external [ɪkˈstɜrnl]
+外部的;外面的

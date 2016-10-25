@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* enjoy [ɛnˈdʒɔɪ]
+享受;欣赏;喜爱

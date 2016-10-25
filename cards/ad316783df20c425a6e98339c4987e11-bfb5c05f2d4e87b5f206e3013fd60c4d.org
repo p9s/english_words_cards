@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* rural [ˈrʊrəl]
+农村的;田园的

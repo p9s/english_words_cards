@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* display [dɪˈsple]
+陈列;展览;显示

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* aid [ed]
+帮助;救护;助手

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* hardly [ˈhɑrdli]
+几乎不;简直不

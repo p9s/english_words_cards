@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* modest [ˈmɑdɪst]
+有节制的;谦虚的

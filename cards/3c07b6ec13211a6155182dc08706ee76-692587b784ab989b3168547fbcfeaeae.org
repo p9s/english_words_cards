@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* indigenous [ɪnˈdɪdʒənəs]
+土产的;本地的

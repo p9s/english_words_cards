@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* happy [ˈhæpi]
+高兴的;幸福的

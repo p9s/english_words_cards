@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* darkness [ˈdɑrknəs]
+黑暗

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cover [ˈkʌvɚ]
+盖;包括盖子

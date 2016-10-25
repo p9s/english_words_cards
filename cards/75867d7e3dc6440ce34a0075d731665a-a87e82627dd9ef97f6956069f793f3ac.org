@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* sibling [ˈsɪblɪŋ]
+兄弟或姊妹

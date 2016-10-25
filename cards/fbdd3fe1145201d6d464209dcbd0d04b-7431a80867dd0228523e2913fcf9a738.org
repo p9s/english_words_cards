@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* confess [kənˈfɛs]
+供认;承认;坦白

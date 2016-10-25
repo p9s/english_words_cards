@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* nervous [ˈnɜrvəs]
+神经质的

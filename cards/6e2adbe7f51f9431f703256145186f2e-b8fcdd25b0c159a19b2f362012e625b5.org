@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* golf [gɑlf]
+高尔夫球

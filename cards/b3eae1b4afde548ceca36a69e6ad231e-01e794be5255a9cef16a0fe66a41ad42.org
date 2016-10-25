@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* suffer [ˈʌɚ]
+受苦遭受

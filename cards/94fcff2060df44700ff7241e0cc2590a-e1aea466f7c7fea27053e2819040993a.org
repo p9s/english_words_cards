@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* directly [dɪˈrɛktli;ɪ-]
+直接地;立即

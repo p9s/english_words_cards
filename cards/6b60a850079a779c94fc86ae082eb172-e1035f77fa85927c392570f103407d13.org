@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* illusion [ɪˈluʒən]
+幻想;错觉;假象

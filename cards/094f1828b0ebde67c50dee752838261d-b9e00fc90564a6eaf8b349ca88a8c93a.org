@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* neighborhood [ˈnebɚˌhʊd]
+附近;邻近

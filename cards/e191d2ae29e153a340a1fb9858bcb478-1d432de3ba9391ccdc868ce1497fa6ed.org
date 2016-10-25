@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* meanwhile [ˈminˌhwaɪl;-ˌɪ]
+同时;当时

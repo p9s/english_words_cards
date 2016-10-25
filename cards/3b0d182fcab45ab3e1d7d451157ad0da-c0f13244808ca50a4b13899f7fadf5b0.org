@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* dumb [dʌm]
+哑的;无言的

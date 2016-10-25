@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* suburb [ˈsʌbɜrb]
+郊区;郊外;近郊

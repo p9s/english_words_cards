@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* guitar [ɡɪˈtɑr]
+吉他;六弦琴

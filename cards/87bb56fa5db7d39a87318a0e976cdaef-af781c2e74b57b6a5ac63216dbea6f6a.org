@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* icon [ˈaɪkɑn]
+图符;象征;圣像;偶像

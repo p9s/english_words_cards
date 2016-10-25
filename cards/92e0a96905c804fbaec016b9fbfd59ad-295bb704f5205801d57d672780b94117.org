@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* language [ˈlæŋɡwɪdʒ]
+语言

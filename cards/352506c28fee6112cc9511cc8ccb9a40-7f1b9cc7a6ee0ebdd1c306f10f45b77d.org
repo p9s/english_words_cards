@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* architecture [ˈɑrkɪtektʃə]
+建筑学;建筑式样

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* cargo [ˈkɑrgoʊ]
+船货;货物

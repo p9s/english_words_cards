@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* excitement [ɪkˈsaɪtmənt]
+刺激;兴奋

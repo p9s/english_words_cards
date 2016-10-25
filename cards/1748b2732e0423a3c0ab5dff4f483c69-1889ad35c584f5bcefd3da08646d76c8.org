@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* vertical [ˈvɜrtɪkl]
+垂直的;竖式的

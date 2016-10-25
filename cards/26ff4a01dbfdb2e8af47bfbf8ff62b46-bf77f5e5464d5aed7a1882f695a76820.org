@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* weekend [ˈwikend]
+周末;周末假期

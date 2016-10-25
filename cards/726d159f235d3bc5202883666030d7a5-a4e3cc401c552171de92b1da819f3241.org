@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* ensure [ɛnˈʃʊr]
+保证;保护;赋予

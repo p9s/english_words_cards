@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* payment [ˈpemənt]
+支付;支付的款项

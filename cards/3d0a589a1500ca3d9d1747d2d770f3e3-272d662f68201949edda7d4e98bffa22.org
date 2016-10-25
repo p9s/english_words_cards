@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* contrast [ˈkɑntræst]
+对照;悬殊差别;对比;反差;对比度;使对比;使与…对比;使与…对照形成对比;对比

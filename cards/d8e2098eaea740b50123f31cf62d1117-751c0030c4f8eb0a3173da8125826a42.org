@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* capability [ˌkeɪpə'bɪləti]
+能力;才能;性能

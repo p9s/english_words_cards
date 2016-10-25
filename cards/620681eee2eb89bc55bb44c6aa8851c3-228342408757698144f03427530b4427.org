@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* stadium [ˈstediəm]
+体育场

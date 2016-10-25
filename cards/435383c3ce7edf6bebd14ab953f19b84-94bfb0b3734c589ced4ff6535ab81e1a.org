@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* therefore [ˈðerfɔ]
+因此;所以

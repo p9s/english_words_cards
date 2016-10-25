@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* main [men]
+主要的主要部分

@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* personality [ˌpɜrsəˈnæləti]
+人格;个性;人物

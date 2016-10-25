@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* power [ˈpaʊɚ]
+能力;力;权;幂

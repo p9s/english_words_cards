@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* metal [ˈmɛtl]
+金属
